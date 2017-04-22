@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="14" price="0" name="Island"/>
         <card number="10" price="0" name="Plains"/>
-        <card number="1" price="0" name="AEther Adept"/>
+        <card number="1" price="0" name="Aether Adept"/>
         <card number="1" price="0" name="Arbalest Elite"/>
         <card number="2" price="0" name="Aven Fleetwing"/>
         <card number="2" price="0" name="Benalish Veteran"/>

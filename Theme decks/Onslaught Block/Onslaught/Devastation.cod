@@ -27,7 +27,7 @@
         <card number="1" price="0" name="Erratic Explosion"/>
         <card number="3" price="0" name="Explosive Vegetation"/>
         <card number="1" price="0" name="Thunder of Hooves"/>
-        <card number="1" price="0" name="AEther Charge"/>
+        <card number="1" price="0" name="Aether Charge"/>
         <card number="1" price="0" name="Cryptic Gateway"/>
     </zone>
 </cockatrice_deck>

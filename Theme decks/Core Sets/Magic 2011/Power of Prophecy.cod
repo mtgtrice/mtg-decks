@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="16" price="0" name="Island"/>
         <card number="9" price="0" name="Plains"/>
-        <card number="2" price="0" name="AEther Adept"/>
+        <card number="2" price="0" name="Aether Adept"/>
         <card number="2" price="0" name="Air Servant"/>
         <card number="1" price="0" name="Armored Cancrix"/>
         <card number="2" price="0" name="Augury Owl"/>

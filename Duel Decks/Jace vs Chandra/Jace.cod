@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="23" price="0" name="Island"/>
         <card number="1" price="0" name="Terrain Generator"/>
-        <card number="1" price="0" name="AEthersnipe"/>
+        <card number="1" price="0" name="Aethersnipe"/>
         <card number="1" price="0" name="Air Elemental"/>
         <card number="1" price="0" name="Bottle Gnomes"/>
         <card number="1" price="0" name="Brine Elemental"/>
