@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" price="0" name="Forest"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="2" price="0" name="Vec Townships"/>
+        <card number="3" price="0" name="Master Decoy"/>
+        <card number="2" price="0" name="Soltari Trooper"/>
+        <card number="1" price="0" name="Soltari Crusader"/>
+        <card number="3" price="0" name="Skyshroud Elf"/>
+        <card number="4" price="0" name="Muscle Sliver"/>
+        <card number="3" price="0" name="Pincher Beetles"/>
+        <card number="3" price="0" name="Rootwalla"/>
+        <card number="1" price="0" name="Krakilin"/>
+        <card number="3" price="0" name="Trained Armodon"/>
+        <card number="1" price="0" name="Elven Warhounds"/>
+        <card number="2" price="0" name="Ranger en-Vec"/>
+        <card number="1" price="0" name="Anoint"/>
+        <card number="1" price="0" name="Disenchant"/>
+        <card number="3" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Elvish Fury"/>
+        <card number="1" price="0" name="Needle Storm"/>
+        <card number="1" price="0" name="Aluren"/>
+        <card number="2" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Recycle"/>
+    </zone>
+</cockatrice_deck>

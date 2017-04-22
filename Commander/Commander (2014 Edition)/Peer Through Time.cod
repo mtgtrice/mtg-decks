@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Coral Atoll"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Myriad Landscape"/>
+        <card number="1" price="0" name="Remote Isle"/>
+        <card number="1" price="0" name="Tectonic Edge"/>
+        <card number="1" price="0" name="Zoetic Cavern"/>
+        <card number="31" price="0" name="Island"/>
+        <card number="1" price="0" name="Azure Mage"/>
+        <card number="1" price="0" name="Fathom Seer"/>
+        <card number="1" price="0" name="Fog Bank"/>
+        <card number="1" price="0" name="Willbender"/>
+        <card number="1" price="0" name="Dulcet Sirens"/>
+        <card number="1" price="0" name="Riptide Survivor"/>
+        <card number="1" price="0" name="Sea Gate Oracle"/>
+        <card number="1" price="0" name="Shaper Parasite"/>
+        <card number="1" price="0" name="Reef Worm"/>
+        <card number="1" price="0" name="Mulldrifter"/>
+        <card number="1" price="0" name="Ixidron"/>
+        <card number="1" price="0" name="Stitcher Geralf"/>
+        <card number="1" price="0" name="Stormsurge Kraken"/>
+        <card number="1" price="0" name="Steel Hellkite"/>
+        <card number="1" price="0" name="Brine Elemental"/>
+        <card number="1" price="0" name="Frost Titan"/>
+        <card number="1" price="0" name="Sphinx of Jwar Isle"/>
+        <card number="1" price="0" name="Sphinx of Magosi"/>
+        <card number="1" price="0" name="Phyrexian Ingester"/>
+        <card number="1" price="0" name="Sphinx of Uthuun"/>
+        <card number="1" price="0" name="Hoverguard Sweepers"/>
+        <card number="1" price="0" name="Lorthos, the Tidemaker"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Breaching Leviathan"/>
+        <card number="1" price="0" name="Deep-Sea Kraken"/>
+        <card number="1" price="0" name="Pongify"/>
+        <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Into the Roil"/>
+        <card number="1" price="0" name="Turn to Frog"/>
+        <card number="1" price="0" name="Exclude"/>
+        <card number="1" price="0" name="Cackling Counterpart"/>
+        <card number="1" price="0" name="Domineering Will"/>
+        <card number="1" price="0" name="Dismiss"/>
+        <card number="1" price="0" name="Intellectual Offering"/>
+        <card number="1" price="0" name="Stroke of Genius"/>
+        <card number="1" price="0" name="Call to Mind"/>
+        <card number="1" price="0" name="Compulsive Research"/>
+        <card number="1" price="0" name="Concentrate"/>
+        <card number="1" price="0" name="Rite of Replication"/>
+        <card number="1" price="0" name="Rush of Knowledge"/>
+        <card number="1" price="0" name="AEther Gale"/>
+        <card number="1" price="0" name="Distorting Wake"/>
+        <card number="1" price="0" name="Fool's Demise"/>
+        <card number="1" price="0" name="Infinite Reflection"/>
+        <card number="1" price="0" name="Well of Ideas"/>
+        <card number="1" price="0" name="Assault Suit"/>
+        <card number="1" price="0" name="Commander's Sphere"/>
+        <card number="1" price="0" name="Crown of Doom"/>
+        <card number="1" price="0" name="Dreamstone Hedron"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Mind Stone"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Sapphire Medallion"/>
+        <card number="1" price="0" name="Sky Diamond"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Thran Dynamo"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Unstable Obelisk"/>
+        <card number="1" price="0" name="Ur-Golem's Eye"/>
+        <card number="1" price="0" name="Worn Powerstone"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Teferi, Temporal Archmage"/>
+    </zone>
+</cockatrice_deck>

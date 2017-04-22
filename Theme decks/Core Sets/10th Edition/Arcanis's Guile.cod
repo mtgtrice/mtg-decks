@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="17" price="0" name="Island"/>
+        <card number="2" price="0" name="Sage Owl"/>
+        <card number="2" price="0" name="Cloud Elemental"/>
+        <card number="1" price="0" name="Phantom Warrior"/>
+        <card number="1" price="0" name="Aven Fisher"/>
+        <card number="1" price="0" name="Thieving Magpie"/>
+        <card number="1" price="0" name="Air Elemental"/>
+        <card number="1" price="0" name="Arcanis the Omnipotent"/>
+        <card number="1" price="0" name="Denizen of the Deep"/>
+        <card number="2" price="0" name="Unsummon"/>
+        <card number="2" price="0" name="Remove Soul"/>
+        <card number="1" price="0" name="Telling Time"/>
+        <card number="1" price="0" name="Boomerang"/>
+        <card number="2" price="0" name="Counsel of the Soratami"/>
+        <card number="2" price="0" name="Cancel"/>
+        <card number="1" price="0" name="Tidings"/>
+        <card number="1" price="0" name="Kraken's Eye"/>
+        <card number="1" price="0" name="Rod of Ruin"/>
+    </zone>
+</cockatrice_deck>

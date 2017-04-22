@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Mystic Monastery"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="2" price="0" name="Terramorphic Expanse"/>
+        <card number="2" price="0" name="Aquamorph Entity"/>
+        <card number="1" price="0" name="Arcanis the Omnipotent"/>
+        <card number="2" price="0" name="Coral Trickster"/>
+        <card number="1" price="0" name="Echo Tracer"/>
+        <card number="2" price="0" name="Faerie Impostor"/>
+        <card number="1" price="0" name="Faerie Invaders"/>
+        <card number="2" price="0" name="Fathom Seer"/>
+        <card number="1" price="0" name="Hussar Patrol"/>
+        <card number="1" price="0" name="Jeskai Elder"/>
+        <card number="1" price="0" name="Kor Hookmaster"/>
+        <card number="1" price="0" name="Lightning Angel"/>
+        <card number="1" price="0" name="Lone Missionary"/>
+        <card number="1" price="0" name="Master Decoy"/>
+        <card number="1" price="0" name="Sparkmage Apprentice"/>
+        <card number="1" price="0" name="Sphinx of Uthuun"/>
+        <card number="1" price="0" name="Stonecloaker"/>
+        <card number="1" price="0" name="Thousand Winds"/>
+        <card number="1" price="0" name="Willbender"/>
+        <card number="1" price="0" name="Arrow Volley Trap"/>
+        <card number="1" price="0" name="Fleeting Distraction"/>
+        <card number="1" price="0" name="Hold the Line"/>
+        <card number="1" price="0" name="Impulse"/>
+        <card number="1" price="0" name="Inferno Trap"/>
+        <card number="1" price="0" name="Lightning Helix"/>
+        <card number="1" price="0" name="Mana Leak"/>
+        <card number="1" price="0" name="Repeal"/>
+        <card number="1" price="0" name="Stave Off"/>
+        <card number="1" price="0" name="Steam Augury"/>
+        <card number="1" price="0" name="Swift Justice"/>
+        <card number="2" price="0" name="Traumatic Visions"/>
+        <card number="1" price="0" name="Whiplash Trap"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="17" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Abyssal Specter"/>
+        <card number="2" price="0" name="Deathgazer"/>
+        <card number="2" price="0" name="Dusk Imp"/>
+        <card number="3" price="0" name="Maggot Carrier"/>
+        <card number="4" price="0" name="Ravenous Rats"/>
+        <card number="2" price="0" name="Severed Legion"/>
+        <card number="1" price="0" name="Larceny"/>
+        <card number="2" price="0" name="Megrim"/>
+        <card number="2" price="0" name="Dark Banishing"/>
+        <card number="1" price="0" name="Coercion"/>
+        <card number="1" price="0" name="Sever Soul"/>
+        <card number="1" price="0" name="Disrupting Scepter"/>
+    </zone>
+</cockatrice_deck>

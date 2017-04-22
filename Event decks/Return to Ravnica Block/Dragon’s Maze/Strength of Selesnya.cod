@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="6" price="0" name="Forest"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Grove of the Guardian"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="4" price="0" name="Selesnya Guildgate"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Champion of Lambholt"/>
+        <card number="2" price="0" name="Doomed Traveler"/>
+        <card number="1" price="0" name="Geist-Honored Monk"/>
+        <card number="1" price="0" name="Odric, Master Tactician"/>
+        <card number="2" price="0" name="Vitu-Ghazi Guildmage"/>
+        <card number="1" price="0" name="Wayfaring Temple"/>
+        <card number="1" price="0" name="Advent of the Wurm"/>
+        <card number="4" price="0" name="Call of the Conclave"/>
+        <card number="1" price="0" name="Growing Ranks"/>
+        <card number="1" price="0" name="Increasing Devotion"/>
+        <card number="4" price="0" name="Intangible Virtue"/>
+        <card number="3" price="0" name="Lingering Souls"/>
+        <card number="1" price="0" name="Parallel Lives"/>
+        <card number="2" price="0" name="Rancor"/>
+        <card number="3" price="0" name="Rootborn Defenses"/>
+        <card number="4" price="0" name="Selesnya Charm"/>
+        <card number="4" price="0" name="Wake the Reflections"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Centaur Healer"/>
+        <card number="3" price="0" name="Druid's Deliverance"/>
+        <card number="4" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="3" price="0" name="Sundering Growth"/>
+    </zone>
+</cockatrice_deck>

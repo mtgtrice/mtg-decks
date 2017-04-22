@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Forest"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Svogthos, the Restless Tomb"/>
+        <card number="11" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Drooling Groodion"/>
+        <card number="2" price="0" name="Elves of Deep Shadow"/>
+        <card number="1" price="0" name="Elvish Skysweeper"/>
+        <card number="2" price="0" name="Golgari Brownscale"/>
+        <card number="1" price="0" name="Golgari Grave-Troll"/>
+        <card number="1" price="0" name="Golgari Guildmage"/>
+        <card number="2" price="0" name="Golgari Rotwurm"/>
+        <card number="3" price="0" name="Greater Mossdog"/>
+        <card number="2" price="0" name="Infectious Host"/>
+        <card number="1" price="0" name="Savra, Queen of the Golgari"/>
+        <card number="2" price="0" name="Shambling Shell"/>
+        <card number="2" price="0" name="Stinkweed Imp"/>
+        <card number="1" price="0" name="Thoughtpicker Witch"/>
+        <card number="2" price="0" name="Woodwraith Strangler"/>
+        <card number="1" price="0" name="Moldervine Cloak"/>
+        <card number="1" price="0" name="Necromantic Thirst"/>
+        <card number="2" price="0" name="Darkblast"/>
+        <card number="2" price="0" name="Last Gasp"/>
+        <card number="2" price="0" name="Putrefy"/>
+        <card number="2" price="0" name="Recollect"/>
+        <card number="1" price="0" name="Rolling Spoil"/>
+        <card number="1" price="0" name="Vigor Mortis"/>
+    </zone>
+</cockatrice_deck>

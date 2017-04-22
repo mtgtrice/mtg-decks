@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Crumbling Necropolis"/>
+        <card number="2" price="0" name="Grixis Panorama"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Blood Cultist"/>
+        <card number="1" price="0" name="Dreg Reaver"/>
+        <card number="1" price="0" name="Dregscape Zombie"/>
+        <card number="2" price="0" name="Fire-Field Ogre"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Hidden Horror"/>
+        <card number="2" price="0" name="Incurable Ogre"/>
+        <card number="2" price="0" name="Kederekt Creeper"/>
+        <card number="1" price="0" name="Vein Drinker"/>
+        <card number="1" price="0" name="Vithian Stinger"/>
+        <card number="1" price="0" name="Obelisk of Grixis"/>
+        <card number="2" price="0" name="Agony Warp"/>
+        <card number="2" price="0" name="Terror"/>
+        <card number="2" price="0" name="Blightning"/>
+        <card number="1" price="0" name="Bone Splinters"/>
+        <card number="1" price="0" name="Cruel Ultimatum"/>
+        <card number="1" price="0" name="Essence Drain"/>
+    </zone>
+</cockatrice_deck>

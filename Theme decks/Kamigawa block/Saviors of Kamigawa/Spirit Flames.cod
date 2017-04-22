@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="11" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Arashi, the Sky Asunder"/>
+        <card number="1" price="0" name="Briarknit Kami"/>
+        <card number="2" price="0" name="Burr Grafter"/>
+        <card number="2" price="0" name="Elder Pine of Jukai"/>
+        <card number="2" price="0" name="Forked-Branch Garami"/>
+        <card number="1" price="0" name="Frostling"/>
+        <card number="2" price="0" name="Ghost-Lit Nourisher"/>
+        <card number="2" price="0" name="Ghost-Lit Raider"/>
+        <card number="1" price="0" name="Glitterfang"/>
+        <card number="1" price="0" name="Hana Kami"/>
+        <card number="1" price="0" name="Jiwari, the Earth Aflame"/>
+        <card number="2" price="0" name="Kami of the Tended Garden"/>
+        <card number="2" price="0" name="Petalmane Baku"/>
+        <card number="3" price="0" name="Promised Kannushi"/>
+        <card number="1" price="0" name="Shinen of Life's Roar"/>
+        <card number="1" price="0" name="Venerable Kumo"/>
+        <card number="2" price="0" name="Crushing Pain"/>
+        <card number="1" price="0" name="Devouring Rage"/>
+        <card number="1" price="0" name="Glacial Ray"/>
+        <card number="2" price="0" name="Inner Calm, Outer Strength"/>
+        <card number="1" price="0" name="Kodama's Might"/>
+        <card number="1" price="0" name="Rending Vines"/>
+        <card number="1" price="0" name="Strength of Cedars"/>
+        <card number="2" price="0" name="Unchecked Growth"/>
+    </zone>
+</cockatrice_deck>

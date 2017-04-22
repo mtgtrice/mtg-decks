@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Argent Sphinx"/>
+        <card number="2" price="0" name="Blade-Tribe Berserkers"/>
+        <card number="3" price="0" name="Chrome Steed"/>
+        <card number="2" price="0" name="Embersmith"/>
+        <card number="1" price="0" name="Etched Champion"/>
+        <card number="2" price="0" name="Iron Myr"/>
+        <card number="2" price="0" name="Lumengrid Drake"/>
+        <card number="2" price="0" name="Memnite"/>
+        <card number="2" price="0" name="Riddlesmith"/>
+        <card number="2" price="0" name="Silver Myr"/>
+        <card number="3" price="0" name="Snapsail Glider"/>
+        <card number="2" price="0" name="Trinket Mage"/>
+        <card number="1" price="0" name="Accorder's Shield"/>
+        <card number="1" price="0" name="Darksteel Axe"/>
+        <card number="1" price="0" name="Echo Circlet"/>
+        <card number="1" price="0" name="Golem Foundry"/>
+        <card number="1" price="0" name="Golem's Heart"/>
+        <card number="2" price="0" name="Rusted Relic"/>
+        <card number="1" price="0" name="Sylvok Lifestaff"/>
+        <card number="1" price="0" name="Disperse"/>
+        <card number="3" price="0" name="Galvanic Blast"/>
+    </zone>
+</cockatrice_deck>

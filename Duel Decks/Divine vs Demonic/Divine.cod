@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Plains"/>
+        <card number="2" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Akroma, Angel of Wrath"/>
+        <card number="2" price="0" name="Angel of Mercy"/>
+        <card number="2" price="0" name="Angelic Page"/>
+        <card number="1" price="0" name="Angelic Protector"/>
+        <card number="2" price="0" name="Charging Paladin"/>
+        <card number="2" price="0" name="Icatian Priest"/>
+        <card number="1" price="0" name="Luminous Angel"/>
+        <card number="1" price="0" name="Reya Dawnbringer"/>
+        <card number="2" price="0" name="Serra Advocate"/>
+        <card number="1" price="0" name="Serra Angel"/>
+        <card number="2" price="0" name="Sustainer of the Realm"/>
+        <card number="1" price="0" name="Twilight Shepherd"/>
+        <card number="2" price="0" name="Venerable Monk"/>
+        <card number="1" price="0" name="Angelsong"/>
+        <card number="1" price="0" name="Healing Salve"/>
+        <card number="2" price="0" name="Otherworldly Journey"/>
+        <card number="1" price="0" name="Angelic Benediction"/>
+        <card number="2" price="0" name="Faith's Fetters"/>
+        <card number="1" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Righteous Cause"/>
+        <card number="1" price="0" name="Serra's Boon"/>
+        <card number="1" price="0" name="Serra's Embrace"/>
+        <card number="1" price="0" name="Angel's Feather"/>
+        <card number="2" price="0" name="Marble Diamond"/>
+    </zone>
+</cockatrice_deck>

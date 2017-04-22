@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Mountain"/>
+        <card number="11" price="0" name="Plains"/>
+        <card number="1" price="0" name="Balefire Liege"/>
+        <card number="2" price="0" name="Ballynock Cohort"/>
+        <card number="2" price="0" name="Ballynock Trapper"/>
+        <card number="2" price="0" name="Battlegate Mimic"/>
+        <card number="2" price="0" name="Belligerent Hatchling"/>
+        <card number="2" price="0" name="Duergar Assailant"/>
+        <card number="3" price="0" name="Duergar Mine-Captain"/>
+        <card number="1" price="0" name="Hatchet Bully"/>
+        <card number="1" price="0" name="Hateflayer"/>
+        <card number="3" price="0" name="Hearthfire Hobgoblin"/>
+        <card number="2" price="0" name="Kithkin Spellduster"/>
+        <card number="2" price="0" name="Outrage Shaman"/>
+        <card number="1" price="0" name="Patrol Signaler"/>
+        <card number="1" price="0" name="Safehold Sentry"/>
+        <card number="2" price="0" name="Niveous Wisps"/>
+        <card number="2" price="0" name="Puncture Blast"/>
+        <card number="2" price="0" name="Puncture Bolt"/>
+        <card number="2" price="0" name="Power of Fire"/>
+        <card number="2" price="0" name="Scourge of the Nobilis"/>
+        <card number="1" price="0" name="Revelsong Horn"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Forest"/>
+        <card number="15" price="0" name="Plains"/>
+        <card number="2" price="0" name="Akroan Mastiff"/>
+        <card number="1" price="0" name="Akroan Skyguard"/>
+        <card number="1" price="0" name="Dawnbringer Charioteers"/>
+        <card number="1" price="0" name="Elite Skirmisher"/>
+        <card number="2" price="0" name="Golden Hind"/>
+        <card number="2" price="0" name="Lagonna-Band Trailblazer"/>
+        <card number="1" price="0" name="Oreskos Swiftclaw"/>
+        <card number="1" price="0" name="Phalanx Leader"/>
+        <card number="2" price="0" name="Pheres-Band Thunderhoof"/>
+        <card number="1" price="0" name="Quarry Colossus"/>
+        <card number="1" price="0" name="Skyspear Cavalry"/>
+        <card number="2" price="0" name="Supply-Line Cranes"/>
+        <card number="1" price="0" name="Vanguard of Brimaz"/>
+        <card number="1" price="0" name="Wingsteed Rider"/>
+        <card number="1" price="0" name="Spear of Heliod"/>
+        <card number="2" price="0" name="Banishing Light"/>
+        <card number="1" price="0" name="Font of Vigor"/>
+        <card number="2" price="0" name="Oppressive Rays"/>
+        <card number="1" price="0" name="Raised by Wolves"/>
+        <card number="2" price="0" name="Ajani's Presence"/>
+        <card number="2" price="0" name="Colossal Heroics"/>
+        <card number="1" price="0" name="Consign to Dust"/>
+        <card number="1" price="0" name="Nature's Panoply"/>
+        <card number="1" price="0" name="Phalanx Formation"/>
+        <card number="1" price="0" name="Solidarity of Heroes"/>
+    </zone>
+</cockatrice_deck>

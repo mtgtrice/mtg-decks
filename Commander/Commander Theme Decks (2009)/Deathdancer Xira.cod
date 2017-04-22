@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Darigaaz's Caldera"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Gruul Turf"/>
+        <card number="1" price="0" name="Jund Panorama"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Savage Lands"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Abyssal Gatekeeper"/>
+        <card number="1" price="0" name="Anarchist"/>
+        <card number="1" price="0" name="Anger"/>
+        <card number="1" price="0" name="Avatar of Woe"/>
+        <card number="1" price="0" name="Brawn"/>
+        <card number="1" price="0" name="Carrion Feeder"/>
+        <card number="1" price="0" name="Chartooth Cougar"/>
+        <card number="1" price="0" name="Civic Wayfinder"/>
+        <card number="1" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Flametongue Kavu"/>
+        <card number="1" price="0" name="Genesis"/>
+        <card number="1" price="0" name="Golgari Grave-Troll"/>
+        <card number="1" price="0" name="Golgari Thug"/>
+        <card number="1" price="0" name="Hissing Iguanar"/>
+        <card number="1" price="0" name="Keldon Vandals"/>
+        <card number="1" price="0" name="Krosan Tusker"/>
+        <card number="1" price="0" name="Nezumi Graverobber"/>
+        <card number="1" price="0" name="Penumbra Bobcat"/>
+        <card number="1" price="0" name="Rootbreaker Wurm"/>
+        <card number="1" price="0" name="Sakura-Tribe Elder"/>
+        <card number="1" price="0" name="Shambling Shell"/>
+        <card number="1" price="0" name="Shriekmaw"/>
+        <card number="1" price="0" name="Stinkweed Imp"/>
+        <card number="1" price="0" name="Twisted Abomination"/>
+        <card number="1" price="0" name="Vampiric Dragon"/>
+        <card number="1" price="0" name="Werebear"/>
+        <card number="1" price="0" name="Wickerbough Elder"/>
+        <card number="1" price="0" name="Wild Mongrel"/>
+        <card number="1" price="0" name="Wirewood Guardian"/>
+        <card number="1" price="0" name="Xira Arien"/>
+        <card number="1" price="0" name="Yavimaya Elder"/>
+        <card number="1" price="0" name="All Hallow's Eve"/>
+        <card number="1" price="0" name="Ancient Grudge"/>
+        <card number="1" price="0" name="Animate Dead"/>
+        <card number="1" price="0" name="Ashes to Ashes"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Cauldron Dance"/>
+        <card number="1" price="0" name="Chain Lightning"/>
+        <card number="1" price="0" name="Constant Mists"/>
+        <card number="1" price="0" name="Dread Return"/>
+        <card number="1" price="0" name="Edge of Autumn"/>
+        <card number="1" price="0" name="Elven Cache"/>
+        <card number="1" price="0" name="Explosive Vegetation"/>
+        <card number="1" price="0" name="Fires of Yavimaya"/>
+        <card number="1" price="0" name="Golgari Signet"/>
+        <card number="1" price="0" name="Grim Harvest"/>
+        <card number="1" price="0" name="Gruul Signet"/>
+        <card number="1" price="0" name="Harmonize"/>
+        <card number="1" price="0" name="Kodama's Reach"/>
+        <card number="1" price="0" name="Life from the Loam"/>
+        <card number="1" price="0" name="Lightning Bolt"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Massacre"/>
+        <card number="1" price="0" name="Phyrexian Arena"/>
+        <card number="1" price="0" name="Putrefy"/>
+        <card number="1" price="0" name="Rakdos Signet"/>
+        <card number="1" price="0" name="Reaping the Graves"/>
+        <card number="1" price="0" name="Recollect"/>
+        <card number="1" price="0" name="Resounding Thunder"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Terminate"/>
+        <card number="1" price="0" name="Terror"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Xira Arien"/>
+    </zone>
+</cockatrice_deck>

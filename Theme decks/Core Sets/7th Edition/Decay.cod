@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Abyssal Specter"/>
+        <card number="2" price="0" name="Blood Pet"/>
+        <card number="1" price="0" name="Bog Imp"/>
+        <card number="1" price="0" name="Crypt Rats"/>
+        <card number="1" price="0" name="Dakmor Lancer"/>
+        <card number="2" price="0" name="Drudge Skeletons"/>
+        <card number="1" price="0" name="Fallen Angel"/>
+        <card number="1" price="0" name="Foul Imp"/>
+        <card number="2" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Looming Shade"/>
+        <card number="1" price="0" name="Serpent Warrior"/>
+        <card number="1" price="0" name="Greed"/>
+        <card number="2" price="0" name="Dark Banishing"/>
+        <card number="1" price="0" name="Befoul"/>
+        <card number="1" price="0" name="Corrupt"/>
+        <card number="1" price="0" name="Duress"/>
+        <card number="1" price="0" name="Mind Rot"/>
+        <card number="1" price="0" name="Ostracize"/>
+        <card number="1" price="0" name="Charcoal Diamond"/>
+        <card number="1" price="0" name="Phyrexian Hulk"/>
+    </zone>
+</cockatrice_deck>

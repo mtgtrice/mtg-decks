@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Dimir Guildgate"/>
+        <card number="12" price="0" name="Island"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Balustrade Spy"/>
+        <card number="1" price="0" name="Consuming Aberration"/>
+        <card number="2" price="0" name="Deathcult Rogue"/>
+        <card number="2" price="0" name="Dinrova Horror"/>
+        <card number="1" price="0" name="Duskmantle Guildmage"/>
+        <card number="3" price="0" name="Gutter Skulk"/>
+        <card number="1" price="0" name="Incursion Specialist"/>
+        <card number="1" price="0" name="Jace's Phantasm"/>
+        <card number="1" price="0" name="Mindeye Drake"/>
+        <card number="1" price="0" name="Mortus Strider"/>
+        <card number="1" price="0" name="Sage's Row Denizen"/>
+        <card number="1" price="0" name="Vedalken Entrancer"/>
+        <card number="1" price="0" name="Welkin Tern"/>
+        <card number="2" price="0" name="Wight of Precinct Six"/>
+        <card number="2" price="0" name="Death's Approach"/>
+        <card number="2" price="0" name="Grisly Spectacle"/>
+        <card number="1" price="0" name="Totally Lost"/>
+        <card number="1" price="0" name="Coerced Confession"/>
+        <card number="1" price="0" name="Last Thoughts"/>
+        <card number="1" price="0" name="Midnight Recovery"/>
+        <card number="1" price="0" name="Paranoid Delusions"/>
+        <card number="1" price="0" name="Rise from the Grave"/>
+        <card number="1" price="0" name="Shadow Slice"/>
+        <card number="1" price="0" name="Whispering Madness"/>
+        <card number="2" price="0" name="Dimir Keyrune"/>
+    </zone>
+</cockatrice_deck>

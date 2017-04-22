@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="23" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="2" price="0" name="Bloodghast"/>
+        <card number="4" price="0" name="Bloodthrone Vampire"/>
+        <card number="4" price="0" name="Gatekeeper of Malakir"/>
+        <card number="1" price="0" name="Kalastria Highborn"/>
+        <card number="4" price="0" name="Pawn of Ulamog"/>
+        <card number="1" price="0" name="Vampire Hexmage"/>
+        <card number="4" price="0" name="Vampire Lacerator"/>
+        <card number="2" price="0" name="Vampire Nighthawk"/>
+        <card number="3" price="0" name="Vampire Outcasts"/>
+        <card number="4" price="0" name="Viscera Seer"/>
+        <card number="2" price="0" name="Blade of the Bloodchief"/>
+        <card number="1" price="0" name="Mimic Vat"/>
+        <card number="4" price="0" name="Dismember"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Distress"/>
+        <card number="2" price="0" name="Go for the Throat"/>
+        <card number="4" price="0" name="Skinrender"/>
+        <card number="3" price="0" name="Vampire Hexmage"/>
+        <card number="2" price="0" name="Vampire Nighthawk"/>
+    </zone>
+</cockatrice_deck>

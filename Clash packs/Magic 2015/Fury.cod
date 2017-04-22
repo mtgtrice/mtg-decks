@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Elvish Mystic"/>
+        <card number="2" price="0" name="Voyaging Satyr"/>
+        <card number="1" price="0" name="Nessian Courser"/>
+        <card number="1" price="0" name="Courser of Kruphix"/>
+        <card number="2" price="0" name="Ill-Tempered Cyclops"/>
+        <card number="3" price="0" name="Karametra's Acolyte"/>
+        <card number="3" price="0" name="Nylea's Disciple"/>
+        <card number="3" price="0" name="Nessian Game Warden"/>
+        <card number="1" price="0" name="Arbor Colossus"/>
+        <card number="2" price="0" name="Nemesis of Mortals"/>
+        <card number="1" price="0" name="Hydra Broodmaster"/>
+        <card number="2" price="0" name="Generator Servant"/>
+        <card number="2" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Genesis Hydra"/>
+        <card number="2" price="0" name="Lightning Strike"/>
+        <card number="2" price="0" name="Plummet"/>
+        <card number="1" price="0" name="Boulderfall"/>
+        <card number="1" price="0" name="Fated Intervention"/>
+        <card number="1" price="0" name="Font of Fertility"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="16" price="0" name="Forest"/>
+        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
+    </zone>
+</cockatrice_deck>

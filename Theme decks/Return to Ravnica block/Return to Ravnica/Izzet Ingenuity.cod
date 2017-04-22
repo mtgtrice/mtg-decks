@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Izzet Guildgate"/>
+        <card number="2" price="0" name="Blistercoil Weird"/>
+        <card number="3" price="0" name="Cobblebrute"/>
+        <card number="2" price="0" name="Goblin Electromancer"/>
+        <card number="2" price="0" name="Guttersnipe"/>
+        <card number="1" price="0" name="Hypersonic Dragon"/>
+        <card number="1" price="0" name="Nivix Guildmage"/>
+        <card number="3" price="0" name="Runewing"/>
+        <card number="1" price="0" name="Tenement Crasher"/>
+        <card number="1" price="0" name="Welkin Tern"/>
+        <card number="1" price="0" name="Pursuit of Flight"/>
+        <card number="2" price="0" name="Annihilating Fire"/>
+        <card number="1" price="0" name="Blustersquall"/>
+        <card number="1" price="0" name="Chandra's Fury"/>
+        <card number="1" price="0" name="Downsize"/>
+        <card number="2" price="0" name="Electrickery"/>
+        <card number="1" price="0" name="Explosive Impact"/>
+        <card number="1" price="0" name="Thoughtflare"/>
+        <card number="2" price="0" name="Goblin Rally"/>
+        <card number="2" price="0" name="Krenko's Command"/>
+        <card number="1" price="0" name="Mizzium Mortars"/>
+        <card number="1" price="0" name="Teleportal"/>
+        <card number="1" price="0" name="Wild Guess"/>
+        <card number="2" price="0" name="Izzet Keyrune"/>
+    </zone>
+</cockatrice_deck>

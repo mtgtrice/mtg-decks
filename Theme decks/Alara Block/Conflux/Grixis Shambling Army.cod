@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Crumbling Necropolis"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Blood Tyrant"/>
+        <card number="1" price="0" name="Brackwater Elemental"/>
+        <card number="1" price="0" name="Dregscape Zombie"/>
+        <card number="1" price="0" name="Extractor Demon"/>
+        <card number="1" price="0" name="Fire-Field Ogre"/>
+        <card number="2" price="0" name="Grixis Slavedriver"/>
+        <card number="2" price="0" name="Kathari Screecher"/>
+        <card number="1" price="0" name="Kederekt Creeper"/>
+        <card number="1" price="0" name="Pestilent Kathari"/>
+        <card number="2" price="0" name="Sedraxis Alchemist"/>
+        <card number="2" price="0" name="Zombie Outlander"/>
+        <card number="1" price="0" name="Bone Saw"/>
+        <card number="1" price="0" name="Elder Mastery"/>
+        <card number="1" price="0" name="Agony Warp"/>
+        <card number="2" price="0" name="Shock"/>
+        <card number="1" price="0" name="Terror"/>
+        <card number="2" price="0" name="Absorb Vis"/>
+        <card number="1" price="0" name="Infest"/>
+    </zone>
+</cockatrice_deck>

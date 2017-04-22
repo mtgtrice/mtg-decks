@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Abyssal Gatekeeper"/>
+        <card number="1" price="0" name="Abyssal Specter"/>
+        <card number="1" price="0" name="Cackling Imp"/>
+        <card number="1" price="0" name="Daggerclaw Imp"/>
+        <card number="2" price="0" name="Demon's Jester"/>
+        <card number="2" price="0" name="Dusk Imp"/>
+        <card number="1" price="0" name="Fallen Angel"/>
+        <card number="1" price="0" name="Foul Imp"/>
+        <card number="1" price="0" name="Kuro, Pitlord"/>
+        <card number="1" price="0" name="Lord of the Pit"/>
+        <card number="2" price="0" name="Overeager Apprentice"/>
+        <card number="1" price="0" name="Reiver Demon"/>
+        <card number="1" price="0" name="Soot Imp"/>
+        <card number="1" price="0" name="Souldrinker"/>
+        <card number="1" price="0" name="Stinkweed Imp"/>
+        <card number="1" price="0" name="Dark Banishing"/>
+        <card number="2" price="0" name="Dark Ritual"/>
+        <card number="1" price="0" name="Barter in Blood"/>
+        <card number="1" price="0" name="Consume Spirit"/>
+        <card number="1" price="0" name="Corrupt"/>
+        <card number="1" price="0" name="Cruel Edict"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Duress"/>
+        <card number="1" price="0" name="Promise of Power"/>
+        <card number="2" price="0" name="Breeding Pit"/>
+        <card number="1" price="0" name="Oni Possession"/>
+        <card number="2" price="0" name="Unholy Strength"/>
+        <card number="1" price="0" name="Demon's Horn"/>
+    </zone>
+</cockatrice_deck>

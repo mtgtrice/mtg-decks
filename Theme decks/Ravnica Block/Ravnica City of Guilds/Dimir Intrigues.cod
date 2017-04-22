@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Duskmantle, House of Shadow"/>
+        <card number="11" price="0" name="Island"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Belltower Sphinx"/>
+        <card number="1" price="0" name="Dimir Guildmage"/>
+        <card number="2" price="0" name="Dimir House Guard"/>
+        <card number="2" price="0" name="Dimir Infiltrator"/>
+        <card number="2" price="0" name="Lore Broker"/>
+        <card number="3" price="0" name="Lurking Informant"/>
+        <card number="1" price="0" name="Mausoleum Turnkey"/>
+        <card number="2" price="0" name="Sewerdreg"/>
+        <card number="1" price="0" name="Szadek, Lord of Secrets"/>
+        <card number="3" price="0" name="Vedalken Entrancer"/>
+        <card number="2" price="0" name="Wizened Snitches"/>
+        <card number="1" price="0" name="Dream Leash"/>
+        <card number="1" price="0" name="Clutch of the Undercity"/>
+        <card number="2" price="0" name="Disembowel"/>
+        <card number="2" price="0" name="Induce Paranoia"/>
+        <card number="2" price="0" name="Last Gasp"/>
+        <card number="3" price="0" name="Consult the Necrosages"/>
+        <card number="2" price="0" name="Psychic Drain"/>
+        <card number="1" price="0" name="Ribbons of Night"/>
+        <card number="1" price="0" name="Dimir Signet"/>
+    </zone>
+</cockatrice_deck>

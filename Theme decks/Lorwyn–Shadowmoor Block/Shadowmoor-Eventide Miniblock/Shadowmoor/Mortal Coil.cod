@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Chainbreaker"/>
+        <card number="1" price="0" name="Faerie Macabre"/>
+        <card number="3" price="0" name="Gravelgill Axeshark"/>
+        <card number="1" price="0" name="Grim Poppet"/>
+        <card number="1" price="0" name="Inkfathom Infiltrator"/>
+        <card number="1" price="0" name="Inkfathom Witch"/>
+        <card number="2" price="0" name="Leech Bonder"/>
+        <card number="1" price="0" name="Loch Korrigan"/>
+        <card number="1" price="0" name="Oona's Gatewarden"/>
+        <card number="1" price="0" name="River Kelpie"/>
+        <card number="1" price="0" name="Sickle Ripper"/>
+        <card number="2" price="0" name="Wanderbrine Rootcutters"/>
+        <card number="2" price="0" name="Wasp Lancer"/>
+        <card number="3" price="0" name="Wingrattle Scarecrow"/>
+        <card number="2" price="0" name="Fate Transfer"/>
+        <card number="1" price="0" name="Gloomlance"/>
+        <card number="1" price="0" name="Incremental Blight"/>
+        <card number="2" price="0" name="River's Grasp"/>
+        <card number="2" price="0" name="Scarscale Ritual"/>
+        <card number="1" price="0" name="Biting Tether"/>
+        <card number="1" price="0" name="Helm of the Ghastlord"/>
+        <card number="1" price="0" name="Torture"/>
+        <card number="1" price="0" name="Gnarled Effigy"/>
+        <card number="2" price="0" name="Trip Noose"/>
+    </zone>
+</cockatrice_deck>

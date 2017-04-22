@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="1" price="0" name="Seafloor Debris"/>
+        <card number="1" price="0" name="Timberland Ruins"/>
+        <card number="2" price="0" name="Cephalid Looter"/>
+        <card number="2" price="0" name="Crashing Centaur"/>
+        <card number="2" price="0" name="Diligent Farmhand"/>
+        <card number="1" price="0" name="Ivy Elemental"/>
+        <card number="2" price="0" name="Krosan Avenger"/>
+        <card number="2" price="0" name="Metamorphic Wurm"/>
+        <card number="2" price="0" name="Nimble Mongoose"/>
+        <card number="2" price="0" name="Springing Tiger"/>
+        <card number="1" price="0" name="Stone-Tongue Basilisk"/>
+        <card number="1" price="0" name="Twigwalker"/>
+        <card number="2" price="0" name="Werebear"/>
+        <card number="2" price="0" name="Wild Mongrel"/>
+        <card number="1" price="0" name="Deluge"/>
+        <card number="2" price="0" name="Muscle Burst"/>
+        <card number="2" price="0" name="Peek"/>
+        <card number="2" price="0" name="Predict"/>
+        <card number="2" price="0" name="Repel"/>
+        <card number="1" price="0" name="Sylvan Might"/>
+        <card number="2" price="0" name="Careful Study"/>
+        <card number="1" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Roar of the Wurm"/>
+        <card number="1" price="0" name="Seton's Desire"/>
+    </zone>
+</cockatrice_deck>

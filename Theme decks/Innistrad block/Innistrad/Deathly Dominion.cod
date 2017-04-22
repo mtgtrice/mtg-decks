@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="11" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Ambush Viper"/>
+        <card number="1" price="0" name="Brain Weevil"/>
+        <card number="2" price="0" name="Devouring Swarm"/>
+        <card number="2" price="0" name="Disciple of Griselbrand"/>
+        <card number="2" price="0" name="Festerhide Boar"/>
+        <card number="2" price="0" name="Hollowhenge Scavenger"/>
+        <card number="2" price="0" name="Lumberknot"/>
+        <card number="1" price="0" name="Moldgraf Monstrosity"/>
+        <card number="2" price="0" name="Morkrut Banshee"/>
+        <card number="2" price="0" name="Reassembling Skeleton"/>
+        <card number="1" price="0" name="Skirsdag High Priest"/>
+        <card number="1" price="0" name="Somberwald Spider"/>
+        <card number="1" price="0" name="Typhoid Rats"/>
+        <card number="2" price="0" name="Warpath Ghoul"/>
+        <card number="2" price="0" name="Woodland Sleuth"/>
+        <card number="1" price="0" name="Demonmail Hauberk"/>
+        <card number="2" price="0" name="Dead Weight"/>
+        <card number="1" price="0" name="Altar's Reap"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Naturalize"/>
+        <card number="2" price="0" name="Caravan Vigil"/>
+        <card number="1" price="0" name="Make a Wish"/>
+        <card number="1" price="0" name="Prey Upon"/>
+        <card number="2" price="0" name="Rampant Growth"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Arcane Lighthouse"/>
+        <card number="1" price="0" name="Buried Ruin"/>
+        <card number="1" price="0" name="Dormant Volcano"/>
+        <card number="1" price="0" name="Flamekin Village"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Phyrexia's Core"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Smoldering Crater"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="29" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Goblin Welder"/>
+        <card number="1" price="0" name="Epochrasite"/>
+        <card number="1" price="0" name="Myr Retriever"/>
+        <card number="1" price="0" name="Myr Sire"/>
+        <card number="1" price="0" name="Bottle Gnomes"/>
+        <card number="1" price="0" name="Cathodion"/>
+        <card number="1" price="0" name="Junk Diver"/>
+        <card number="1" price="0" name="Palladium Myr"/>
+        <card number="1" price="0" name="Pilgrim's Eye"/>
+        <card number="1" price="0" name="Tuktuk the Explorer"/>
+        <card number="1" price="0" name="Dualcaster Mage"/>
+        <card number="1" price="0" name="Feldon of the Third Path"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Flametongue Kavu"/>
+        <card number="1" price="0" name="Beetleback Chief"/>
+        <card number="1" price="0" name="Ingot Chewer"/>
+        <card number="1" price="0" name="Steel Hellkite"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Spitebellows"/>
+        <card number="1" price="0" name="Hoard-Smelter Dragon"/>
+        <card number="1" price="0" name="Warmonger Hellkite"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="1" price="0" name="Pentavus"/>
+        <card number="1" price="0" name="Tyrant's Familiar"/>
+        <card number="1" price="0" name="Bosh, Iron Golem"/>
+        <card number="1" price="0" name="Bogardan Hellkite"/>
+        <card number="1" price="0" name="Impact Resonance"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Volcanic Offering"/>
+        <card number="1" price="0" name="Word of Seizing"/>
+        <card number="1" price="0" name="Magmaquake"/>
+        <card number="1" price="0" name="Starstorm"/>
+        <card number="1" price="0" name="Faithless Looting"/>
+        <card number="1" price="0" name="Whipflare"/>
+        <card number="1" price="0" name="Scrap Mastery"/>
+        <card number="1" price="0" name="Incite Rebellion"/>
+        <card number="1" price="0" name="Blasphemous Act"/>
+        <card number="1" price="0" name="Bitter Feud"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Panic Spellbomb"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Wayfarer's Bauble"/>
+        <card number="1" price="0" name="Fire Diamond"/>
+        <card number="1" price="0" name="Ichor Wellspring"/>
+        <card number="1" price="0" name="Liquimetal Coating"/>
+        <card number="1" price="0" name="Mind Stone"/>
+        <card number="1" price="0" name="Mycosynth Wellspring"/>
+        <card number="1" price="0" name="Ruby Medallion"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Commander's Sphere"/>
+        <card number="1" price="0" name="Jalum Tome"/>
+        <card number="1" price="0" name="Pristine Talisman"/>
+        <card number="1" price="0" name="Unstable Obelisk"/>
+        <card number="1" price="0" name="Trading Post"/>
+        <card number="1" price="0" name="Caged Sun"/>
+        <card number="1" price="0" name="Dreamstone Hedron"/>
+        <card number="1" price="0" name="Loreseeker's Stone"/>
+        <card number="1" price="0" name="Spine of Ish Sah"/>
+        <card number="1" price="0" name="Darksteel Citadel"/>
+        <card number="1" price="0" name="Great Furnace"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Daretti, Scrap Savant"/>
+    </zone>
+</cockatrice_deck>

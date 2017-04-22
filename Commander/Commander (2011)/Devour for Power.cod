@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Dreadship Reef"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Simic Growth Chamber"/>
+        <card number="1" price="0" name="Svogthos, the Restless Tomb"/>
+        <card number="11" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Acidic Slime"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Avatar of Woe"/>
+        <card number="1" price="0" name="Brawn"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="1" price="0" name="Damia, Sage of Stone"/>
+        <card number="1" price="0" name="Dark Hatchling"/>
+        <card number="1" price="0" name="Desecrator Hag"/>
+        <card number="1" price="0" name="Dreamborn Muse"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Extractor Demon"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Lhurgoyf"/>
+        <card number="1" price="0" name="Mortivore"/>
+        <card number="1" price="0" name="Mulldrifter"/>
+        <card number="1" price="0" name="Nezumi Graverobber"/>
+        <card number="1" price="0" name="Patron of the Nezumi"/>
+        <card number="1" price="0" name="Riddlekeeper"/>
+        <card number="1" price="0" name="Scythe Specter"/>
+        <card number="1" price="0" name="Sewer Nemesis"/>
+        <card number="1" price="0" name="Skullbriar, the Walking Grave"/>
+        <card number="1" price="0" name="Slipstream Eel"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Szadek, Lord of Secrets"/>
+        <card number="1" price="0" name="Triskelavus"/>
+        <card number="1" price="0" name="Troll Ascetic"/>
+        <card number="1" price="0" name="Vorosh, the Hunter"/>
+        <card number="1" price="0" name="Vulturous Zombie"/>
+        <card number="1" price="0" name="Wonder"/>
+        <card number="1" price="0" name="Wrexial, the Risen Deep"/>
+        <card number="1" price="0" name="Yavimaya Elder"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Dimir Signet"/>
+        <card number="1" price="0" name="Fact or Fiction"/>
+        <card number="1" price="0" name="Golgari Signet"/>
+        <card number="1" price="0" name="Grave Pact"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Living Death"/>
+        <card number="1" price="0" name="Memory Erosion"/>
+        <card number="1" price="0" name="Minds Aglow"/>
+        <card number="1" price="0" name="Oblivion Stone"/>
+        <card number="1" price="0" name="Relic Crush"/>
+        <card number="1" price="0" name="Rise from the Grave"/>
+        <card number="1" price="0" name="Shared Trauma"/>
+        <card number="1" price="0" name="Sign in Blood"/>
+        <card number="1" price="0" name="Simic Signet"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Spell Crumple"/>
+        <card number="1" price="0" name="Stitch Together"/>
+        <card number="1" price="0" name="Syphon Flesh"/>
+        <card number="1" price="0" name="Syphon Mind"/>
+        <card number="1" price="0" name="Tribute to the Wild"/>
+        <card number="1" price="0" name="Unnerve"/>
+        <card number="1" price="0" name="Vow of Flight"/>
+        <card number="1" price="0" name="Vow of Malice"/>
+        <card number="1" price="0" name="Vow of Wildness"/>
+        <card number="1" price="0" name="Windfall"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="The Mimeoplasm"/>
+    </zone>
+</cockatrice_deck>

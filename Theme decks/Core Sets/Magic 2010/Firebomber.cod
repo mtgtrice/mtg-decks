@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="5" price="0" name="Island"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Berserkers of Blood Ridge"/>
+        <card number="1" price="0" name="Canyon Minotaur"/>
+        <card number="1" price="0" name="Dragon Whelp"/>
+        <card number="1" price="0" name="Fiery Hellhound"/>
+        <card number="1" price="0" name="Goblin Artillery"/>
+        <card number="1" price="0" name="Goblin Piker"/>
+        <card number="2" price="0" name="Lightning Elemental"/>
+        <card number="1" price="0" name="Prodigal Pyromancer"/>
+        <card number="1" price="0" name="Raging Goblin"/>
+        <card number="1" price="0" name="Shivan Dragon"/>
+        <card number="1" price="0" name="Wall of Fire"/>
+        <card number="2" price="0" name="Lightning Bolt"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="2" price="0" name="Seismic Strike"/>
+        <card number="1" price="0" name="Divination"/>
+        <card number="1" price="0" name="Earthquake"/>
+        <card number="1" price="0" name="Fireball"/>
+        <card number="1" price="0" name="Lava Axe"/>
+        <card number="1" price="0" name="Pyroclasm"/>
+        <card number="1" price="0" name="Sleep"/>
+    </zone>
+</cockatrice_deck>

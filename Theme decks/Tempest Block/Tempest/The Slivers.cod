@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Winged Sliver"/>
+        <card number="3" price="0" name="Mnemonic Sliver"/>
+        <card number="4" price="0" name="Clot Sliver"/>
+        <card number="1" price="0" name="Mindwhip Sliver"/>
+        <card number="4" price="0" name="Metallic Sliver"/>
+        <card number="1" price="0" name="Whispers of the Muse"/>
+        <card number="1" price="0" name="Ertai's Meddling"/>
+        <card number="2" price="0" name="Power Sink"/>
+        <card number="1" price="0" name="Spell Blast"/>
+        <card number="2" price="0" name="Counterspell"/>
+        <card number="2" price="0" name="Dream Cache"/>
+        <card number="1" price="0" name="Dismiss"/>
+        <card number="2" price="0" name="Diabolic Edict"/>
+        <card number="1" price="0" name="Fevered Convulsions"/>
+        <card number="2" price="0" name="Dark Banishing"/>
+        <card number="1" price="0" name="Evincar's Justice"/>
+        <card number="1" price="0" name="Extinction"/>
+        <card number="1" price="0" name="Lobotomy"/>
+        <card number="1" price="0" name="Essence Bottle"/>
+        <card number="13" price="0" name="Island"/>
+        <card number="1" price="0" name="Rootwater Depths"/>
+        <card number="11" price="0" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" price="0" name="Snow-Covered Forest"/>
+        <card number="8" price="0" name="Snow-Covered Mountain"/>
+        <card number="2" price="0" name="Highland Weald"/>
+        <card number="3" price="0" name="Aurochs"/>
+        <card number="3" price="0" name="Aurochs Herd"/>
+        <card number="2" price="0" name="Boreal Druid"/>
+        <card number="4" price="0" name="Bull Aurochs"/>
+        <card number="1" price="0" name="Deadly Insect"/>
+        <card number="2" price="0" name="Earthen Goo"/>
+        <card number="2" price="0" name="Frostweb Spider"/>
+        <card number="1" price="0" name="Giant Trap Door Spider"/>
+        <card number="1" price="0" name="Gorilla Shaman"/>
+        <card number="1" price="0" name="Orcish Lumberjack"/>
+        <card number="2" price="0" name="Rimehorn Aurochs"/>
+        <card number="1" price="0" name="Stalking Yeti"/>
+        <card number="2" price="0" name="Tinder Wall"/>
+        <card number="2" price="0" name="Woolly Mammoths"/>
+        <card number="2" price="0" name="Balduvian Rage"/>
+        <card number="1" price="0" name="Bounty of the Hunt"/>
+        <card number="2" price="0" name="Incinerate"/>
+        <card number="1" price="0" name="Resize"/>
+        <card number="1" price="0" name="Hibernation's End"/>
+        <card number="1" price="0" name="Shape of the Wiitigo"/>
+        <card number="1" price="0" name="Whalebone Glider"/>
+    </zone>
+</cockatrice_deck>

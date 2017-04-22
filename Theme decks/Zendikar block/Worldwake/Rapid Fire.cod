@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="7" price="0" name="Mountain"/>
+        <card number="9" price="0" name="Plains"/>
+        <card number="2" price="0" name="Teetering Peaks"/>
+        <card number="2" price="0" name="Cosi's Ravager"/>
+        <card number="1" price="0" name="Dragon Whelp"/>
+        <card number="1" price="0" name="Fledgling Griffin"/>
+        <card number="1" price="0" name="Geyser Glider"/>
+        <card number="1" price="0" name="Goblin Roughrider"/>
+        <card number="1" price="0" name="Grotag Thrasher"/>
+        <card number="1" price="0" name="Kor Cartographer"/>
+        <card number="1" price="0" name="Kor Firewalker"/>
+        <card number="1" price="0" name="Kor Skyfisher"/>
+        <card number="1" price="0" name="Mordant Dragon"/>
+        <card number="2" price="0" name="Pilgrim's Eye"/>
+        <card number="1" price="0" name="Prodigal Pyromancer"/>
+        <card number="1" price="0" name="Ruin Ghost"/>
+        <card number="1" price="0" name="Steppe Lynx"/>
+        <card number="1" price="0" name="Narrow Escape"/>
+        <card number="2" price="0" name="Searing Blaze"/>
+        <card number="1" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Chain Reaction"/>
+        <card number="1" price="0" name="Magma Rift"/>
+        <card number="1" price="0" name="Armored Ascension"/>
+    </zone>
+</cockatrice_deck>

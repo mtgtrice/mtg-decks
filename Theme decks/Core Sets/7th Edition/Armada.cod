@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="15" price="0" name="Plains"/>
+        <card number="1" price="0" name="Angelic Page"/>
+        <card number="1" price="0" name="Crossbow Infantry"/>
+        <card number="2" price="0" name="Eager Cadet"/>
+        <card number="1" price="0" name="Heavy Ballista"/>
+        <card number="2" price="0" name="Knight Errant"/>
+        <card number="2" price="0" name="Longbow Archer"/>
+        <card number="1" price="0" name="Master Healer"/>
+        <card number="1" price="0" name="Razorfoot Griffin"/>
+        <card number="2" price="0" name="Samite Healer"/>
+        <card number="1" price="0" name="Serra Advocate"/>
+        <card number="2" price="0" name="Standing Troops"/>
+        <card number="1" price="0" name="Glorious Anthem"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="2" price="0" name="Serra's Embrace"/>
+        <card number="1" price="0" name="Spirit Link"/>
+        <card number="1" price="0" name="Disenchant"/>
+        <card number="2" price="0" name="Healing Salve"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Boros Garrison"/>
+        <card number="1" price="0" name="Boros Guildgate"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Contested Cliffs"/>
+        <card number="1" price="0" name="Drifting Meadow"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="1" price="0" name="Gruul Guildgate"/>
+        <card number="1" price="0" name="Homeward Path"/>
+        <card number="1" price="0" name="Jungle Shrine"/>
+        <card number="1" price="0" name="Khalni Garden"/>
+        <card number="1" price="0" name="Mosswort Bridge"/>
+        <card number="5" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Naya Panorama"/>
+        <card number="1" price="0" name="New Benalia"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="4" price="0" name="Plains"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Selesnya Guildgate"/>
+        <card number="1" price="0" name="Selesnya Sanctuary"/>
+        <card number="1" price="0" name="Slippery Karst"/>
+        <card number="1" price="0" name="Smoldering Crater"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Vitu-Ghazi, the City-Tree"/>
+        <card number="1" price="0" name="Vivid Crag"/>
+        <card number="1" price="0" name="Archangel"/>
+        <card number="1" price="0" name="Avenger of Zendikar"/>
+        <card number="1" price="0" name="Baloth Woodcrasher"/>
+        <card number="1" price="0" name="Crater Hellion"/>
+        <card number="1" price="0" name="Deadwood Treefolk"/>
+        <card number="1" price="0" name="Drumhunter"/>
+        <card number="1" price="0" name="Eternal Dragon"/>
+        <card number="1" price="0" name="Gahiji, Honored One"/>
+        <card number="1" price="0" name="Grazing Gladehart"/>
+        <card number="1" price="0" name="Krosan Tusker"/>
+        <card number="1" price="0" name="Krosan Warchief"/>
+        <card number="1" price="0" name="Magus of the Arena"/>
+        <card number="1" price="0" name="Mayael the Anima"/>
+        <card number="1" price="0" name="Mold Shambler"/>
+        <card number="1" price="0" name="Naya Soulbeast"/>
+        <card number="1" price="0" name="Rakeclaw Gargantuan"/>
+        <card number="1" price="0" name="Rampaging Baloths"/>
+        <card number="1" price="0" name="Ravenous Baloth"/>
+        <card number="1" price="0" name="Spellbreaker Behemoth"/>
+        <card number="1" price="0" name="Spitebellows"/>
+        <card number="1" price="0" name="Terra Ravager"/>
+        <card number="1" price="0" name="Valley Rannet"/>
+        <card number="1" price="0" name="Behemoth Sledge"/>
+        <card number="1" price="0" name="Boros Charm"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Curse of Chaos"/>
+        <card number="1" price="0" name="Curse of Predation"/>
+        <card number="1" price="0" name="Curse of the Forsaken"/>
+        <card number="1" price="0" name="Darksteel Mutation"/>
+        <card number="1" price="0" name="Druidic Satchel"/>
+        <card number="1" price="0" name="Fiery Justice"/>
+        <card number="1" price="0" name="Fireball"/>
+        <card number="1" price="0" name="Fires of Yavimaya"/>
+        <card number="1" price="0" name="From the Ashes"/>
+        <card number="1" price="0" name="Harmonize"/>
+        <card number="1" price="0" name="Hull Breach"/>
+        <card number="1" price="0" name="Mystic Barrier"/>
+        <card number="1" price="0" name="Naya Charm"/>
+        <card number="1" price="0" name="One Dozen Eyes"/>
+        <card number="1" price="0" name="Rain of Thorns"/>
+        <card number="1" price="0" name="Restore"/>
+        <card number="1" price="0" name="Savage Twister"/>
+        <card number="1" price="0" name="Seer's Sundial"/>
+        <card number="1" price="0" name="Slice and Dice"/>
+        <card number="1" price="0" name="Slice in Twain"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Spawning Grounds"/>
+        <card number="1" price="0" name="Sprouting Vines"/>
+        <card number="1" price="0" name="Street Spasm"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Tempt with Discovery"/>
+        <card number="1" price="0" name="Tower of Fortunes"/>
+        <card number="1" price="0" name="War Cadence"/>
+        <card number="1" price="0" name="Warstorm Surge"/>
+        <card number="1" price="0" name="Where Ancients Tread"/>
+        <card number="1" price="0" name="Witch Hunt"/>
+        <card number="1" price="0" name="Wrath of God"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Marath, Will of the Wild"/>
+    </zone>
+</cockatrice_deck>

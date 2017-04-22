@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Pariah"/>
+        <card number="1" price="0" name="Worship"/>
+        <card number="1" price="0" name="Opal Acrolith"/>
+        <card number="1" price="0" name="Sanctum Guardian"/>
+        <card number="3" price="0" name="Voice of Grace"/>
+        <card number="1" price="0" name="Flesh Reaver"/>
+        <card number="3" price="0" name="Wall of Junk"/>
+        <card number="2" price="0" name="Humble"/>
+        <card number="2" price="0" name="Urza's Armor"/>
+        <card number="3" price="0" name="Drifting Meadow"/>
+        <card number="2" price="0" name="Polluted Mire"/>
+        <card number="3" price="0" name="Disciple of Grace"/>
+        <card number="1" price="0" name="Silent Attendant"/>
+        <card number="3" price="0" name="Unworthy Dead"/>
+        <card number="1" price="0" name="Blood Vassal"/>
+        <card number="2" price="0" name="Disenchant"/>
+        <card number="2" price="0" name="Rune of Protection: Black"/>
+        <card number="1" price="0" name="Sicken"/>
+        <card number="2" price="0" name="Expunge"/>
+        <card number="1" price="0" name="Befoul"/>
+        <card number="4" price="0" name="Pestilence"/>
+        <card number="1" price="0" name="Corrupt"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="12" price="0" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

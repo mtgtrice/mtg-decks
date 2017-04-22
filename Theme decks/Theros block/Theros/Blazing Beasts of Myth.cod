@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Forest"/>
+        <card number="14" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Borderland Minotaur"/>
+        <card number="1" price="0" name="Ember Swallower"/>
+        <card number="1" price="0" name="Ill-Tempered Cyclops"/>
+        <card number="2" price="0" name="Minotaur Skullcleaver"/>
+        <card number="2" price="0" name="Nemesis of Mortals"/>
+        <card number="2" price="0" name="Nessian Asp"/>
+        <card number="1" price="0" name="Nessian Courser"/>
+        <card number="1" price="0" name="Polis Crusher"/>
+        <card number="1" price="0" name="Rootwalla"/>
+        <card number="2" price="0" name="Satyr Hedonist"/>
+        <card number="1" price="0" name="Satyr Piper"/>
+        <card number="2" price="0" name="Satyr Rambler"/>
+        <card number="2" price="0" name="Stoneshock Giant"/>
+        <card number="2" price="0" name="Voyaging Satyr"/>
+        <card number="1" price="0" name="Artisan's Sorrow"/>
+        <card number="1" price="0" name="Destructive Revelry"/>
+        <card number="2" price="0" name="Lightning Strike"/>
+        <card number="2" price="0" name="Magma Jet"/>
+        <card number="2" price="0" name="Volcanic Geyser"/>
+        <card number="1" price="0" name="Windstorm"/>
+        <card number="1" price="0" name="Portent of Betrayal"/>
+        <card number="2" price="0" name="Rage of Purphoros"/>
+        <card number="1" price="0" name="Dragon Mantle"/>
+    </zone>
+</cockatrice_deck>

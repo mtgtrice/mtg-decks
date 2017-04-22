@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Island"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Alchemist's Apprentice"/>
+        <card number="1" price="0" name="Corpse Traders"/>
+        <card number="1" price="0" name="Crypt Creeper"/>
+        <card number="2" price="0" name="Fettergeist"/>
+        <card number="1" price="0" name="Havengul Skaab"/>
+        <card number="1" price="0" name="Lone Revenant"/>
+        <card number="2" price="0" name="Marrow Bats"/>
+        <card number="2" price="0" name="Mist Raven"/>
+        <card number="2" price="0" name="Renegade Demon"/>
+        <card number="2" price="0" name="Undead Executioner"/>
+        <card number="2" price="0" name="Crippling Chill"/>
+        <card number="2" price="0" name="Doom Blade"/>
+        <card number="2" price="0" name="Frost Breath"/>
+        <card number="2" price="0" name="Peel from Reality"/>
+        <card number="2" price="0" name="Essence Harvest"/>
+        <card number="2" price="0" name="Into the Void"/>
+        <card number="1" price="0" name="Demonic Rising"/>
+        <card number="1" price="0" name="Homicidal Seclusion"/>
+        <card number="1" price="0" name="Predator's Gambit"/>
+        <card number="1" price="0" name="Triumph of Cruelty"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="2" price="0" name="Tormentor's Trident"/>
+    </zone>
+</cockatrice_deck>

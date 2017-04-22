@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Island"/>
+        <card number="9" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="2" price="0" name="Izzet Boilerworks"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Nivix, Aerie of the Firemind"/>
+        <card number="1" price="0" name="Djinn Illuminatus"/>
+        <card number="1" price="0" name="Galvanoth"/>
+        <card number="1" price="0" name="Gelectrode"/>
+        <card number="1" price="0" name="Goblin Electromancer"/>
+        <card number="1" price="0" name="Izzet Chronarch"/>
+        <card number="1" price="0" name="Izzet Guildmage"/>
+        <card number="2" price="0" name="Kiln Fiend"/>
+        <card number="1" price="0" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" price="0" name="Ogre Savant"/>
+        <card number="2" price="0" name="Shrewd Hatchling"/>
+        <card number="1" price="0" name="Steamcore Weird"/>
+        <card number="2" price="0" name="Wee Dragonauts"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Call to Heel"/>
+        <card number="1" price="0" name="Dissipate"/>
+        <card number="1" price="0" name="Fire // Ice"/>
+        <card number="1" price="0" name="Force Spike"/>
+        <card number="1" price="0" name="Izzet Charm"/>
+        <card number="1" price="0" name="Magma Spray"/>
+        <card number="1" price="0" name="Overwhelming Intellect"/>
+        <card number="1" price="0" name="Prophetic Bolt"/>
+        <card number="2" price="0" name="Pyromatics"/>
+        <card number="1" price="0" name="Street Spasm"/>
+        <card number="1" price="0" name="Thunderheads"/>
+        <card number="1" price="0" name="Invoke the Firemind"/>
+        <card number="1" price="0" name="Reminisce"/>
+        <card number="1" price="0" name="Train of Thought"/>
+        <card number="1" price="0" name="Vacuumelt"/>
+        <card number="1" price="0" name="Quicksilver Dagger"/>
+        <card number="1" price="0" name="Isochron Scepter"/>
+        <card number="1" price="0" name="Izzet Signet"/>
+        <card number="1" price="0" name="Sphinx-Bone Wand"/>
+    </zone>
+</cockatrice_deck>

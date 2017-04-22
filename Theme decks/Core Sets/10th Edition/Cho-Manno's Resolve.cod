@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="17" price="0" name="Plains"/>
+        <card number="1" price="0" name="Ghost Warden"/>
+        <card number="2" price="0" name="Youthful Knight"/>
+        <card number="2" price="0" name="Benalish Knight"/>
+        <card number="1" price="0" name="Venerable Monk"/>
+        <card number="2" price="0" name="Wild Griffin"/>
+        <card number="1" price="0" name="Cho-Manno, Revolutionary"/>
+        <card number="2" price="0" name="Skyhunter Patrol"/>
+        <card number="2" price="0" name="Angel of Mercy"/>
+        <card number="2" price="0" name="Loxodon Mystic"/>
+        <card number="1" price="0" name="Ancestor's Chosen"/>
+        <card number="1" price="0" name="Condemn"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Pariah"/>
+        <card number="1" price="0" name="Serra's Embrace"/>
+        <card number="1" price="0" name="Angel's Feather"/>
+        <card number="1" price="0" name="Icy Manipulator"/>
+    </zone>
+</cockatrice_deck>

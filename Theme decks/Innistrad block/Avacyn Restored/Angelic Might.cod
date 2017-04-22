@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Forest"/>
+        <card number="13" price="0" name="Plains"/>
+        <card number="1" price="0" name="Seraph Sanctuary"/>
+        <card number="1" price="0" name="Angel of Glory's Rise"/>
+        <card number="2" price="0" name="Angelic Wall"/>
+        <card number="1" price="0" name="Archangel"/>
+        <card number="3" price="0" name="Borderland Ranger"/>
+        <card number="2" price="0" name="Cathedral Sanctifier"/>
+        <card number="2" price="0" name="Emancipation Angel"/>
+        <card number="2" price="0" name="Gideon's Lawkeeper"/>
+        <card number="1" price="0" name="Goldnight Redeemer"/>
+        <card number="1" price="0" name="Herald of War"/>
+        <card number="2" price="0" name="Seraph of Dawn"/>
+        <card number="2" price="0" name="Serra Angel"/>
+        <card number="1" price="0" name="Timberland Guide"/>
+        <card number="1" price="0" name="Voice of the Provinces"/>
+        <card number="2" price="0" name="Righteous Blow"/>
+        <card number="1" price="0" name="Defy Death"/>
+        <card number="2" price="0" name="Rampant Growth"/>
+        <card number="1" price="0" name="Builder's Blessing"/>
+        <card number="2" price="0" name="Defang"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Triumph of Ferocity"/>
+        <card number="2" price="0" name="Angel's Tomb"/>
+        <card number="1" price="0" name="Bladed Bracers"/>
+        <card number="1" price="0" name="Scroll of Avacyn"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Azimaet Drake"/>
+        <card number="3" price="0" name="Bay Falcon"/>
+        <card number="1" price="0" name="Burning Palm Efreet"/>
+        <card number="1" price="0" name="Dream Fighter"/>
+        <card number="2" price="0" name="Flame Elemental"/>
+        <card number="1" price="0" name="Harmattan Efreet"/>
+        <card number="1" price="0" name="Mist Dragon"/>
+        <card number="3" price="0" name="Pyric Salamander"/>
+        <card number="1" price="0" name="Subterranean Spirit"/>
+        <card number="1" price="0" name="Suq'Ata Firewalker"/>
+        <card number="2" price="0" name="Talruum Minotaur"/>
+        <card number="3" price="0" name="Teferi's Drake"/>
+        <card number="1" price="0" name="Vaporous Djinn"/>
+        <card number="2" price="0" name="Wildfire Emissary"/>
+        <card number="2" price="0" name="Boomerang"/>
+        <card number="1" price="0" name="Dissipate"/>
+        <card number="1" price="0" name="Incinerate"/>
+        <card number="2" price="0" name="Meddle"/>
+        <card number="1" price="0" name="Mystical Tutor"/>
+        <card number="1" price="0" name="Power Sink"/>
+        <card number="2" price="0" name="Dream Cache"/>
+        <card number="1" price="0" name="Goblin Scouts"/>
+        <card number="1" price="0" name="Kaervek's Torch"/>
+    </zone>
+</cockatrice_deck>

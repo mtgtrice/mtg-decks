@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Phyrexian Plaguelord"/>
+        <card number="1" price="0" name="Molten Hydra"/>
+        <card number="1" price="0" name="Ghitu Encampment"/>
+        <card number="1" price="0" name="Spawning Pool"/>
+        <card number="2" price="0" name="Bone Shredder"/>
+        <card number="1" price="0" name="Tethered Skirge"/>
+        <card number="2" price="0" name="Phyrexian Defiler"/>
+        <card number="1" price="0" name="Viashino Heretic"/>
+        <card number="1" price="0" name="Avalanche Riders"/>
+        <card number="1" price="0" name="Viashino Cutthroat"/>
+        <card number="1" price="0" name="Phyrexian Reclamation"/>
+        <card number="1" price="0" name="Treacherous Link"/>
+        <card number="1" price="0" name="Engineering Plague"/>
+        <card number="1" price="0" name="Polluted Mire"/>
+        <card number="1" price="0" name="Smoldering Crater"/>
+        <card number="1" price="0" name="Phyrexian Denouncer"/>
+        <card number="1" price="0" name="Fog of Gnats"/>
+        <card number="1" price="0" name="Looming Shade"/>
+        <card number="1" price="0" name="Phyrexian Broodlings"/>
+        <card number="1" price="0" name="Giant Cockroach"/>
+        <card number="2" price="0" name="Phyrexian Debaser"/>
+        <card number="2" price="0" name="Defender of Chaos"/>
+        <card number="2" price="0" name="Ghitu Slinger"/>
+        <card number="2" price="0" name="Goblin Medics"/>
+        <card number="1" price="0" name="Viashino Runner"/>
+        <card number="2" price="0" name="Expunge"/>
+        <card number="1" price="0" name="Corrupt"/>
+        <card number="1" price="0" name="Headlong Rush"/>
+        <card number="2" price="0" name="Arc Lightning"/>
+        <card number="1" price="0" name="Heat Ray"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="10" price="0" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Plains"/>
+        <card number="3" price="0" name="Angel of Mercy"/>
+        <card number="1" price="0" name="Ballista Squad"/>
+        <card number="3" price="0" name="Crossbow Infantry"/>
+        <card number="1" price="0" name="Infantry Veteran"/>
+        <card number="2" price="0" name="Master Decoy"/>
+        <card number="1" price="0" name="Skyhunter Prowler"/>
+        <card number="2" price="0" name="Suntail Hawk"/>
+        <card number="1" price="0" name="Venerable Monk"/>
+        <card number="2" price="0" name="Veteran Cavalier"/>
+        <card number="1" price="0" name="Glorious Anthem"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Chastise"/>
+        <card number="1" price="0" name="Mending Hands"/>
+        <card number="1" price="0" name="Righteousness"/>
+        <card number="1" price="0" name="Angel's Feather"/>
+        <card number="1" price="0" name="Phyrexian Hulk"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Satyr Wayfinder"/>
+        <card number="2" price="0" name="Brain Maggot"/>
+        <card number="3" price="0" name="Nyx Weaver"/>
+        <card number="1" price="0" name="Nighthowler"/>
+        <card number="1" price="0" name="Courser of Kruphix"/>
+        <card number="1" price="0" name="Herald of Torment"/>
+        <card number="1" price="0" name="Eidolon of Blossoms"/>
+        <card number="1" price="0" name="Reaper of the Wilds"/>
+        <card number="2" price="0" name="Sultai Soothsayer"/>
+        <card number="1" price="0" name="Doomwake Giant"/>
+        <card number="2" price="0" name="Nemesis of Mortals"/>
+        <card number="1" price="0" name="Scuttling Doom Engine"/>
+        <card number="1" price="0" name="Necropolis Fiend"/>
+        <card number="1" price="0" name="Merciless Executioner"/>
+        <card number="1" price="0" name="Gurmag Angler"/>
+        <card number="2" price="0" name="Sultai Charm"/>
+        <card number="1" price="0" name="Hero's Downfall"/>
+        <card number="2" price="0" name="Murderous Cut"/>
+        <card number="3" price="0" name="Commune with the Gods"/>
+        <card number="1" price="0" name="Font of Fertility"/>
+        <card number="1" price="0" name="Debilitating Injury"/>
+        <card number="1" price="0" name="Sultai Ascendancy"/>
+        <card number="1" price="0" name="Monastery Siege"/>
+        <card number="1" price="0" name="Whip of Erebos"/>
+        <card number="4" price="0" name="Opulent Palace"/>
+        <card number="2" price="0" name="Jungle Hollow"/>
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="5" price="0" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Typhoid Rats"/>
+        <card number="1" price="0" name="Annul"/>
+        <card number="1" price="0" name="Despise"/>
+        <card number="1" price="0" name="Naturalize"/>
+        <card number="2" price="0" name="Dark Betrayal"/>
+        <card number="1" price="0" name="Plummet"/>
+        <card number="1" price="0" name="Baleful Eidolon"/>
+        <card number="1" price="0" name="Dead Drop"/>
+        <card number="1" price="0" name="Set Adrift"/>
+        <card number="1" price="0" name="Neutralizing Blast"/>
+        <card number="1" price="0" name="Defend the Hearth"/>
+        <card number="1" price="0" name="Noble Quarry"/>
+        <card number="1" price="0" name="Graverobber Spider"/>
+        <card number="1" price="0" name="Reviving Melody"/>
+    </zone>
+</cockatrice_deck>

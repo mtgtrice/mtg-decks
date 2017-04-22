@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Llanowar Elite"/>
+        <card number="2" price="0" name="Llanowar Cavalry"/>
+        <card number="1" price="0" name="Pincer Spider"/>
+        <card number="1" price="0" name="Treefolk Healer"/>
+        <card number="1" price="0" name="Rooting Kavu"/>
+        <card number="2" price="0" name="Kavu Chameleon"/>
+        <card number="1" price="0" name="Kavu Climber"/>
+        <card number="1" price="0" name="Thicket Elemental"/>
+        <card number="1" price="0" name="Ardent Soldier"/>
+        <card number="1" price="0" name="Benalish Trapper"/>
+        <card number="1" price="0" name="Capashen Unicorn"/>
+        <card number="1" price="0" name="Crimson Acolyte"/>
+        <card number="1" price="0" name="Obsidian Acolyte"/>
+        <card number="1" price="0" name="Benalish Emissary"/>
+        <card number="1" price="0" name="Benalish Lancer"/>
+        <card number="2" price="0" name="Rampant Elephant"/>
+        <card number="2" price="0" name="Razorfoot Griffin"/>
+        <card number="2" price="0" name="Angel of Mercy"/>
+        <card number="2" price="0" name="Llanowar Knight"/>
+        <card number="1" price="0" name="Noble Panther"/>
+        <card number="2" price="0" name="Charging Troll"/>
+        <card number="2" price="0" name="Explosive Growth"/>
+        <card number="2" price="0" name="Shackles"/>
+        <card number="2" price="0" name="Wax // Wane"/>
+        <card number="2" price="0" name="Armadillo Cloak"/>
+        <card number="11" price="0" name="Plains"/>
+        <card number="11" price="0" name="Forest"/>
+        <card number="2" price="0" name="Elfhame Palace"/>
+    </zone>
+</cockatrice_deck>

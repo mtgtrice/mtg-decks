@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Frost Lynx"/>
+        <card number="1" price="0" name="Hypnotic Siren"/>
+        <card number="2" price="0" name="Leafcrown Dryad"/>
+        <card number="2" price="0" name="Omenspeaker"/>
+        <card number="3" price="0" name="Vaporkin"/>
+        <card number="3" price="0" name="Kiora's Follower"/>
+        <card number="2" price="0" name="Nimbus Naiad"/>
+        <card number="2" price="0" name="Thassa's Emissary"/>
+        <card number="3" price="0" name="Horizon Chimera"/>
+        <card number="1" price="0" name="Prognostic Sphinx"/>
+        <card number="1" price="0" name="Prophet of Kruphix"/>
+        <card number="2" price="0" name="Divination"/>
+        <card number="1" price="0" name="Curse of the Swine"/>
+        <card number="1" price="0" name="AEtherspouts"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Voyage's End"/>
+        <card number="2" price="0" name="Griptide"/>
+        <card number="2" price="0" name="Jace's Ingenuity"/>
+        <card number="2" price="0" name="Pin to the Earth"/>
+        <card number="7" price="0" name="Forest"/>
+        <card number="17" price="0" name="Island"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+    </zone>
+</cockatrice_deck>

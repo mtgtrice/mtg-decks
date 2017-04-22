@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Forest"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="2" price="0" name="Seaside Citadel"/>
+        <card number="2" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Aerie Mystics"/>
+        <card number="2" price="0" name="Aven Squire"/>
+        <card number="1" price="0" name="Deft Duelist"/>
+        <card number="1" price="0" name="Frontline Sage"/>
+        <card number="1" price="0" name="Giltspire Avenger"/>
+        <card number="1" price="0" name="Gwafa Hazid, Profiteer"/>
+        <card number="1" price="0" name="Jhessian Balmgiver"/>
+        <card number="1" price="0" name="Outrider of Jhess"/>
+        <card number="2" price="0" name="Rhox Bodyguard"/>
+        <card number="1" price="0" name="Rhox Meditant"/>
+        <card number="1" price="0" name="Rhox War Monk"/>
+        <card number="2" price="0" name="Skyward Eye Prophets"/>
+        <card number="1" price="0" name="Suntail Hawk"/>
+        <card number="2" price="0" name="Valeron Outlander"/>
+        <card number="1" price="0" name="Asha's Favor"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="2" price="0" name="Gleam of Resistance"/>
+        <card number="1" price="0" name="Unsummon"/>
+    </zone>
+</cockatrice_deck>

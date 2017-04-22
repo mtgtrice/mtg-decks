@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Island"/>
+        <card number="11" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Augury Owl"/>
+        <card number="2" price="0" name="Blind Zealot"/>
+        <card number="2" price="0" name="Brass Squire"/>
+        <card number="1" price="0" name="Darkslick Drake"/>
+        <card number="2" price="0" name="Dementia Bat"/>
+        <card number="3" price="0" name="Hovermyr"/>
+        <card number="2" price="0" name="Impaler Shrike"/>
+        <card number="1" price="0" name="Kiln Walker"/>
+        <card number="2" price="0" name="Mortis Dogs"/>
+        <card number="1" price="0" name="Necrogen Scudder"/>
+        <card number="1" price="0" name="Neurok Invisimancer"/>
+        <card number="1" price="0" name="Phyrexian Ingester"/>
+        <card number="1" price="0" name="Silver Myr"/>
+        <card number="2" price="0" name="Spire Monitor"/>
+        <card number="1" price="0" name="Argentum Armor"/>
+        <card number="2" price="0" name="Copper Carapace"/>
+        <card number="1" price="0" name="Necropouncer"/>
+        <card number="2" price="0" name="Sickleslicer"/>
+        <card number="2" price="0" name="Viridian Claw"/>
+        <card number="2" price="0" name="Warlord's Axe"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="2" price="0" name="Vapor Snag"/>
+    </zone>
+</cockatrice_deck>

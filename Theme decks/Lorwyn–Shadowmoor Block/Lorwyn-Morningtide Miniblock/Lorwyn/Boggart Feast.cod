@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Shimmering Grotto"/>
+        <card number="3" price="0" name="Adder-Staff Boggart"/>
+        <card number="1" price="0" name="Boggart Mob"/>
+        <card number="2" price="0" name="Boggart Harbinger"/>
+        <card number="2" price="0" name="Exiled Boggart"/>
+        <card number="3" price="0" name="Facevaulter"/>
+        <card number="2" price="0" name="Ghostly Changeling"/>
+        <card number="1" price="0" name="Goatnapper"/>
+        <card number="2" price="0" name="Hornet Harasser"/>
+        <card number="2" price="0" name="Lowland Oaf"/>
+        <card number="1" price="0" name="Mad Auntie"/>
+        <card number="2" price="0" name="Marsh Flitter"/>
+        <card number="2" price="0" name="Mudbutton Torchrunner"/>
+        <card number="1" price="0" name="Spiderwig Boggart"/>
+        <card number="1" price="0" name="Squeaking Pie Sneak"/>
+        <card number="1" price="0" name="Tar Pitcher"/>
+        <card number="2" price="0" name="Warren Pilferers"/>
+        <card number="2" price="0" name="Tarfire"/>
+        <card number="2" price="0" name="Boggart Birth Rite"/>
+        <card number="1" price="0" name="Fodder Launch"/>
+        <card number="1" price="0" name="Hoarder's Greed"/>
+        <card number="2" price="0" name="Boggart Shenanigans"/>
+    </zone>
+</cockatrice_deck>

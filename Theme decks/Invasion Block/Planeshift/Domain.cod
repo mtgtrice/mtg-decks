@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" price="0" name="Forest"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Terminal Moraine"/>
+        <card number="1" price="0" name="Kavu Recluse"/>
+        <card number="2" price="0" name="Kavu Scout"/>
+        <card number="1" price="0" name="Magnigoth Treefolk"/>
+        <card number="1" price="0" name="Quirion Dryad"/>
+        <card number="2" price="0" name="Quirion Explorer"/>
+        <card number="2" price="0" name="Quirion Trailblazer"/>
+        <card number="3" price="0" name="Samite Pilgrim"/>
+        <card number="2" price="0" name="Stratadon"/>
+        <card number="1" price="0" name="Wayfaring Giant"/>
+        <card number="2" price="0" name="Exotic Curse"/>
+        <card number="1" price="0" name="Strength of Unity"/>
+        <card number="1" price="0" name="Confound"/>
+        <card number="1" price="0" name="Gaea's Might"/>
+        <card number="3" price="0" name="Harrow"/>
+        <card number="1" price="0" name="Rith's Charm"/>
+        <card number="1" price="0" name="Treva's Charm"/>
+        <card number="2" price="0" name="Worldly Counsel"/>
+        <card number="2" price="0" name="Allied Strategies"/>
+        <card number="1" price="0" name="Breath of Darigaaz"/>
+        <card number="2" price="0" name="Exotic Disease"/>
+        <card number="1" price="0" name="Ordered Migration"/>
+        <card number="1" price="0" name="Primal Growth"/>
+        <card number="3" price="0" name="Tribal Flames"/>
+        <card number="1" price="0" name="Wandering Stream"/>
+    </zone>
+</cockatrice_deck>

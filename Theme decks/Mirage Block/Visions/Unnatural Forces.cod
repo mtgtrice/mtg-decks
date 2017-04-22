@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Brood of Cockroaches"/>
+        <card number="1" price="0" name="Coral Fighters"/>
+        <card number="2" price="0" name="Fetid Horror"/>
+        <card number="2" price="0" name="Kukemssa Serpent"/>
+        <card number="2" price="0" name="Man-o'-War"/>
+        <card number="1" price="0" name="Necrosavant"/>
+        <card number="1" price="0" name="Nekrataal"/>
+        <card number="2" price="0" name="Restless Dead"/>
+        <card number="1" price="0" name="Shrieking Drake"/>
+        <card number="2" price="0" name="Waterspout Djinn"/>
+        <card number="1" price="0" name="Zombie Mob"/>
+        <card number="2" price="0" name="Enfeeblement"/>
+        <card number="1" price="0" name="Flooded Shoreline"/>
+        <card number="2" price="0" name="Necromancy"/>
+        <card number="1" price="0" name="Boomerang"/>
+        <card number="2" price="0" name="Ether Well"/>
+        <card number="1" price="0" name="Funeral Charm"/>
+        <card number="2" price="0" name="Impulse"/>
+        <card number="2" price="0" name="Inspiration"/>
+        <card number="1" price="0" name="Ray of Command"/>
+        <card number="1" price="0" name="Vision Charm"/>
+        <card number="2" price="0" name="Coercion"/>
+        <card number="2" price="0" name="Sealed Fate"/>
+    </zone>
+</cockatrice_deck>

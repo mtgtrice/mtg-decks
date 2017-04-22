@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="6" price="0" name="Island"/>
+        <card number="14" price="0" name="Plains"/>
+        <card number="2" price="0" name="Lonely Sandbar"/>
+        <card number="2" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Ageless Sentinels"/>
+        <card number="2" price="0" name="Aven Farseer"/>
+        <card number="2" price="0" name="Aven Liberator"/>
+        <card number="1" price="0" name="Coast Watcher"/>
+        <card number="1" price="0" name="Daru Mender"/>
+        <card number="1" price="0" name="Deftblade Elite"/>
+        <card number="1" price="0" name="Echo Tracer"/>
+        <card number="3" price="0" name="Frontline Strategist"/>
+        <card number="1" price="0" name="Noble Templar"/>
+        <card number="1" price="0" name="Shoreline Ranger"/>
+        <card number="2" price="0" name="Silver Knight"/>
+        <card number="1" price="0" name="Whipcorder"/>
+        <card number="1" price="0" name="White Knight"/>
+        <card number="1" price="0" name="Willbender"/>
+        <card number="2" price="0" name="Zealous Inquisitor"/>
+        <card number="3" price="0" name="Astral Steel"/>
+        <card number="1" price="0" name="Chain of Vapor"/>
+        <card number="2" price="0" name="Hindering Touch"/>
+        <card number="1" price="0" name="Rain of Blades"/>
+        <card number="2" price="0" name="Reward the Faithful"/>
+        <card number="1" price="0" name="Spy Network"/>
+        <card number="3" price="0" name="Wing Shards"/>
+        <card number="1" price="0" name="Mind's Desire"/>
+        <card number="1" price="0" name="Temporal Fissure"/>
+    </zone>
+</cockatrice_deck>

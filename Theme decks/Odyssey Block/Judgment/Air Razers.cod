@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Aven Fisher"/>
+        <card number="1" price="0" name="Aven Windreader"/>
+        <card number="2" price="0" name="Barbarian Bully"/>
+        <card number="2" price="0" name="Barbarian Lunatic"/>
+        <card number="1" price="0" name="Chainflinger"/>
+        <card number="2" price="0" name="Dwarven Scorcher"/>
+        <card number="2" price="0" name="Hapless Researcher"/>
+        <card number="1" price="0" name="Scalpelexis"/>
+        <card number="2" price="0" name="Skywing Aven"/>
+        <card number="1" price="0" name="Wonder"/>
+        <card number="1" price="0" name="Worldgorger Dragon"/>
+        <card number="2" price="0" name="Wormfang Turtle"/>
+        <card number="2" price="0" name="Fiery Temper"/>
+        <card number="2" price="0" name="Flash of Insight"/>
+        <card number="3" price="0" name="Lava Dart"/>
+        <card number="1" price="0" name="Violent Eruption"/>
+        <card number="2" price="0" name="Churning Eddy"/>
+        <card number="1" price="0" name="Concentrate"/>
+        <card number="2" price="0" name="Shower of Coals"/>
+        <card number="2" price="0" name="Swelter"/>
+        <card number="2" price="0" name="Compulsion"/>
+    </zone>
+</cockatrice_deck>

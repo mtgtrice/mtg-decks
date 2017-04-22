@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Forest"/>
+        <card number="4" price="0" name="Gruul Guildgate"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Cobblebrute"/>
+        <card number="2" price="0" name="Feral Animist"/>
+        <card number="1" price="0" name="Ghor-Clan Rampager"/>
+        <card number="2" price="0" name="Kraul Warrior"/>
+        <card number="1" price="0" name="Ripscale Predator"/>
+        <card number="3" price="0" name="Rubblebelt Maaka"/>
+        <card number="2" price="0" name="Ruination Wurm"/>
+        <card number="1" price="0" name="Ruric Thar, the Unbowed"/>
+        <card number="2" price="0" name="Saruli Gatekeepers"/>
+        <card number="1" price="0" name="Skarrg Goliath"/>
+        <card number="1" price="0" name="Slaughterhorn"/>
+        <card number="2" price="0" name="Viashino Shanktail"/>
+        <card number="3" price="0" name="Zhur-Taa Druid"/>
+        <card number="1" price="0" name="Zhur-Taa Swine"/>
+        <card number="1" price="0" name="Pit Fight"/>
+        <card number="1" price="0" name="Predator's Rapport"/>
+        <card number="1" price="0" name="Volcanic Geyser"/>
+        <card number="1" price="0" name="Armed // Dangerous"/>
+        <card number="2" price="0" name="Ground Assault"/>
+        <card number="2" price="0" name="Gruul War Chant"/>
+        <card number="2" price="0" name="Gruul Cluestone"/>
+    </zone>
+</cockatrice_deck>

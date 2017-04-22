@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="22" price="0" name="Plains"/>
+        <card number="2" price="0" name="Auriok Bladewarden"/>
+        <card number="1" price="0" name="Auriok Steelshaper"/>
+        <card number="2" price="0" name="Auriok Transfixer"/>
+        <card number="2" price="0" name="Gold Myr"/>
+        <card number="4" price="0" name="Leonin Den-Guard"/>
+        <card number="2" price="0" name="Leonin Skyhunter"/>
+        <card number="1" price="0" name="Loxodon Punisher"/>
+        <card number="2" price="0" name="Myr Adapter"/>
+        <card number="3" price="0" name="Skyhunter Cub"/>
+        <card number="1" price="0" name="Skyhunter Patrol"/>
+        <card number="2" price="0" name="Slith Ascendant"/>
+        <card number="2" price="0" name="Soldier Replica"/>
+        <card number="1" price="0" name="Taj-Nar Swordsmith"/>
+        <card number="1" price="0" name="Roar of the Kha"/>
+        <card number="2" price="0" name="Altar's Light"/>
+        <card number="2" price="0" name="Arrest"/>
+        <card number="1" price="0" name="Banshee's Blade"/>
+        <card number="2" price="0" name="Bonesplitter"/>
+        <card number="1" price="0" name="Fireshrieker"/>
+        <card number="2" price="0" name="Leonin Scimitar"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Viridian Longbow"/>
+    </zone>
+</cockatrice_deck>

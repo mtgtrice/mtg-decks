@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="3" price="0" name="Golgari Guildgate"/>
+        <card number="1" price="0" name="Grim Backwoods"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Woodland Cemetery"/>
+        <card number="2" price="0" name="Daggerdrome Imp"/>
+        <card number="3" price="0" name="Dawntreader Elk"/>
+        <card number="1" price="0" name="Deadbridge Goliath"/>
+        <card number="1" price="0" name="Disciple of Bolas"/>
+        <card number="2" price="0" name="Dreg Mangler"/>
+        <card number="4" price="0" name="Drudge Beetle"/>
+        <card number="1" price="0" name="Druid's Familiar"/>
+        <card number="3" price="0" name="Korozda Guildmage"/>
+        <card number="2" price="0" name="Slitherhead"/>
+        <card number="2" price="0" name="Trusted Forcemage"/>
+        <card number="1" price="0" name="Ulvenwald Tracker"/>
+        <card number="4" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Wolfir Silverheart"/>
+        <card number="2" price="0" name="Golgari Charm"/>
+        <card number="4" price="0" name="Tragic Slip"/>
+        <card number="1" price="0" name="Ultimate Price"/>
+        <card number="2" price="0" name="Victim of Night"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Bramblecrush"/>
+        <card number="2" price="0" name="Duress"/>
+        <card number="2" price="0" name="Ghost Quarter"/>
+        <card number="4" price="0" name="Strangleroot Geist"/>
+        <card number="1" price="0" name="Thragtusk"/>
+        <card number="3" price="0" name="Vile Rebirth"/>
+    </zone>
+</cockatrice_deck>

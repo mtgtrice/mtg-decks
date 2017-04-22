@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Island"/>
+        <card number="9" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Salt Marsh"/>
+        <card number="1" price="0" name="Sulfur Vent"/>
+        <card number="2" price="0" name="Faerie Squadron"/>
+        <card number="1" price="0" name="Tidal Visionary"/>
+        <card number="2" price="0" name="Dream Thrush"/>
+        <card number="1" price="0" name="Metathran Zombie"/>
+        <card number="1" price="0" name="Vodalian Hypnotist"/>
+        <card number="2" price="0" name="Vodalian Serpent"/>
+        <card number="1" price="0" name="Duskwalker"/>
+        <card number="1" price="0" name="Nightscape Apprentice"/>
+        <card number="1" price="0" name="Hate Weaver"/>
+        <card number="3" price="0" name="Ravenous Rats"/>
+        <card number="1" price="0" name="Phyrexian Infiltrator"/>
+        <card number="1" price="0" name="Urborg Emissary"/>
+        <card number="1" price="0" name="Vodalian Zombie"/>
+        <card number="2" price="0" name="Urborg Drake"/>
+        <card number="1" price="0" name="Stalking Assassin"/>
+        <card number="1" price="0" name="Slinking Serpent"/>
+        <card number="1" price="0" name="Disrupt"/>
+        <card number="1" price="0" name="Opt"/>
+        <card number="1" price="0" name="Prohibit"/>
+        <card number="2" price="0" name="Probe"/>
+        <card number="1" price="0" name="Repulse"/>
+        <card number="1" price="0" name="Cursed Flesh"/>
+        <card number="1" price="0" name="Agonizing Demise"/>
+        <card number="3" price="0" name="Recoil"/>
+        <card number="1" price="0" name="Lobotomy"/>
+        <card number="1" price="0" name="Seer's Vision"/>
+        <card number="1" price="0" name="Spite // Malice"/>
+        <card number="1" price="0" name="Drake-Skull Cameo"/>
+    </zone>
+</cockatrice_deck>

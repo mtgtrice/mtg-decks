@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Forest"/>
+        <card number="12" price="0" name="Plains"/>
+        <card number="1" price="0" name="Krosan Verge"/>
+        <card number="1" price="0" name="Nantuko Monastery"/>
+        <card number="1" price="0" name="Battlewise Aven"/>
+        <card number="2" price="0" name="Benevolent Bodyguard"/>
+        <card number="2" price="0" name="Blessed Orator"/>
+        <card number="1" price="0" name="Forcemage Advocate"/>
+        <card number="2" price="0" name="Hallowed Healer"/>
+        <card number="2" price="0" name="Ironshell Beetle"/>
+        <card number="1" price="0" name="Patrol Hound"/>
+        <card number="2" price="0" name="Phantom Centaur"/>
+        <card number="2" price="0" name="Phantom Flock"/>
+        <card number="4" price="0" name="Phantom Nomad"/>
+        <card number="1" price="0" name="Phantom Nantuko"/>
+        <card number="3" price="0" name="Phantom Tiger"/>
+        <card number="1" price="0" name="Guided Strike"/>
+        <card number="2" price="0" name="Second Thoughts"/>
+        <card number="1" price="0" name="Spirit Flare"/>
+        <card number="2" price="0" name="Elephant Guide"/>
+        <card number="1" price="0" name="Exoskeletal Armor"/>
+        <card number="1" price="0" name="Mirari's Wake"/>
+        <card number="2" price="0" name="Seton's Desire"/>
+        <card number="1" price="0" name="Strength of Isolation"/>
+    </zone>
+</cockatrice_deck>

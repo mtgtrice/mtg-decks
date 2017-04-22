@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Plains"/>
+        <card number="2" price="0" name="Kabira Crossroads"/>
+        <card number="1" price="0" name="Kor Duelist"/>
+        <card number="2" price="0" name="Kor Skyfisher"/>
+        <card number="1" price="0" name="Armament Master"/>
+        <card number="2" price="0" name="Kor Aeronaut"/>
+        <card number="2" price="0" name="Kor Hookmaster"/>
+        <card number="2" price="0" name="Kor Sanctifiers"/>
+        <card number="2" price="0" name="Kor Cartographer"/>
+        <card number="1" price="0" name="Serra Angel"/>
+        <card number="1" price="0" name="Narrow Escape"/>
+        <card number="1" price="0" name="Divine Verdict"/>
+        <card number="1" price="0" name="Windborne Charge"/>
+        <card number="1" price="0" name="Landbind Ritual"/>
+        <card number="1" price="0" name="Conqueror's Pledge"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Spidersilk Net"/>
+        <card number="1" price="0" name="Explorer's Scope"/>
+        <card number="1" price="0" name="Trusty Machete"/>
+    </zone>
+</cockatrice_deck>

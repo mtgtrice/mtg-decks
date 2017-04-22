@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Ancient Ziggurat"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="1" price="0" name="Rootbound Crag"/>
+        <card number="2" price="0" name="Rupture Spire"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Terramorphic Expanse"/>
+        <card number="2" price="0" name="Vivid Creek"/>
+        <card number="2" price="0" name="Vivid Grove"/>
+        <card number="1" price="0" name="Acidic Sliver"/>
+        <card number="1" price="0" name="Amoeboid Changeling"/>
+        <card number="1" price="0" name="Armor Sliver"/>
+        <card number="1" price="0" name="Barbed Sliver"/>
+        <card number="1" price="0" name="Brood Sliver"/>
+        <card number="1" price="0" name="Clot Sliver"/>
+        <card number="1" price="0" name="Crystalline Sliver"/>
+        <card number="1" price="0" name="Frenzy Sliver"/>
+        <card number="1" price="0" name="Fungus Sliver"/>
+        <card number="1" price="0" name="Fury Sliver"/>
+        <card number="2" price="0" name="Gemhide Sliver"/>
+        <card number="1" price="0" name="Heart Sliver"/>
+        <card number="1" price="0" name="Hibernation Sliver"/>
+        <card number="1" price="0" name="Homing Sliver"/>
+        <card number="2" price="0" name="Metallic Sliver"/>
+        <card number="1" price="0" name="Might Sliver"/>
+        <card number="2" price="0" name="Muscle Sliver"/>
+        <card number="1" price="0" name="Necrotic Sliver"/>
+        <card number="1" price="0" name="Quick Sliver"/>
+        <card number="1" price="0" name="Sliver Overlord"/>
+        <card number="2" price="0" name="Spectral Sliver"/>
+        <card number="1" price="0" name="Spined Sliver"/>
+        <card number="1" price="0" name="Victual Sliver"/>
+        <card number="2" price="0" name="Virulent Sliver"/>
+        <card number="1" price="0" name="Winged Sliver"/>
+        <card number="1" price="0" name="Coat of Arms"/>
+        <card number="1" price="0" name="Heartstone"/>
+        <card number="1" price="0" name="Wild Pair"/>
+        <card number="1" price="0" name="Aphetto Dredging"/>
+        <card number="1" price="0" name="Distant Melody"/>
+    </zone>
+</cockatrice_deck>

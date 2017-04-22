@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Numai Outcast"/>
+        <card number="2" price="0" name="Nezumi Bone-Reader"/>
+        <card number="3" price="0" name="Nezumi Cutthroat"/>
+        <card number="1" price="0" name="Nezumi Graverobber"/>
+        <card number="4" price="0" name="Nezumi Ronin"/>
+        <card number="1" price="0" name="Nezumi Shadow-Watcher"/>
+        <card number="1" price="0" name="Okiba-Gang Shinobi"/>
+        <card number="1" price="0" name="Patron of the Nezumi"/>
+        <card number="4" price="0" name="Skullsnatcher"/>
+        <card number="2" price="0" name="Throat Slitter"/>
+        <card number="1" price="0" name="Genju of the Fens"/>
+        <card number="1" price="0" name="Midnight Covenant"/>
+        <card number="1" price="0" name="Ragged Veins"/>
+        <card number="2" price="0" name="Horobi's Whisper"/>
+        <card number="1" price="0" name="Rend Flesh"/>
+        <card number="2" price="0" name="Befoul"/>
+        <card number="1" price="0" name="Dance of Shadows"/>
+        <card number="1" price="0" name="Psychic Spear"/>
+        <card number="1" price="0" name="Stir the Grave"/>
+        <card number="2" price="0" name="Three Tragedies"/>
+        <card number="1" price="0" name="Shuko"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+    </zone>
+</cockatrice_deck>

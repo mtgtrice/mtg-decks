@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Akoum Refuge"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Crumbling Necropolis"/>
+        <card number="1" price="0" name="Dimir Guildgate"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Grixis Panorama"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="1" price="0" name="Izzet Boilerworks"/>
+        <card number="1" price="0" name="Izzet Guildgate"/>
+        <card number="1" price="0" name="Molten Slagheap"/>
+        <card number="5" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Rakdos Guildgate"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Urza's Factory"/>
+        <card number="1" price="0" name="Vivid Creek"/>
+        <card number="1" price="0" name="Vivid Marsh"/>
+        <card number="1" price="0" name="Augur of Bolas"/>
+        <card number="1" price="0" name="Baleful Force"/>
+        <card number="1" price="0" name="Baleful Strix"/>
+        <card number="1" price="0" name="Charmbreaker Devils"/>
+        <card number="1" price="0" name="Diviner Spirit"/>
+        <card number="1" price="0" name="Echo Mage"/>
+        <card number="1" price="0" name="Fog Bank"/>
+        <card number="1" price="0" name="Guard Gomazoa"/>
+        <card number="1" price="0" name="Guttersnipe"/>
+        <card number="1" price="0" name="Hooded Horror"/>
+        <card number="1" price="0" name="Jace's Archivist"/>
+        <card number="1" price="0" name="Mnemonic Wall"/>
+        <card number="1" price="0" name="Nekusar, the Mindrazer"/>
+        <card number="1" price="0" name="Nightscape Familiar"/>
+        <card number="1" price="0" name="Nivix Guildmage"/>
+        <card number="1" price="0" name="Terra Ravager"/>
+        <card number="1" price="0" name="Thraximundar"/>
+        <card number="1" price="0" name="True-Name Nemesis"/>
+        <card number="1" price="0" name="Uyo, Silent Prophet"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Viseling"/>
+        <card number="1" price="0" name="Annihilate"/>
+        <card number="1" price="0" name="Arcane Melee"/>
+        <card number="1" price="0" name="Armillary Sphere"/>
+        <card number="1" price="0" name="Army of the Damned"/>
+        <card number="1" price="0" name="Crosis's Charm"/>
+        <card number="1" price="0" name="Cruel Ultimatum"/>
+        <card number="1" price="0" name="Curse of Chaos"/>
+        <card number="1" price="0" name="Curse of Inertia"/>
+        <card number="1" price="0" name="Curse of Shallow Graves"/>
+        <card number="1" price="0" name="Decree of Pain"/>
+        <card number="1" price="0" name="Dismiss"/>
+        <card number="1" price="0" name="Eye of Doom"/>
+        <card number="1" price="0" name="Fissure Vent"/>
+        <card number="1" price="0" name="Grixis Charm"/>
+        <card number="1" price="0" name="Illusionist's Gambit"/>
+        <card number="1" price="0" name="Incendiary Command"/>
+        <card number="1" price="0" name="Infest"/>
+        <card number="1" price="0" name="Mirari"/>
+        <card number="1" price="0" name="Molten Disaster"/>
+        <card number="1" price="0" name="Obelisk of Grixis"/>
+        <card number="1" price="0" name="Opportunity"/>
+        <card number="1" price="0" name="Phthisis"/>
+        <card number="1" price="0" name="Price of Knowledge"/>
+        <card number="1" price="0" name="Propaganda"/>
+        <card number="1" price="0" name="Prosperity"/>
+        <card number="1" price="0" name="Skyscribing"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Soul Manipulation"/>
+        <card number="1" price="0" name="Spiteful Visions"/>
+        <card number="1" price="0" name="Starstorm"/>
+        <card number="1" price="0" name="Strategic Planning"/>
+        <card number="1" price="0" name="Sudden Spoiling"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Temple Bell"/>
+        <card number="1" price="0" name="Tempt with Reflections"/>
+        <card number="1" price="0" name="Vision Skeins"/>
+        <card number="1" price="0" name="Wayfarer's Bauble"/>
+        <card number="1" price="0" name="Wild Ricochet"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Jeleva, Nephalia's Scourge"/>
+    </zone>
+</cockatrice_deck>

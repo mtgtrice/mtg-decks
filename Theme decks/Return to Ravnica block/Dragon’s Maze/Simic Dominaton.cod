@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Forest"/>
+        <card number="12" price="0" name="Island"/>
+        <card number="4" price="0" name="Simic Guildgate"/>
+        <card number="1" price="0" name="Archweaver"/>
+        <card number="2" price="0" name="Battering Krasis"/>
+        <card number="2" price="0" name="Beetleform Mage"/>
+        <card number="3" price="0" name="Centaur Courser"/>
+        <card number="2" price="0" name="Cloudfin Raptor"/>
+        <card number="1" price="0" name="Crocanura"/>
+        <card number="1" price="0" name="Crowned Ceratok"/>
+        <card number="2" price="0" name="Elusive Krasis"/>
+        <card number="1" price="0" name="Gyre Sage"/>
+        <card number="1" price="0" name="Murmuring Phantasm"/>
+        <card number="2" price="0" name="Opal Lake Gatekeepers"/>
+        <card number="1" price="0" name="Sapphire Drake"/>
+        <card number="2" price="0" name="Species Gorger"/>
+        <card number="1" price="0" name="Vorel of the Hull Clade"/>
+        <card number="1" price="0" name="Hindervines"/>
+        <card number="2" price="0" name="Mutant's Prey"/>
+        <card number="1" price="0" name="Give // Take"/>
+        <card number="1" price="0" name="Phytoburst"/>
+        <card number="2" price="0" name="Bred for the Hunt"/>
+        <card number="1" price="0" name="Krasis Incubation"/>
+        <card number="2" price="0" name="Runner's Bane"/>
+        <card number="2" price="0" name="Simic Cluestone"/>
+    </zone>
+</cockatrice_deck>

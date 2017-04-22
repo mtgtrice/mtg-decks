@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Forest"/>
+        <card number="2" price="0" name="Kazandu Refuge"/>
+        <card number="2" price="0" name="Llanowar Reborn"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Skarrg, the Rage Pits"/>
+        <card number="2" price="0" name="Blood Ogre"/>
+        <card number="1" price="0" name="Conquering Manticore"/>
+        <card number="1" price="0" name="Crater Hellion"/>
+        <card number="1" price="0" name="Crowned Ceratok"/>
+        <card number="2" price="0" name="Deadly Recluse"/>
+        <card number="1" price="0" name="Deus of Calamity"/>
+        <card number="1" price="0" name="Ghor-Clan Savage"/>
+        <card number="2" price="0" name="Gorehorn Minotaurs"/>
+        <card number="1" price="0" name="Kavu Predator"/>
+        <card number="1" price="0" name="Krosan Tusker"/>
+        <card number="1" price="0" name="Orcish Lumberjack"/>
+        <card number="1" price="0" name="Polukranos, World Eater"/>
+        <card number="1" price="0" name="Satyr Hedonist"/>
+        <card number="1" price="0" name="Skarrgan Firebird"/>
+        <card number="1" price="0" name="Skarrgan Skybreaker"/>
+        <card number="1" price="0" name="Troll Ascetic"/>
+        <card number="2" price="0" name="Valley Rannet"/>
+        <card number="1" price="0" name="Zhur-Taa Druid"/>
+        <card number="1" price="0" name="Beast Within"/>
+        <card number="1" price="0" name="Destructive Revelry"/>
+        <card number="1" price="0" name="Dragon Blood"/>
+        <card number="1" price="0" name="Fires of Yavimaya"/>
+        <card number="2" price="0" name="Prey Upon"/>
+        <card number="1" price="0" name="Pyroclasm"/>
+        <card number="1" price="0" name="Regrowth"/>
+        <card number="1" price="0" name="Shower of Sparks"/>
+        <card number="1" price="0" name="Terrifying Presence"/>
+        <card number="2" price="0" name="Volt Charge"/>
+    </zone>
+</cockatrice_deck>

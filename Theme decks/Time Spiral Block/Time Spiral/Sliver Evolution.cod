@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" price="0" name="Forest"/>
+        <card number="1" price="0" name="Gemstone Mine"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="2" price="0" name="Terramorphic Expanse"/>
+        <card number="3" price="0" name="Bonesplitter Sliver"/>
+        <card number="1" price="0" name="Fungus Sliver"/>
+        <card number="2" price="0" name="Fury Sliver"/>
+        <card number="4" price="0" name="Gemhide Sliver"/>
+        <card number="1" price="0" name="Harmonic Sliver"/>
+        <card number="2" price="0" name="Might Sliver"/>
+        <card number="1" price="0" name="Pulmonic Sliver"/>
+        <card number="3" price="0" name="Quilled Sliver"/>
+        <card number="3" price="0" name="Sidewinder Sliver"/>
+        <card number="2" price="0" name="Spined Sliver"/>
+        <card number="2" price="0" name="Two-Headed Sliver"/>
+        <card number="3" price="0" name="Watcher Sliver"/>
+        <card number="2" price="0" name="Spirit Loop"/>
+        <card number="1" price="0" name="Avoid Fate"/>
+        <card number="1" price="0" name="Molder"/>
+        <card number="2" price="0" name="Strength in Numbers"/>
+        <card number="2" price="0" name="Venser's Sliver"/>
+    </zone>
+</cockatrice_deck>

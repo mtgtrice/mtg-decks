@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Orzhov Basilica"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Selesnya Sanctuary"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Vivid Grove"/>
+        <card number="1" price="0" name="Vivid Marsh"/>
+        <card number="1" price="0" name="Vivid Meadow"/>
+        <card number="1" price="0" name="Aquastrand Spider"/>
+        <card number="1" price="0" name="Celestial Force"/>
+        <card number="1" price="0" name="Chorus of the Conclave"/>
+        <card number="1" price="0" name="Dark Hatchling"/>
+        <card number="1" price="0" name="Deadly Recluse"/>
+        <card number="1" price="0" name="Fertilid"/>
+        <card number="1" price="0" name="Golgari Guildmage"/>
+        <card number="1" price="0" name="Hornet Queen"/>
+        <card number="1" price="0" name="Karador, Ghost Chieftain"/>
+        <card number="1" price="0" name="Monk Realist"/>
+        <card number="1" price="0" name="Nantuko Husk"/>
+        <card number="1" price="0" name="Penumbra Spider"/>
+        <card number="1" price="0" name="Sakura-Tribe Elder"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
+        <card number="1" price="0" name="Selesnya Evangel"/>
+        <card number="1" price="0" name="Selesnya Guildmage"/>
+        <card number="1" price="0" name="Shriekmaw"/>
+        <card number="1" price="0" name="Sigil Captain"/>
+        <card number="1" price="0" name="Spawnwrithe"/>
+        <card number="1" price="0" name="Spike Feeder"/>
+        <card number="1" price="0" name="Squallmonger"/>
+        <card number="1" price="0" name="Symbiotic Wurm"/>
+        <card number="1" price="0" name="Teneb, the Harvester"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Vish Kal, Blood Arbiter"/>
+        <card number="1" price="0" name="Yavimaya Elder"/>
+        <card number="1" price="0" name="Acorn Catapult"/>
+        <card number="1" price="0" name="Afterlife"/>
+        <card number="1" price="0" name="Alliance of Arms"/>
+        <card number="1" price="0" name="Attrition"/>
+        <card number="1" price="0" name="Aura Shards"/>
+        <card number="1" price="0" name="Awakening Zone"/>
+        <card number="1" price="0" name="Bestial Menace"/>
+        <card number="1" price="0" name="Cobra Trap"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="Death Mutation"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Fists of Ironwood"/>
+        <card number="1" price="0" name="Footbottom Feast"/>
+        <card number="1" price="0" name="Golgari Signet"/>
+        <card number="1" price="0" name="Harmonize"/>
+        <card number="1" price="0" name="Hex"/>
+        <card number="1" price="0" name="Hour of Reckoning"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Mortify"/>
+        <card number="1" price="0" name="Necrogenesis"/>
+        <card number="1" price="0" name="Nemesis Trap"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Orzhov Signet"/>
+        <card number="1" price="0" name="Selesnya Signet"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Soul Snare"/>
+        <card number="1" price="0" name="Storm Herd"/>
+        <card number="1" price="0" name="Syphon Flesh"/>
+        <card number="1" price="0" name="Tribute to the Wild"/>
+        <card number="1" price="0" name="Vow of Duty"/>
+        <card number="1" price="0" name="Vow of Malice"/>
+        <card number="1" price="0" name="Vow of Wildness"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Ghave, Guru of Spores"/>
+    </zone>
+</cockatrice_deck>

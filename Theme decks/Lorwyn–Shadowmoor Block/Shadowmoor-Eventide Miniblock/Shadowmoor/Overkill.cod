@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" price="0" name="Forest"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Boggart Ram-Gang"/>
+        <card number="3" price="0" name="Farhaven Elf"/>
+        <card number="2" price="0" name="Juvenile Gloomwidow"/>
+        <card number="1" price="0" name="Mossbridge Troll"/>
+        <card number="2" price="0" name="Mudbrawler Raiders"/>
+        <card number="2" price="0" name="Scuttlemutt"/>
+        <card number="2" price="0" name="Scuzzback Scrapper"/>
+        <card number="2" price="0" name="Tattermunge Duo"/>
+        <card number="2" price="0" name="Flame Javelin"/>
+        <card number="2" price="0" name="Puncture Bolt"/>
+        <card number="2" price="0" name="Fossil Find"/>
+        <card number="1" price="0" name="Gleeful Sabotage"/>
+        <card number="3" price="0" name="Howl of the Night Pack"/>
+        <card number="3" price="0" name="Jaws of Stone"/>
+        <card number="1" price="0" name="Tower Above"/>
+        <card number="1" price="0" name="Prismatic Omen"/>
+        <card number="1" price="0" name="Runes of the Deus"/>
+        <card number="4" price="0" name="Elsewhere Flask"/>
+        <card number="1" price="0" name="Illuminated Folio"/>
+    </zone>
+</cockatrice_deck>

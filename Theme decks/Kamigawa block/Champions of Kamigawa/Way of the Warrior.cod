@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Plains"/>
+        <card number="1" price="0" name="Bushi Tenderfoot"/>
+        <card number="4" price="0" name="Devoted Retainer"/>
+        <card number="4" price="0" name="Kitsune Blademaster"/>
+        <card number="3" price="0" name="Konda's Hatamoto"/>
+        <card number="4" price="0" name="Mothrider Samurai"/>
+        <card number="1" price="0" name="Nagao, Bound by Honor"/>
+        <card number="2" price="0" name="Samurai Enforcers"/>
+        <card number="1" price="0" name="Takeno, Samurai General"/>
+        <card number="2" price="0" name="Cage of Hands"/>
+        <card number="2" price="0" name="Indomitable Will"/>
+        <card number="2" price="0" name="Vigilance"/>
+        <card number="1" price="0" name="Blessed Breath"/>
+        <card number="2" price="0" name="Call to Glory"/>
+        <card number="1" price="0" name="Candles' Glow"/>
+        <card number="1" price="0" name="Hold the Line"/>
+        <card number="1" price="0" name="Otherworldly Journey"/>
+        <card number="2" price="0" name="Reciprocate"/>
+        <card number="2" price="0" name="No-Dachi"/>
+    </zone>
+</cockatrice_deck>

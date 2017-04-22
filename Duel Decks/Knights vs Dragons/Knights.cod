@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="6" price="0" name="Forest"/>
+        <card number="12" price="0" name="Plains"/>
+        <card number="2" price="0" name="Grasslands"/>
+        <card number="1" price="0" name="Sejiri Steppe"/>
+        <card number="2" price="0" name="Selesnya Sanctuary"/>
+        <card number="1" price="0" name="Treetop Village"/>
+        <card number="1" price="0" name="Caravan Escort"/>
+        <card number="2" price="0" name="Lionheart Maverick"/>
+        <card number="2" price="0" name="Knight of Cliffhaven"/>
+        <card number="1" price="0" name="Knight of Meadowgrain"/>
+        <card number="1" price="0" name="Knight of the White Orchid"/>
+        <card number="1" price="0" name="Leonin Skyhunter"/>
+        <card number="1" price="0" name="Silver Knight"/>
+        <card number="1" price="0" name="White Knight"/>
+        <card number="1" price="0" name="Knotvine Paladin"/>
+        <card number="1" price="0" name="Steward of Valeron"/>
+        <card number="1" price="0" name="Benalish Lancer"/>
+        <card number="1" price="0" name="Zhalfirin Commander"/>
+        <card number="1" price="0" name="Knight Exemplar"/>
+        <card number="1" price="0" name="Knight of the Reliquary"/>
+        <card number="1" price="0" name="Wilt-Leaf Cavaliers"/>
+        <card number="1" price="0" name="Kabira Vindicator"/>
+        <card number="1" price="0" name="Kinsbaile Cavalier"/>
+        <card number="1" price="0" name="Alaborn Cavalier"/>
+        <card number="1" price="0" name="Skyhunter Patrol"/>
+        <card number="1" price="0" name="Plover Knights"/>
+        <card number="1" price="0" name="Juniper Order Ranger"/>
+        <card number="1" price="0" name="Paladin of Prahv"/>
+        <card number="1" price="0" name="Harm's Way"/>
+        <card number="1" price="0" name="Reciprocate"/>
+        <card number="1" price="0" name="Mighty Leap"/>
+        <card number="1" price="0" name="Reprisal"/>
+        <card number="1" price="0" name="Test of Faith"/>
+        <card number="1" price="0" name="Heroes' Reunion"/>
+        <card number="1" price="0" name="Sigil Blessing"/>
+        <card number="1" price="0" name="Edge of Autumn"/>
+        <card number="1" price="0" name="Spidersilk Armor"/>
+        <card number="1" price="0" name="Griffin Guide"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+    </zone>
+</cockatrice_deck>

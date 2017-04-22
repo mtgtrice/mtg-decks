@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="17" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Vault of Whispers"/>
+        <card number="3" price="0" name="Chittering Rats"/>
+        <card number="1" price="0" name="Clockwork Vorrac"/>
+        <card number="3" price="0" name="Dross Golem"/>
+        <card number="2" price="0" name="Emissary of Despair"/>
+        <card number="3" price="0" name="Grimclaw Bats"/>
+        <card number="4" price="0" name="Leaden Myr"/>
+        <card number="1" price="0" name="Mephitic Ooze"/>
+        <card number="1" price="0" name="Nim Replica"/>
+        <card number="1" price="0" name="Scavenging Scarab"/>
+        <card number="1" price="0" name="Slith Bloodletter"/>
+        <card number="2" price="0" name="Relic Bane"/>
+        <card number="2" price="0" name="Murderous Spoils"/>
+        <card number="2" price="0" name="Terror"/>
+        <card number="1" price="0" name="Essence Drain"/>
+        <card number="1" price="0" name="Pulse of the Dross"/>
+        <card number="3" price="0" name="Wrench Mind"/>
+        <card number="1" price="0" name="Bonesplitter"/>
+        <card number="2" price="0" name="Geth's Grimoire"/>
+        <card number="1" price="0" name="Leonin Bola"/>
+        <card number="1" price="0" name="Leonin Scimitar"/>
+        <card number="1" price="0" name="Skeleton Shard"/>
+        <card number="2" price="0" name="Specter's Shroud"/>
+    </zone>
+</cockatrice_deck>

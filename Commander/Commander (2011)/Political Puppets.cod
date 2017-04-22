@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Azorius Chancery"/>
+        <card number="1" price="0" name="Boros Garrison"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="12" price="0" name="Island"/>
+        <card number="1" price="0" name="Izzet Boilerworks"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Arbiter of Knollridge"/>
+        <card number="1" price="0" name="Azorius Guildmage"/>
+        <card number="1" price="0" name="Brion Stoutarm"/>
+        <card number="1" price="0" name="Chromeshell Crab"/>
+        <card number="1" price="0" name="Court Hussar"/>
+        <card number="1" price="0" name="Dominus of Fealty"/>
+        <card number="1" price="0" name="False Prophet"/>
+        <card number="1" price="0" name="Flametongue Kavu"/>
+        <card number="1" price="0" name="Fog Bank"/>
+        <card number="1" price="0" name="Goblin Cadets"/>
+        <card number="1" price="0" name="Gomazoa"/>
+        <card number="1" price="0" name="Guard Gomazoa"/>
+        <card number="1" price="0" name="Izzet Chronarch"/>
+        <card number="1" price="0" name="Jötun Grunt"/>
+        <card number="1" price="0" name="Nin, the Pain Artist"/>
+        <card number="1" price="0" name="Numot, the Devastator"/>
+        <card number="1" price="0" name="Plumeveil"/>
+        <card number="1" price="0" name="Rapacious One"/>
+        <card number="1" price="0" name="Ruhan of the Fomori"/>
+        <card number="1" price="0" name="Spurnmage Advocate"/>
+        <card number="1" price="0" name="Vedalken Plotter"/>
+        <card number="1" price="0" name="Wall of Denial"/>
+        <card number="1" price="0" name="Wall of Omens"/>
+        <card number="1" price="0" name="Windborn Muse"/>
+        <card number="1" price="0" name="Armillary Sphere"/>
+        <card number="1" price="0" name="Austere Command"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Breath of Darigaaz"/>
+        <card number="1" price="0" name="Champion's Helm"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Crescendo of War"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="Death by Dragons"/>
+        <card number="1" price="0" name="Dreamstone Hedron"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Flusterstorm"/>
+        <card number="1" price="0" name="Ghostly Prison"/>
+        <card number="1" price="0" name="Howling Mine"/>
+        <card number="1" price="0" name="Insurrection"/>
+        <card number="1" price="0" name="Journey to Nowhere"/>
+        <card number="1" price="0" name="Lash Out"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Martyr's Bond"/>
+        <card number="1" price="0" name="Murmurs from Beyond"/>
+        <card number="1" price="0" name="Oblation"/>
+        <card number="1" price="0" name="Perilous Research"/>
+        <card number="1" price="0" name="Pollen Lullaby"/>
+        <card number="1" price="0" name="Prison Term"/>
+        <card number="1" price="0" name="Propaganda"/>
+        <card number="1" price="0" name="Prophetic Prism"/>
+        <card number="1" price="0" name="Punishing Fire"/>
+        <card number="1" price="0" name="Reins of Power"/>
+        <card number="1" price="0" name="Repulse"/>
+        <card number="1" price="0" name="Scattering Stroke"/>
+        <card number="1" price="0" name="Skyscribing"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Soul Snare"/>
+        <card number="1" price="0" name="Spell Crumple"/>
+        <card number="1" price="0" name="Trade Secrets"/>
+        <card number="1" price="0" name="Vision Skeins"/>
+        <card number="1" price="0" name="Vow of Duty"/>
+        <card number="1" price="0" name="Vow of Flight"/>
+        <card number="1" price="0" name="Vow of Lightning"/>
+        <card number="1" price="0" name="Whirlpool Whelm"/>
+        <card number="1" price="0" name="Wild Ricochet"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Zedruu the Greathearted"/>
+    </zone>
+</cockatrice_deck>

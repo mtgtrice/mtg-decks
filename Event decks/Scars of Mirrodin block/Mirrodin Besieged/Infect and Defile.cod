@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Drowned Catacomb"/>
+        <card number="10" price="0" name="Island"/>
+        <card number="4" price="0" name="Jwar Isle Refuge"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Corpse Cur"/>
+        <card number="1" price="0" name="Hand of the Praetors"/>
+        <card number="4" price="0" name="Necropede"/>
+        <card number="2" price="0" name="Phyrexian Vatmother"/>
+        <card number="4" price="0" name="Plague Myr"/>
+        <card number="2" price="0" name="Contagion Clasp"/>
+        <card number="4" price="0" name="Corrupted Conscience"/>
+        <card number="2" price="0" name="Deprive"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="2" price="0" name="Mana Leak"/>
+        <card number="2" price="0" name="Smother"/>
+        <card number="2" price="0" name="Consuming Vapors"/>
+        <card number="4" price="0" name="Foresee"/>
+        <card number="3" price="0" name="Preordain"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Deathmark"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="3" price="0" name="Flashfreeze"/>
+        <card number="2" price="0" name="Go for the Throat"/>
+        <card number="4" price="0" name="Negate"/>
+        <card number="2" price="0" name="Smother"/>
+    </zone>
+</cockatrice_deck>

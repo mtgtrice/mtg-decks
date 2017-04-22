@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Forest"/>
+        <card number="11" price="0" name="Island"/>
+        <card number="1" price="0" name="Novijen, Heart of Progress"/>
+        <card number="2" price="0" name="Simic Growth Chamber"/>
+        <card number="2" price="0" name="Coiling Oracle"/>
+        <card number="1" price="0" name="Drowned Rusalka"/>
+        <card number="1" price="0" name="Experiment Kraj"/>
+        <card number="2" price="0" name="Helium Squirter"/>
+        <card number="1" price="0" name="Indrik Stomphowler"/>
+        <card number="2" price="0" name="Plaxmanta"/>
+        <card number="1" price="0" name="Protean Hulk"/>
+        <card number="2" price="0" name="Silkwing Scout"/>
+        <card number="2" price="0" name="Simic Basilisk"/>
+        <card number="1" price="0" name="Simic Guildmage"/>
+        <card number="3" price="0" name="Simic Initiate"/>
+        <card number="2" price="0" name="Simic Ragworm"/>
+        <card number="1" price="0" name="Starved Rusalka"/>
+        <card number="2" price="0" name="Surveilling Sprite"/>
+        <card number="2" price="0" name="Vigean Graftmage"/>
+        <card number="3" price="0" name="Vigean Hydropon"/>
+        <card number="2" price="0" name="Shielding Plax"/>
+        <card number="2" price="0" name="Stasis Cell"/>
+        <card number="2" price="0" name="Flash Foliage"/>
+        <card number="2" price="0" name="Thrive"/>
+    </zone>
+</cockatrice_deck>

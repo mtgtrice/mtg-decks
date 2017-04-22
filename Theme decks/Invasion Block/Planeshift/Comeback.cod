@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Ancient Spring"/>
+        <card number="1" price="0" name="Coastal Tower"/>
+        <card number="2" price="0" name="Dromar's Cavern"/>
+        <card number="7" price="0" name="Island"/>
+        <card number="4" price="0" name="Plains"/>
+        <card number="1" price="0" name="Salt Marsh"/>
+        <card number="6" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Terminal Moraine"/>
+        <card number="1" price="0" name="Arctic Merfolk"/>
+        <card number="3" price="0" name="Cavern Harpy"/>
+        <card number="1" price="0" name="Faerie Squadron"/>
+        <card number="1" price="0" name="Galina's Knight"/>
+        <card number="1" price="0" name="Guard Dogs"/>
+        <card number="1" price="0" name="Honorable Scout"/>
+        <card number="2" price="0" name="Hunting Drake"/>
+        <card number="2" price="0" name="Marsh Crocodile"/>
+        <card number="1" price="0" name="Nightscape Familiar"/>
+        <card number="2" price="0" name="Phyrexian Bloodstock"/>
+        <card number="2" price="0" name="Ravenous Rats"/>
+        <card number="1" price="0" name="Sawtooth Loon"/>
+        <card number="2" price="0" name="Silver Drake"/>
+        <card number="1" price="0" name="Stormscape Apprentice"/>
+        <card number="1" price="0" name="Stormscape Battlemage"/>
+        <card number="3" price="0" name="Stormscape Familiar"/>
+        <card number="3" price="0" name="Tidal Visionary"/>
+        <card number="1" price="0" name="Vodalian Merchant"/>
+        <card number="1" price="0" name="Waterspout Elemental"/>
+        <card number="1" price="0" name="Planeswalker's Scorn"/>
+        <card number="2" price="0" name="Sisay's Ingenuity"/>
+        <card number="1" price="0" name="Confound"/>
+        <card number="1" price="0" name="Dromar's Charm"/>
+        <card number="1" price="0" name="Slay"/>
+        <card number="1" price="0" name="Mana Cylix"/>
+    </zone>
+</cockatrice_deck>

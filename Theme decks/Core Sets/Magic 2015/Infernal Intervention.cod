@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Typhoid Rats"/>
+        <card number="2" price="0" name="Torch Fiend"/>
+        <card number="2" price="0" name="Gargoyle Sentinel"/>
+        <card number="2" price="0" name="Goblin Roughrider"/>
+        <card number="1" price="0" name="Wall of Fire"/>
+        <card number="1" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Zof Shade"/>
+        <card number="1" price="0" name="Thundering Giant"/>
+        <card number="2" price="0" name="Carrion Crow"/>
+        <card number="1" price="0" name="Indulgent Tormentor"/>
+        <card number="2" price="0" name="Nightfire Giant"/>
+        <card number="1" price="0" name="Clear a Path"/>
+        <card number="1" price="0" name="Cone of Flame"/>
+        <card number="1" price="0" name="Festergloom"/>
+        <card number="2" price="0" name="Lightning Strike"/>
+        <card number="2" price="0" name="Heat Ray"/>
+        <card number="2" price="0" name="Blastfire Bolt"/>
+        <card number="2" price="0" name="Flesh to Dust"/>
+        <card number="2" price="0" name="Profane Memento"/>
+        <card number="1" price="0" name="Stab Wound"/>
+        <card number="1" price="0" name="Caustic Tar"/>
+        <card number="1" price="0" name="Burning Anger"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="13" price="0" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

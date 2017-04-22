@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Arcane Sanctum"/>
+        <card number="1" price="0" name="Azorius Chancery"/>
+        <card number="1" price="0" name="Azorius Guildgate"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Dimir Guildgate"/>
+        <card number="1" price="0" name="Esper Panorama"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="1" price="0" name="Orzhov Basilica"/>
+        <card number="1" price="0" name="Orzhov Guildgate"/>
+        <card number="9" price="0" name="Plains"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Springjack Pasture"/>
+        <card number="9" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Transguild Promenade"/>
+        <card number="1" price="0" name="Ajani's Pridemate"/>
+        <card number="1" price="0" name="Augury Adept"/>
+        <card number="1" price="0" name="Azorius Herald"/>
+        <card number="1" price="0" name="Disciple of Griselbrand"/>
+        <card number="1" price="0" name="Diviner Spirit"/>
+        <card number="1" price="0" name="Divinity of Pride"/>
+        <card number="1" price="0" name="Filigree Angel"/>
+        <card number="1" price="0" name="Hooded Horror"/>
+        <card number="1" price="0" name="Kongming, Sleeping Dragon"/>
+        <card number="1" price="0" name="Marrow Bats"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="1" price="0" name="Phyrexian Delver"/>
+        <card number="1" price="0" name="Phyrexian Gargantua"/>
+        <card number="1" price="0" name="Raven Familiar"/>
+        <card number="1" price="0" name="Razor Hippogriff"/>
+        <card number="1" price="0" name="Serene Master"/>
+        <card number="1" price="0" name="Serra Avatar"/>
+        <card number="1" price="0" name="Sharding Sphinx"/>
+        <card number="1" price="0" name="Sharuum the Hegemon"/>
+        <card number="1" price="0" name="Sphinx of the Steel Wind"/>
+        <card number="1" price="0" name="Stormscape Battlemage"/>
+        <card number="1" price="0" name="Sydri, Galvanic Genius"/>
+        <card number="1" price="0" name="Tidal Force"/>
+        <card number="1" price="0" name="Tidehollow Strix"/>
+        <card number="1" price="0" name="Tower Gargoyle"/>
+        <card number="1" price="0" name="Vizkopa Guildmage"/>
+        <card number="1" price="0" name="Wall of Reverence"/>
+        <card number="1" price="0" name="Act of Authority"/>
+        <card number="1" price="0" name="Brilliant Plan"/>
+        <card number="1" price="0" name="Cradle of Vitality"/>
+        <card number="1" price="0" name="Crawlspace"/>
+        <card number="1" price="0" name="Curse of Inertia"/>
+        <card number="1" price="0" name="Curse of Shallow Graves"/>
+        <card number="1" price="0" name="Curse of the Forsaken"/>
+        <card number="1" price="0" name="Darksteel Mutation"/>
+        <card number="1" price="0" name="Death Grasp"/>
+        <card number="1" price="0" name="Deep Analysis"/>
+        <card number="1" price="0" name="Dromar's Charm"/>
+        <card number="1" price="0" name="Famine"/>
+        <card number="1" price="0" name="Greed"/>
+        <card number="1" price="0" name="Lim-Dûl's Vault"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Nihil Spellbomb"/>
+        <card number="1" price="0" name="Obelisk of Esper"/>
+        <card number="1" price="0" name="Order of Succession"/>
+        <card number="1" price="0" name="Phyrexian Reclamation"/>
+        <card number="1" price="0" name="Pristine Talisman"/>
+        <card number="1" price="0" name="Reckless Spite"/>
+        <card number="1" price="0" name="Sanguine Bond"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Spinal Embrace"/>
+        <card number="1" price="0" name="Sun Droplet"/>
+        <card number="1" price="0" name="Survival Cache"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Tempt with Immortality"/>
+        <card number="1" price="0" name="Thopter Foundry"/>
+        <card number="1" price="0" name="Toxic Deluge"/>
+        <card number="1" price="0" name="Well of Lost Dreams"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Oloro, Ageless Ascetic"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Forest"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Awakener Druid"/>
+        <card number="2" price="0" name="Duskdale Wurm"/>
+        <card number="2" price="0" name="Garruk's Packleader"/>
+        <card number="2" price="0" name="Giant Spider"/>
+        <card number="1" price="0" name="Greater Basilisk"/>
+        <card number="2" price="0" name="Llanowar Elves"/>
+        <card number="2" price="0" name="Prized Unicorn"/>
+        <card number="1" price="0" name="Protean Hydra"/>
+        <card number="2" price="0" name="Runeclaw Bear"/>
+        <card number="1" price="0" name="Sacred Wolf"/>
+        <card number="1" price="0" name="Spined Wurm"/>
+        <card number="2" price="0" name="Sylvan Ranger"/>
+        <card number="2" price="0" name="Yavimaya Wurm"/>
+        <card number="1" price="0" name="Whispersilk Cloak"/>
+        <card number="1" price="0" name="Back to Nature"/>
+        <card number="1" price="0" name="Chandra's Outrage"/>
+        <card number="1" price="0" name="Fling"/>
+        <card number="2" price="0" name="Giant Growth"/>
+        <card number="1" price="0" name="Lightning Bolt"/>
+        <card number="1" price="0" name="Plummet"/>
+        <card number="1" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Fireball"/>
+        <card number="1" price="0" name="Lava Axe"/>
+        <card number="1" price="0" name="Nature's Spiral"/>
+        <card number="1" price="0" name="Overwhelming Stampede"/>
+    </zone>
+</cockatrice_deck>

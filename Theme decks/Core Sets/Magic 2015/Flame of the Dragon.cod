@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Ornithopter"/>
+        <card number="3" price="0" name="Bronze Sable"/>
+        <card number="2" price="0" name="Welkin Tern"/>
+        <card number="1" price="0" name="Rummaging Goblin"/>
+        <card number="3" price="0" name="Aeronaut Tinkerer"/>
+        <card number="2" price="0" name="Krenko's Enforcer"/>
+        <card number="2" price="0" name="Wall of Frost"/>
+        <card number="2" price="0" name="Juggernaut"/>
+        <card number="3" price="0" name="Scrapyard Mongrel"/>
+        <card number="1" price="0" name="Hoarding Dragon"/>
+        <card number="2" price="0" name="Glacial Crasher"/>
+        <card number="1" price="0" name="Siege Dragon"/>
+        <card number="2" price="0" name="Lava Axe"/>
+        <card number="1" price="0" name="Shrapnel Blast"/>
+        <card number="1" price="0" name="Rogue's Gloves"/>
+        <card number="1" price="0" name="Sacred Armory"/>
+        <card number="1" price="0" name="Tyrant's Machine"/>
+        <card number="1" price="0" name="Brawler's Plate"/>
+        <card number="1" price="0" name="Staff of the Flame Magus"/>
+        <card number="1" price="0" name="Staff of the Mind Magus"/>
+        <card number="1" price="0" name="Darksteel Citadel"/>
+        <card number="2" price="0" name="Ensoul Artifact"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Island"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="20" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Forgotten Cave"/>
+        <card number="2" price="0" name="Goblin Burrows"/>
+        <card number="1" price="0" name="Flamestick Courier"/>
+        <card number="1" price="0" name="Gempalm Incinerator"/>
+        <card number="3" price="0" name="Goblin Brigand"/>
+        <card number="2" price="0" name="Goblin Grappler"/>
+        <card number="1" price="0" name="Goblin Psychopath"/>
+        <card number="2" price="0" name="Goblin Sky Raider"/>
+        <card number="2" price="0" name="Goblin Sledder"/>
+        <card number="2" price="0" name="Goblin Taskmaster"/>
+        <card number="1" price="0" name="Goblin Warchief"/>
+        <card number="1" price="0" name="Nosy Goblin"/>
+        <card number="1" price="0" name="Reckless One"/>
+        <card number="3" price="0" name="Rock Jockey"/>
+        <card number="1" price="0" name="Siege-Gang Commander"/>
+        <card number="2" price="0" name="Skirk Commando"/>
+        <card number="1" price="0" name="Skirk Drill Sergeant"/>
+        <card number="2" price="0" name="Skirk Marauder"/>
+        <card number="2" price="0" name="Skirk Volcanist"/>
+        <card number="1" price="0" name="Sparksmith"/>
+        <card number="2" price="0" name="Carbonize"/>
+        <card number="1" price="0" name="Enrage"/>
+        <card number="2" price="0" name="Goblin War Strike"/>
+        <card number="1" price="0" name="Wave of Indifference"/>
+        <card number="1" price="0" name="Sulfuric Vortex"/>
+    </zone>
+</cockatrice_deck>

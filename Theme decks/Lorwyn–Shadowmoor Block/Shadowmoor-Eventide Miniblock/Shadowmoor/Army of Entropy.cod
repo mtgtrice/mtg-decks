@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Ashenmoor Cohort"/>
+        <card number="3" price="0" name="Ashenmoor Gouger"/>
+        <card number="1" price="0" name="Ashenmoor Liege"/>
+        <card number="2" price="0" name="Blistering Dieflyn"/>
+        <card number="3" price="0" name="Cinderbones"/>
+        <card number="2" price="0" name="Emberstrike Duo"/>
+        <card number="2" price="0" name="Kulrath Knight"/>
+        <card number="2" price="0" name="Mudbrawler Cohort"/>
+        <card number="2" price="0" name="Murderous Redcap"/>
+        <card number="2" price="0" name="Rattleblaze Scarecrow"/>
+        <card number="2" price="0" name="Puncture Bolt"/>
+        <card number="3" price="0" name="Scar"/>
+        <card number="1" price="0" name="Smash to Smithereens"/>
+        <card number="1" price="0" name="Din of the Fireherd"/>
+        <card number="1" price="0" name="Wild Swing"/>
+        <card number="3" price="0" name="Blowfly Infestation"/>
+        <card number="2" price="0" name="Fists of the Demigod"/>
+        <card number="2" price="0" name="Torrent of Souls"/>
+    </zone>
+</cockatrice_deck>

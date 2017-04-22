@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Island"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Archaeomancer"/>
+        <card number="1" price="0" name="Burnished Hart"/>
+        <card number="2" price="0" name="Coral Merfolk"/>
+        <card number="2" price="0" name="Crackling Triton"/>
+        <card number="2" price="0" name="Ill-Tempered Cyclops"/>
+        <card number="2" price="0" name="Omenspeaker"/>
+        <card number="2" price="0" name="Sealock Monster"/>
+        <card number="1" price="0" name="Shipbreaker Kraken"/>
+        <card number="2" price="0" name="Stoneshock Giant"/>
+        <card number="1" price="0" name="Wall of Frost"/>
+        <card number="1" price="0" name="Water Servant"/>
+        <card number="1" price="0" name="Disperse"/>
+        <card number="1" price="0" name="Dissolve"/>
+        <card number="2" price="0" name="Griptide"/>
+        <card number="2" price="0" name="Lightning Strike"/>
+        <card number="1" price="0" name="Lost in a Labyrinth"/>
+        <card number="1" price="0" name="Magma Jet"/>
+        <card number="2" price="0" name="Shock"/>
+        <card number="1" price="0" name="Volcanic Geyser"/>
+        <card number="1" price="0" name="Curse of the Swine"/>
+        <card number="2" price="0" name="Rage of Purphoros"/>
+        <card number="1" price="0" name="Sea God's Revenge"/>
+        <card number="1" price="0" name="Ordeal of Purphoros"/>
+    </zone>
+</cockatrice_deck>

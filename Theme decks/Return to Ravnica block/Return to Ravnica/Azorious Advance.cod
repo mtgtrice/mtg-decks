@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Plains"/>
+        <card number="1" price="0" name="Azorius Guildgate"/>
+        <card number="1" price="0" name="Archon of the Triumvirate"/>
+        <card number="2" price="0" name="Azorius Arrester"/>
+        <card number="1" price="0" name="Azorius Justiciar"/>
+        <card number="2" price="0" name="Battleflight Eagle"/>
+        <card number="2" price="0" name="Bazaar Krovod"/>
+        <card number="2" price="0" name="Concordia Pegasus"/>
+        <card number="1" price="0" name="Lyev Skyknight"/>
+        <card number="1" price="0" name="New Prahv Guildmage"/>
+        <card number="3" price="0" name="Silvercoat Lion"/>
+        <card number="1" price="0" name="Skyline Predator"/>
+        <card number="1" price="0" name="Soulsworn Spirit"/>
+        <card number="2" price="0" name="Stealer of Secrets"/>
+        <card number="2" price="0" name="Trained Caracal"/>
+        <card number="2" price="0" name="Vassal Soul"/>
+        <card number="2" price="0" name="Arrest"/>
+        <card number="1" price="0" name="Righteous Authority"/>
+        <card number="1" price="0" name="Angel's Mercy"/>
+        <card number="1" price="0" name="Dramatic Rescue"/>
+        <card number="2" price="0" name="Show of Valor"/>
+        <card number="1" price="0" name="Swift Justice"/>
+        <card number="1" price="0" name="Inaction Injunction"/>
+        <card number="2" price="0" name="Azorius Keyrune"/>
+        <card number="1" price="0" name="Tablet of the Guilds"/>
+    </zone>
+</cockatrice_deck>

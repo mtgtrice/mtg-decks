@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Island"/>
+        <card number="9" price="0" name="Plains"/>
+        <card number="2" price="0" name="Avian Changeling"/>
+        <card number="2" price="0" name="Drowner of Secrets"/>
+        <card number="1" price="0" name="Fallowsage"/>
+        <card number="2" price="0" name="Harpoon Sniper"/>
+        <card number="3" price="0" name="Judge of Currents"/>
+        <card number="1" price="0" name="Merrow Harbinger"/>
+        <card number="2" price="0" name="Merrow Reejerey"/>
+        <card number="2" price="0" name="Silvergill Adept"/>
+        <card number="3" price="0" name="Silvergill Douser"/>
+        <card number="2" price="0" name="Stonybrook Angler"/>
+        <card number="3" price="0" name="Streambed Aquitects"/>
+        <card number="1" price="0" name="Sygg, River Guide"/>
+        <card number="2" price="0" name="Tideshaper Mystic"/>
+        <card number="1" price="0" name="Wanderwine Prophets"/>
+        <card number="1" price="0" name="Broken Ambitions"/>
+        <card number="1" price="0" name="Whirlpool Whelm"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="2" price="0" name="Summon the School"/>
+        <card number="1" price="0" name="Merrow Commerce"/>
+        <card number="3" price="0" name="Oblivion Ring"/>
+        <card number="2" price="0" name="Springleaf Drum"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="9" price="0" name="Forest"/>
+        <card number="9" price="0" name="Plains"/>
+        <card number="1" price="0" name="Cudgel Troll"/>
+        <card number="1" price="0" name="Daggerback Basilisk"/>
+        <card number="2" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Gigantomancer"/>
+        <card number="1" price="0" name="Kor Spiritdancer"/>
+        <card number="1" price="0" name="Nema Siltlurker"/>
+        <card number="1" price="0" name="Ornithopter"/>
+        <card number="1" price="0" name="Pelakka Wurm"/>
+        <card number="1" price="0" name="Prized Unicorn"/>
+        <card number="1" price="0" name="Soul's Attendant"/>
+        <card number="2" price="0" name="Sporecap Spider"/>
+        <card number="1" price="0" name="Stomper Cub"/>
+        <card number="1" price="0" name="Angel's Mercy"/>
+        <card number="1" price="0" name="Righteousness"/>
+        <card number="1" price="0" name="Harmless Assault"/>
+        <card number="1" price="0" name="Boar Umbra"/>
+        <card number="1" price="0" name="Eland Umbra"/>
+        <card number="1" price="0" name="Mammoth Umbra"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Spider Umbra"/>
+    </zone>
+</cockatrice_deck>

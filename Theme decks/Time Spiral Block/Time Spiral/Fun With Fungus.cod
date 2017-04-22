@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="1" price="0" name="Pendelhaven"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Deathspore Thallid"/>
+        <card number="2" price="0" name="Herd Gnarr"/>
+        <card number="2" price="0" name="Pendelhaven Elder"/>
+        <card number="2" price="0" name="Savage Thallid"/>
+        <card number="2" price="0" name="Sporesower Thallid"/>
+        <card number="2" price="0" name="Thallid"/>
+        <card number="3" price="0" name="Thallid Germinator"/>
+        <card number="3" price="0" name="Thallid Shell-Dweller"/>
+        <card number="1" price="0" name="Thelon of Havenwood"/>
+        <card number="1" price="0" name="Wormwood Dryad"/>
+        <card number="2" price="0" name="Fallen Ideal"/>
+        <card number="1" price="0" name="Feebleness"/>
+        <card number="1" price="0" name="Verdant Embrace"/>
+        <card number="1" price="0" name="Krosan Grip"/>
+        <card number="1" price="0" name="Might of Old Krosa"/>
+        <card number="2" price="0" name="Sprout"/>
+        <card number="2" price="0" name="Strength in Numbers"/>
+        <card number="2" price="0" name="Sudden Death"/>
+        <card number="1" price="0" name="Assassinate"/>
+        <card number="1" price="0" name="Dread Return"/>
+        <card number="1" price="0" name="Claws of Gix"/>
+    </zone>
+</cockatrice_deck>

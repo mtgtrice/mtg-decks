@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" price="0" name="Plains"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Barren Moor"/>
+        <card number="4" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Starlit Sanctum"/>
+        <card number="1" price="0" name="Aven Soulgazer"/>
+        <card number="2" price="0" name="Battlefield Medic"/>
+        <card number="2" price="0" name="Cabal Archon"/>
+        <card number="1" price="0" name="Cabal Executioner"/>
+        <card number="3" price="0" name="Daru Healer"/>
+        <card number="1" price="0" name="Daunting Defender"/>
+        <card number="2" price="0" name="Disciple of Grace"/>
+        <card number="4" price="0" name="Disciple of Malice"/>
+        <card number="2" price="0" name="Doubtless One"/>
+        <card number="3" price="0" name="Foothill Guide"/>
+        <card number="1" price="0" name="Gangrenous Goliath"/>
+        <card number="1" price="0" name="Headhunter"/>
+        <card number="1" price="0" name="Akroma's Blessing"/>
+        <card number="1" price="0" name="Death Pulse"/>
+        <card number="2" price="0" name="Smother"/>
+        <card number="2" price="0" name="Swat"/>
+        <card number="2" price="0" name="Profane Prayers"/>
+        <card number="1" price="0" name="Astral Slide"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Sigil of the New Dawn"/>
+    </zone>
+</cockatrice_deck>

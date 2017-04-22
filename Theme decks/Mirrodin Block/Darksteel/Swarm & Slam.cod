@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Forest"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="4" price="0" name="Gold Myr"/>
+        <card number="2" price="0" name="Infested Roothold"/>
+        <card number="2" price="0" name="Pteron Ghost"/>
+        <card number="3" price="0" name="Tangle Golem"/>
+        <card number="2" price="0" name="Tangle Spider"/>
+        <card number="1" price="0" name="Tel-Jilad Archers"/>
+        <card number="2" price="0" name="Tel-Jilad Outrider"/>
+        <card number="2" price="0" name="Viridian Shaman"/>
+        <card number="1" price="0" name="Arrest"/>
+        <card number="4" price="0" name="Echoing Courage"/>
+        <card number="1" price="0" name="Purge"/>
+        <card number="2" price="0" name="Raise the Alarm"/>
+        <card number="1" price="0" name="Stir the Pride"/>
+        <card number="1" price="0" name="Test of Faith"/>
+        <card number="2" price="0" name="One Dozen Eyes"/>
+        <card number="1" price="0" name="Pulse of the Tangle"/>
+        <card number="1" price="0" name="Myr Matrix"/>
+        <card number="2" price="0" name="Spawning Pit"/>
+        <card number="1" price="0" name="Thunderstaff"/>
+        <card number="1" price="0" name="Wirefly Hive"/>
+    </zone>
+</cockatrice_deck>

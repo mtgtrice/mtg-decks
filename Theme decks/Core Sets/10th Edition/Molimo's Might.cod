@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="16" price="0" name="Forest"/>
+        <card number="2" price="0" name="Canopy Spider"/>
+        <card number="2" price="0" name="Civic Wayfinder"/>
+        <card number="2" price="0" name="Rootwalla"/>
+        <card number="1" price="0" name="Stampeding Wildebeests"/>
+        <card number="2" price="0" name="Spined Wurm"/>
+        <card number="1" price="0" name="Kavu Climber"/>
+        <card number="1" price="0" name="Craw Wurm"/>
+        <card number="1" price="0" name="Enormous Baloth"/>
+        <card number="1" price="0" name="Molimo, Maro-Sorcerer"/>
+        <card number="1" price="0" name="Giant Growth"/>
+        <card number="2" price="0" name="Blanchwood Armor"/>
+        <card number="2" price="0" name="Rampant Growth"/>
+        <card number="2" price="0" name="Commune with Nature"/>
+        <card number="1" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Hurricane"/>
+        <card number="1" price="0" name="Mantis Engine"/>
+        <card number="1" price="0" name="Wurm's Tooth"/>
+    </zone>
+</cockatrice_deck>

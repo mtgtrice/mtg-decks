@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Crystal Vein"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Gargoyle Castle"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Haunted Fengraf"/>
+        <card number="1" price="0" name="Havenwood Battleground"/>
+        <card number="1" price="0" name="Jungle Basin"/>
+        <card number="1" price="0" name="Myriad Landscape"/>
+        <card number="1" price="0" name="Oran-Rief, the Vastwood"/>
+        <card number="1" price="0" name="Slippery Karst"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="25" price="0" name="Forest"/>
+        <card number="1" price="0" name="Elvish Mystic"/>
+        <card number="1" price="0" name="Elvish Skysweeper"/>
+        <card number="1" price="0" name="Essence Warden"/>
+        <card number="1" price="0" name="Joraga Warcaller"/>
+        <card number="1" price="0" name="Llanowar Elves"/>
+        <card number="1" price="0" name="Sylvan Safekeeper"/>
+        <card number="1" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Priest of Titania"/>
+        <card number="1" price="0" name="Sylvan Ranger"/>
+        <card number="1" price="0" name="Thornweald Archer"/>
+        <card number="1" price="0" name="Wellwisher"/>
+        <card number="1" price="0" name="Farhaven Elf"/>
+        <card number="1" price="0" name="Imperious Perfect"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Timberwatch Elf"/>
+        <card number="1" price="0" name="Titania's Chosen"/>
+        <card number="1" price="0" name="Wood Elves"/>
+        <card number="1" price="0" name="Elvish Archdruid"/>
+        <card number="1" price="0" name="Ezuri, Renegade Leader"/>
+        <card number="1" price="0" name="Drove of Elves"/>
+        <card number="1" price="0" name="Immaculate Magistrate"/>
+        <card number="1" price="0" name="Wren's Run Packmaster"/>
+        <card number="1" price="0" name="Lys Alana Huntmaster"/>
+        <card number="1" price="0" name="Masked Admirers"/>
+        <card number="1" price="0" name="Wolfbriar Elemental"/>
+        <card number="1" price="0" name="Creeperhulk"/>
+        <card number="1" price="0" name="Silklash Spider"/>
+        <card number="1" price="0" name="Titania, Protector of Argoth"/>
+        <card number="1" price="0" name="Grave Sifter"/>
+        <card number="1" price="0" name="Primordial Sage"/>
+        <card number="1" price="0" name="Rampaging Baloths"/>
+        <card number="1" price="0" name="Soul of the Harvest"/>
+        <card number="1" price="0" name="Thunderfoot Baloth"/>
+        <card number="1" price="0" name="Siege Behemoth"/>
+        <card number="1" price="0" name="Tornado Elemental"/>
+        <card number="1" price="0" name="Terastodon"/>
+        <card number="1" price="0" name="Lifeblood Hydra"/>
+        <card number="1" price="0" name="Harrow"/>
+        <card number="1" price="0" name="Fresh Meat"/>
+        <card number="1" price="0" name="Hunting Triad"/>
+        <card number="1" price="0" name="Whirlwind"/>
+        <card number="1" price="0" name="Overwhelming Stampede"/>
+        <card number="1" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Grim Flowering"/>
+        <card number="1" price="0" name="Collective Unconscious"/>
+        <card number="1" price="0" name="Desert Twister"/>
+        <card number="1" price="0" name="Wave of Vitriol"/>
+        <card number="1" price="0" name="Praetor's Counsel"/>
+        <card number="1" price="0" name="Sylvan Offering"/>
+        <card number="1" price="0" name="Beastmaster Ascension"/>
+        <card number="1" price="0" name="Song of the Dryads"/>
+        <card number="1" price="0" name="Wolfcaller's Howl"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Emerald Medallion"/>
+        <card number="1" price="0" name="Moss Diamond"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Commander's Sphere"/>
+        <card number="1" price="0" name="Assault Suit"/>
+        <card number="1" price="0" name="Seer's Sundial"/>
+        <card number="1" price="0" name="Predator, Flagship"/>
+        <card number="1" price="0" name="Loreseeker's Stone"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Freyalise, Llanowar's Fury"/>
+    </zone>
+</cockatrice_deck>

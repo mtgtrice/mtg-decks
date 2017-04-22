@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Forest"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="2" price="0" name="Borderland Ranger"/>
+        <card number="1" price="0" name="Deathforge Shaman"/>
+        <card number="1" price="0" name="Giant Spider"/>
+        <card number="2" price="0" name="Gnarlid Pack"/>
+        <card number="1" price="0" name="Goblin Roughrider"/>
+        <card number="1" price="0" name="Grappler Spider"/>
+        <card number="1" price="0" name="Greenweaver Druid"/>
+        <card number="1" price="0" name="Leatherback Baloth"/>
+        <card number="1" price="0" name="Skitter of Lizards"/>
+        <card number="1" price="0" name="Terastodon"/>
+        <card number="1" price="0" name="Wolfbriar Elemental"/>
+        <card number="2" price="0" name="Giant Growth"/>
+        <card number="2" price="0" name="Lightning Bolt"/>
+        <card number="1" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Canopy Cover"/>
+        <card number="1" price="0" name="Rumbling Aftershocks"/>
+        <card number="2" price="0" name="Vastwood Zendikon"/>
+    </zone>
+</cockatrice_deck>

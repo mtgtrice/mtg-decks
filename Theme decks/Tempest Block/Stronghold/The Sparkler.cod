@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" price="0" name="Island"/>
+        <card number="13" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Wall of Tears"/>
+        <card number="1" price="0" name="Mogg Fanatic"/>
+        <card number="1" price="0" name="Wall of Razors"/>
+        <card number="1" price="0" name="Mind Games"/>
+        <card number="1" price="0" name="Whispers of the Muse"/>
+        <card number="2" price="0" name="Power Sink"/>
+        <card number="2" price="0" name="Spell Blast"/>
+        <card number="1" price="0" name="Contempt"/>
+        <card number="3" price="0" name="Mana Leak"/>
+        <card number="1" price="0" name="Counterspell"/>
+        <card number="2" price="0" name="Capsize"/>
+        <card number="1" price="0" name="Intruder Alarm"/>
+        <card number="2" price="0" name="Propaganda"/>
+        <card number="1" price="0" name="Ransack"/>
+        <card number="1" price="0" name="Reins of Power"/>
+        <card number="1" price="0" name="Evacuation"/>
+        <card number="2" price="0" name="Shock"/>
+        <card number="2" price="0" name="Flowstone Blade"/>
+        <card number="1" price="0" name="Searing Touch"/>
+        <card number="1" price="0" name="Shatter"/>
+        <card number="2" price="0" name="Fanning the Flames"/>
+        <card number="3" price="0" name="Lightning Blast"/>
+    </zone>
+</cockatrice_deck>

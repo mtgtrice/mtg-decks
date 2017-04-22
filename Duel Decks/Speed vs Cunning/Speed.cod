@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Ghitu Encampment"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Nomad Outpost"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="6" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Beetleback Chief"/>
+        <card number="2" price="0" name="Dregscape Zombie"/>
+        <card number="1" price="0" name="Flame-Kin Zealot"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Frenzied Goblin"/>
+        <card number="1" price="0" name="Goblin Deathraiders"/>
+        <card number="1" price="0" name="Goblin Warchief"/>
+        <card number="1" price="0" name="Hellraiser Goblin"/>
+        <card number="1" price="0" name="Hell's Thunder"/>
+        <card number="1" price="0" name="Infantry Veteran"/>
+        <card number="1" price="0" name="Kathari Bomber"/>
+        <card number="1" price="0" name="Krenko, Mob Boss"/>
+        <card number="2" price="0" name="Leonin Snarecaster"/>
+        <card number="1" price="0" name="Mardu Heart-Piercer"/>
+        <card number="1" price="0" name="Ogre Battledriver"/>
+        <card number="1" price="0" name="Oni of Wild Places"/>
+        <card number="1" price="0" name="Scourge Devil"/>
+        <card number="1" price="0" name="Shambling Remains"/>
+        <card number="1" price="0" name="Zurgo Helmsmasher"/>
+        <card number="1" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Arc Trail"/>
+        <card number="1" price="0" name="Banefire"/>
+        <card number="1" price="0" name="Bone Splinters"/>
+        <card number="1" price="0" name="Dauntless Onslaught"/>
+        <card number="2" price="0" name="Fiery Fall"/>
+        <card number="1" price="0" name="Fury of the Horde"/>
+        <card number="1" price="0" name="Goblin Bombardment"/>
+        <card number="2" price="0" name="Krenko's Command"/>
+        <card number="1" price="0" name="Orcish Cannonade"/>
+        <card number="1" price="0" name="Reckless Abandon"/>
+        <card number="1" price="0" name="Shock"/>
+    </zone>
+</cockatrice_deck>

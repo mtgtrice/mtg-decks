@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Plains"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Tainted Field"/>
+        <card number="1" price="0" name="Angel of Retribution"/>
+        <card number="1" price="0" name="Auramancer"/>
+        <card number="1" price="0" name="Aven Cloudchaser"/>
+        <card number="2" price="0" name="Cabal Surgeon"/>
+        <card number="1" price="0" name="Carrion Wurm"/>
+        <card number="1" price="0" name="Crypt Creeper"/>
+        <card number="4" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Grotesque Hybrid"/>
+        <card number="1" price="0" name="Ichorid"/>
+        <card number="3" price="0" name="Mystic Familiar"/>
+        <card number="3" price="0" name="Putrid Imp"/>
+        <card number="1" price="0" name="Stern Judge"/>
+        <card number="3" price="0" name="Teroh's Faithful"/>
+        <card number="1" price="0" name="Teroh's Vanguard"/>
+        <card number="1" price="0" name="Whispering Shade"/>
+        <card number="3" price="0" name="Buried Alive"/>
+        <card number="4" price="0" name="Crippling Fatigue"/>
+        <card number="1" price="0" name="Zombify"/>
+        <card number="1" price="0" name="Hypochondria"/>
+        <card number="1" price="0" name="Malevolent Awakening"/>
+        <card number="1" price="0" name="Strength of Isolation"/>
+    </zone>
+</cockatrice_deck>

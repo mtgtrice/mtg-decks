@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Forest"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Cosmic Larva"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Fangren Hunter"/>
+        <card number="2" price="0" name="Fangren Pathcutter"/>
+        <card number="2" price="0" name="Goblin Brawler"/>
+        <card number="1" price="0" name="Goblin Replica"/>
+        <card number="1" price="0" name="Iron-Barb Hellion"/>
+        <card number="1" price="0" name="Slith Firewalker"/>
+        <card number="1" price="0" name="Spark Elemental"/>
+        <card number="2" price="0" name="Spikeshot Goblin"/>
+        <card number="2" price="0" name="Sylvok Explorer"/>
+        <card number="1" price="0" name="Tangle Asp"/>
+        <card number="1" price="0" name="Tel-Jilad Chosen"/>
+        <card number="2" price="0" name="Tel-Jilad Exile"/>
+        <card number="1" price="0" name="Tel-Jilad Lifebreather"/>
+        <card number="2" price="0" name="Tyrranax"/>
+        <card number="2" price="0" name="Viridian Lorebearers"/>
+        <card number="1" price="0" name="Vulshok Berserker"/>
+        <card number="1" price="0" name="Vulshok Sorcerer"/>
+        <card number="1" price="0" name="Rite of Passage"/>
+        <card number="1" price="0" name="Barbed Lightning"/>
+        <card number="1" price="0" name="Ferocious Charge"/>
+        <card number="1" price="0" name="Grab the Reins"/>
+        <card number="1" price="0" name="Magma Jet"/>
+        <card number="1" price="0" name="Rain of Rust"/>
+        <card number="1" price="0" name="Tel-Jilad Justice"/>
+        <card number="1" price="0" name="Goblin Cannon"/>
+        <card number="1" price="0" name="Pyrite Spellbomb"/>
+        <card number="2" price="0" name="Talisman of Impulse"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="23" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Polluted Mire"/>
+        <card number="1" price="0" name="Deathgreeter"/>
+        <card number="1" price="0" name="Drudge Skeletons"/>
+        <card number="1" price="0" name="Faerie Macabre"/>
+        <card number="2" price="0" name="Fleshbag Marauder"/>
+        <card number="2" price="0" name="Ghost-Lit Stalker"/>
+        <card number="1" price="0" name="Howling Banshee"/>
+        <card number="1" price="0" name="Keening Banshee"/>
+        <card number="2" price="0" name="Phyrexian Rager"/>
+        <card number="1" price="0" name="Ravenous Rats"/>
+        <card number="1" price="0" name="Skeletal Vampire"/>
+        <card number="2" price="0" name="Twisted Abomination"/>
+        <card number="1" price="0" name="Urborg Syphon-Mage"/>
+        <card number="2" price="0" name="Vampire Bats"/>
+        <card number="1" price="0" name="Wall of Bone"/>
+        <card number="1" price="0" name="Hideous End"/>
+        <card number="1" price="0" name="Snuff Out"/>
+        <card number="2" price="0" name="Tendrils of Corruption"/>
+        <card number="2" price="0" name="Corrupt"/>
+        <card number="1" price="0" name="Ichor Slick"/>
+        <card number="1" price="0" name="Mutilate"/>
+        <card number="1" price="0" name="Rise from the Grave"/>
+        <card number="2" price="0" name="Sign in Blood"/>
+        <card number="1" price="0" name="Vicious Hunger"/>
+        <card number="1" price="0" name="Bad Moon"/>
+        <card number="1" price="0" name="Enslave"/>
+        <card number="1" price="0" name="Genju of the Fens"/>
+        <card number="1" price="0" name="Liliana Vess"/>
+    </zone>
+</cockatrice_deck>

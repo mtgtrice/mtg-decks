@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Bloodfire Dwarf"/>
+        <card number="2" price="0" name="Bloodfire Kavu"/>
+        <card number="1" price="0" name="Coastal Drake"/>
+        <card number="1" price="0" name="Dwarven Patrol"/>
+        <card number="2" price="0" name="Faerie Squadron"/>
+        <card number="1" price="0" name="Flametongue Kavu"/>
+        <card number="1" price="0" name="Metathran Transport"/>
+        <card number="2" price="0" name="Minotaur Illusionist"/>
+        <card number="1" price="0" name="Rainbow Crow"/>
+        <card number="2" price="0" name="Razorfin Hunter"/>
+        <card number="2" price="0" name="Whirlpool Drake"/>
+        <card number="3" price="0" name="Whirlpool Rider"/>
+        <card number="1" price="0" name="Whirlpool Warrior"/>
+        <card number="1" price="0" name="Bloodfire Infusion"/>
+        <card number="2" price="0" name="Quicksilver Dagger"/>
+        <card number="1" price="0" name="Confound"/>
+        <card number="1" price="0" name="Exclude"/>
+        <card number="1" price="0" name="Fire // Ice"/>
+        <card number="2" price="0" name="Jilt"/>
+        <card number="1" price="0" name="Opt"/>
+        <card number="1" price="0" name="Scorching Lava"/>
+        <card number="2" price="0" name="Stun"/>
+        <card number="1" price="0" name="Suffocating Blast"/>
+        <card number="2" price="0" name="Chromatic Sphere"/>
+    </zone>
+</cockatrice_deck>

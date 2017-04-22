@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="12" price="0" name="Island"/>
+        <card number="1" price="0" name="Acidic Slime"/>
+        <card number="1" price="0" name="Deadeye Navigator"/>
+        <card number="2" price="0" name="Druid's Familiar"/>
+        <card number="2" price="0" name="Elgaud Shieldmate"/>
+        <card number="2" price="0" name="Flowering Lumberknot"/>
+        <card number="1" price="0" name="Geist Trappers"/>
+        <card number="2" price="0" name="Latch Seeker"/>
+        <card number="2" price="0" name="Llanowar Elves"/>
+        <card number="1" price="0" name="Nephalia Smuggler"/>
+        <card number="2" price="0" name="Nightshade Peddler"/>
+        <card number="1" price="0" name="Pathbreaker Wurm"/>
+        <card number="1" price="0" name="Runeclaw Bear"/>
+        <card number="2" price="0" name="Tandem Lookout"/>
+        <card number="3" price="0" name="Trusted Forcemage"/>
+        <card number="2" price="0" name="Vorstclaw"/>
+        <card number="2" price="0" name="Wingcrafter"/>
+        <card number="1" price="0" name="Wolfir Avenger"/>
+        <card number="1" price="0" name="Wolfir Silverheart"/>
+        <card number="2" price="0" name="Joint Assault"/>
+        <card number="2" price="0" name="Lair Delve"/>
+        <card number="1" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Ice Cage"/>
+    </zone>
+</cockatrice_deck>

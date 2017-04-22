@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Jungle Hollow"/>
+        <card number="2" price="0" name="Opulent Palace"/>
+        <card number="1" price="0" name="Thornwood Falls"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="1" price="0" name="Typhoid Rats"/>
+        <card number="1" price="0" name="Black Cat"/>
+        <card number="1" price="0" name="Walking Corpse"/>
+        <card number="2" price="0" name="Satyr Wayfinder"/>
+        <card number="1" price="0" name="Wall of Mulch"/>
+        <card number="1" price="0" name="Research Assistant"/>
+        <card number="2" price="0" name="Necromancer's Assistant"/>
+        <card number="1" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Rotfeaster Maggot"/>
+        <card number="1" price="0" name="Rakshasa Vizier"/>
+        <card number="1" price="0" name="Sultai Soothsayer"/>
+        <card number="2" price="0" name="Sultai Scavenger"/>
+        <card number="2" price="0" name="Hooting Mandrills"/>
+        <card number="2" price="0" name="Shambling Attendants"/>
+        <card number="1" price="0" name="Necropolis Fiend"/>
+        <card number="1" price="0" name="Sultai Banner"/>
+        <card number="1" price="0" name="Sultai Charm"/>
+        <card number="1" price="0" name="Murderous Cut"/>
+        <card number="1" price="0" name="Throttle"/>
+        <card number="1" price="0" name="Become Immense"/>
+        <card number="2" price="0" name="Taigam's Scheming"/>
+        <card number="1" price="0" name="Rakshasa's Secret"/>
+        <card number="1" price="0" name="Scout the Borders"/>
+        <card number="1" price="0" name="Bitter Revelation"/>
+        <card number="1" price="0" name="Set Adrift"/>
+        <card number="1" price="0" name="Treasure Cruise"/>
+        <card number="1" price="0" name="Dead Drop"/>
+        <card number="1" price="0" name="Debilitating Injury"/>
+    </zone>
+</cockatrice_deck>

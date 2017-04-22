@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Agent of the Fates"/>
+        <card number="1" price="0" name="Blood Scrivener"/>
+        <card number="1" price="0" name="Crypt Ghast"/>
+        <card number="1" price="0" name="Desecration Demon"/>
+        <card number="1" price="0" name="Erebos's Emissary"/>
+        <card number="1" price="0" name="Herald of Torment"/>
+        <card number="3" price="0" name="Mogis's Marauder"/>
+        <card number="1" price="0" name="Pack Rat"/>
+        <card number="4" price="0" name="Rakdos Cackler"/>
+        <card number="4" price="0" name="Rakdos Shred-Freak"/>
+        <card number="3" price="0" name="Spiteful Returned"/>
+        <card number="3" price="0" name="Tormented Hero"/>
+        <card number="2" price="0" name="Xathrid Necromancer"/>
+        <card number="1" price="0" name="Gift of Orzhova"/>
+        <card number="2" price="0" name="Bile Blight"/>
+        <card number="3" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Fated Return"/>
+        <card number="1" price="0" name="Hero's Downfall"/>
+        <card number="2" price="0" name="Ultimate Price"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Cremate"/>
+        <card number="2" price="0" name="Dark Betrayal"/>
+        <card number="4" price="0" name="Duress"/>
+        <card number="2" price="0" name="Gift of Orzhova"/>
+        <card number="2" price="0" name="Pharika's Cure"/>
+        <card number="2" price="0" name="Staff of the Death Magus"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Deepwood Wolverine"/>
+        <card number="2" price="0" name="Spore Frog"/>
+        <card number="1" price="0" name="Stampede Driver"/>
+        <card number="2" price="0" name="Pygmy Razorback"/>
+        <card number="2" price="0" name="Vine Trellis"/>
+        <card number="2" price="0" name="Darba"/>
+        <card number="2" price="0" name="Hunted Wumpus"/>
+        <card number="2" price="0" name="Blastoderm"/>
+        <card number="1" price="0" name="Lumbering Satyr"/>
+        <card number="1" price="0" name="Silverglade Elemental"/>
+        <card number="1" price="0" name="Vintara Elephant"/>
+        <card number="1" price="0" name="Spitting Spider"/>
+        <card number="3" price="0" name="Thresher Beast"/>
+        <card number="1" price="0" name="Avatar of Might"/>
+        <card number="2" price="0" name="Animate Land"/>
+        <card number="1" price="0" name="Seal of Strength"/>
+        <card number="1" price="0" name="Jolreal's Favor"/>
+        <card number="1" price="0" name="Treetop Bracers"/>
+        <card number="2" price="0" name="Wild Might"/>
+        <card number="1" price="0" name="Invigorate"/>
+        <card number="1" price="0" name="Tranquility"/>
+        <card number="1" price="0" name="Skyshroud Claim"/>
+        <card number="2" price="0" name="Snag"/>
+        <card number="2" price="0" name="Living Terrain"/>
+        <card number="1" price="0" name="Vitalizing Wind"/>
+        <card number="20" price="0" name="Forest"/>
+        <card number="2" price="0" name="Hickory Woodlot"/>
+    </zone>
+</cockatrice_deck>

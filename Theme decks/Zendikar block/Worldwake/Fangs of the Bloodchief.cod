@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Piranha Marsh"/>
+        <card number="16" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Anowon, the Ruin Sage"/>
+        <card number="1" price="0" name="Bloodhusk Ritualist"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="2" price="0" name="Child of Night"/>
+        <card number="1" price="0" name="Jagwasp Swarm"/>
+        <card number="2" price="0" name="Pulse Tracker"/>
+        <card number="2" price="0" name="Ruthless Cullblade"/>
+        <card number="1" price="0" name="Vampire Aristocrat"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Zombie Goliath"/>
+        <card number="1" price="0" name="Hideous End"/>
+        <card number="1" price="0" name="Urge to Feed"/>
+        <card number="1" price="0" name="Consume Spirit"/>
+        <card number="1" price="0" name="Dead Reckoning"/>
+        <card number="1" price="0" name="Diabolic Tutor"/>
+        <card number="1" price="0" name="Feast of Blood"/>
+        <card number="2" price="0" name="Mire's Toll"/>
+        <card number="1" price="0" name="Rise from the Grave"/>
+        <card number="1" price="0" name="Brink of Disaster"/>
+    </zone>
+</cockatrice_deck>

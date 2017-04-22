@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Azorius Chancery"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="1" price="0" name="Prahv, Spires of Order"/>
+        <card number="12" price="0" name="Plains"/>
+        <card number="2" price="0" name="Azorius First-Wing"/>
+        <card number="1" price="0" name="Azorius Guildmage"/>
+        <card number="3" price="0" name="Beacon Hawk"/>
+        <card number="2" price="0" name="Benevolent Ancestor"/>
+        <card number="1" price="0" name="Isperia the Inscrutable"/>
+        <card number="2" price="0" name="Minister of Impediments"/>
+        <card number="2" price="0" name="Mistral Charger"/>
+        <card number="1" price="0" name="Paladin of Prahv"/>
+        <card number="2" price="0" name="Sky Hussar"/>
+        <card number="3" price="0" name="Soulsworn Jury"/>
+        <card number="2" price="0" name="Stoic Ephemera"/>
+        <card number="3" price="0" name="Tidewater Minion"/>
+        <card number="1" price="0" name="Wakestone Gargoyle"/>
+        <card number="1" price="0" name="Zephyr Spirit"/>
+        <card number="1" price="0" name="Faith's Fetters"/>
+        <card number="1" price="0" name="Halcyon Glaze"/>
+        <card number="2" price="0" name="Ocular Halo"/>
+        <card number="1" price="0" name="Palliation Accord"/>
+        <card number="2" price="0" name="Plumes of Peace"/>
+        <card number="1" price="0" name="Sinstriker's Will"/>
+        <card number="1" price="0" name="Steeling Stance"/>
+        <card number="1" price="0" name="To Arms!"/>
+    </zone>
+</cockatrice_deck>

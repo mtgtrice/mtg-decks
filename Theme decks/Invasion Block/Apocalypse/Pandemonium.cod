@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Forest"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Emblazoned Golem"/>
+        <card number="1" price="0" name="Helionaut"/>
+        <card number="1" price="0" name="Nomadic Elf"/>
+        <card number="3" price="0" name="Penumbra Bobcat"/>
+        <card number="2" price="0" name="Penumbra Kavu"/>
+        <card number="1" price="0" name="Penumbra Wurm"/>
+        <card number="2" price="0" name="Quirion Elves"/>
+        <card number="1" price="0" name="Quirion Trailblazer"/>
+        <card number="1" price="0" name="Stratadon"/>
+        <card number="2" price="0" name="Urborg Elf"/>
+        <card number="1" price="0" name="Wayfaring Giant"/>
+        <card number="2" price="0" name="Exotic Curse"/>
+        <card number="2" price="0" name="Fertile Ground"/>
+        <card number="1" price="0" name="Captain's Maneuver"/>
+        <card number="2" price="0" name="Evasive Action"/>
+        <card number="3" price="0" name="Harrow"/>
+        <card number="1" price="0" name="Order // Chaos"/>
+        <card number="2" price="0" name="Allied Strategies"/>
+        <card number="1" price="0" name="Gaea's Balance"/>
+        <card number="1" price="0" name="Last Stand"/>
+        <card number="3" price="0" name="Lay of the Land"/>
+        <card number="1" price="0" name="Life // Death"/>
+        <card number="2" price="0" name="Tribal Flames"/>
+    </zone>
+</cockatrice_deck>

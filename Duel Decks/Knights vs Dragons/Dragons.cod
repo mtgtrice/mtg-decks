@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Cinder Wall"/>
+        <card number="1" price="0" name="Skirk Prospector"/>
+        <card number="1" price="0" name="Bloodmark Mentor"/>
+        <card number="1" price="0" name="Fire-Belly Changeling"/>
+        <card number="2" price="0" name="Mudbutton Torchrunner"/>
+        <card number="1" price="0" name="Dragonspeaker Shaman"/>
+        <card number="2" price="0" name="Dragon Whelp"/>
+        <card number="1" price="0" name="Henge Guardian"/>
+        <card number="1" price="0" name="Voracious Dragon"/>
+        <card number="1" price="0" name="Bogardan Rager"/>
+        <card number="1" price="0" name="Mordant Dragon"/>
+        <card number="1" price="0" name="Kilnmouth Dragon"/>
+        <card number="1" price="0" name="Shivan Hellkite"/>
+        <card number="1" price="0" name="Thunder Dragon"/>
+        <card number="1" price="0" name="Bogardan Hellkite"/>
+        <card number="1" price="0" name="Punishing Fire"/>
+        <card number="1" price="0" name="Ghostfire"/>
+        <card number="1" price="0" name="Seething Song"/>
+        <card number="1" price="0" name="Seismic Strike"/>
+        <card number="1" price="0" name="Temporary Insanity"/>
+        <card number="2" price="0" name="Fiery Fall"/>
+        <card number="1" price="0" name="Breath of Darigaaz"/>
+        <card number="2" price="0" name="Dragon Fodder"/>
+        <card number="1" price="0" name="Spitting Earth"/>
+        <card number="1" price="0" name="Cone of Flame"/>
+        <card number="1" price="0" name="Jaws of Stone"/>
+        <card number="1" price="0" name="Captive Flame"/>
+        <card number="1" price="0" name="Claws of Valakut"/>
+        <card number="1" price="0" name="Shiv's Embrace"/>
+        <card number="2" price="0" name="Armillary Sphere"/>
+        <card number="1" price="0" name="Dragon's Claw"/>
+    </zone>
+</cockatrice_deck>

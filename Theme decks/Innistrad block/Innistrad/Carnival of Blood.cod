@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Blood Seeker"/>
+        <card number="3" price="0" name="Bloodcrazed Neonate"/>
+        <card number="1" price="0" name="Child of Night"/>
+        <card number="2" price="0" name="Crossway Vampire"/>
+        <card number="1" price="0" name="Falkenrath Marauders"/>
+        <card number="2" price="0" name="Falkenrath Noble"/>
+        <card number="2" price="0" name="Markov Patrician"/>
+        <card number="1" price="0" name="Night Revelers"/>
+        <card number="2" price="0" name="Rakish Heir"/>
+        <card number="1" price="0" name="Sengir Vampire"/>
+        <card number="2" price="0" name="Stromkirk Patrol"/>
+        <card number="2" price="0" name="Vampire Interloper"/>
+        <card number="1" price="0" name="Cobbled Wings"/>
+        <card number="2" price="0" name="Mask of Avacyn"/>
+        <card number="1" price="0" name="Traveler's Amulet"/>
+        <card number="1" price="0" name="Curse of Stalked Prey"/>
+        <card number="1" price="0" name="Gruesome Deformity"/>
+        <card number="2" price="0" name="Tribute to Hunger"/>
+        <card number="2" price="0" name="Vampiric Fury"/>
+        <card number="1" price="0" name="Diabolic Tutor"/>
+        <card number="1" price="0" name="Fireball"/>
+        <card number="1" price="0" name="Night Terrors"/>
+        <card number="1" price="0" name="Tectonic Rift"/>
+        <card number="1" price="0" name="Traitorous Blood"/>
+    </zone>
+</cockatrice_deck>

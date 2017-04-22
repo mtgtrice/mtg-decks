@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="23" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Crystal Vein"/>
+        <card number="3" price="0" name="Bloodrock Cyclops"/>
+        <card number="3" price="0" name="Goblin Vandal"/>
+        <card number="1" price="0" name="Hulking Cyclops"/>
+        <card number="3" price="0" name="Lava Hounds"/>
+        <card number="2" price="0" name="Roc Hatchling"/>
+        <card number="1" price="0" name="Suq'Ata Lancer"/>
+        <card number="2" price="0" name="Talruum Minotaur"/>
+        <card number="2" price="0" name="Viashino Sandstalker"/>
+        <card number="1" price="0" name="Wildfire Emissary"/>
+        <card number="2" price="0" name="Fireblast"/>
+        <card number="1" price="0" name="Firestorm"/>
+        <card number="3" price="0" name="Incinerate"/>
+        <card number="1" price="0" name="Thunderbolt"/>
+        <card number="2" price="0" name="Spitting Earth"/>
+        <card number="3" price="0" name="Cone of Flame"/>
+        <card number="2" price="0" name="Kaervek's Torch"/>
+        <card number="1" price="0" name="Heart of Bogardan"/>
+        <card number="3" price="0" name="Mind Stone"/>
+    </zone>
+</cockatrice_deck>

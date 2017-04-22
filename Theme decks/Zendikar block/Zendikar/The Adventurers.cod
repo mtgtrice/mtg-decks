@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="9" price="0" name="Forest"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="2" price="0" name="Oran-Rief Survivalist"/>
+        <card number="2" price="0" name="Highland Berserker"/>
+        <card number="1" price="0" name="Stonework Puma"/>
+        <card number="1" price="0" name="Awakener Druid"/>
+        <card number="1" price="0" name="Borderland Ranger"/>
+        <card number="1" price="0" name="Greenweaver Druid"/>
+        <card number="1" price="0" name="Tajuru Archer"/>
+        <card number="1" price="0" name="Joraga Bard"/>
+        <card number="1" price="0" name="Kazuul Warlord"/>
+        <card number="2" price="0" name="Tuktuk Grunts"/>
+        <card number="1" price="0" name="Murasa Pyromancer"/>
+        <card number="1" price="0" name="Turntimber Ranger"/>
+        <card number="2" price="0" name="Giant Growth"/>
+        <card number="2" price="0" name="Lightning Bolt"/>
+        <card number="1" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Beast Hunt"/>
+        <card number="1" price="0" name="Fireball"/>
+        <card number="1" price="0" name="Overrun"/>
+    </zone>
+</cockatrice_deck>

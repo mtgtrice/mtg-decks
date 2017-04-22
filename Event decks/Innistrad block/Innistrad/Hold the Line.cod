@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Plains"/>
+        <card number="4" price="0" name="Accorder Paladin"/>
+        <card number="1" price="0" name="Champion of the Parish"/>
+        <card number="4" price="0" name="Doomed Traveler"/>
+        <card number="1" price="0" name="Elite Inquisitor"/>
+        <card number="2" price="0" name="Elite Vanguard"/>
+        <card number="4" price="0" name="Fiend Hunter"/>
+        <card number="4" price="0" name="Gideon's Lawkeeper"/>
+        <card number="2" price="0" name="Mirran Crusader"/>
+        <card number="2" price="0" name="Butcher's Cleaver"/>
+        <card number="2" price="0" name="Silver-Inlaid Dagger"/>
+        <card number="4" price="0" name="Bonds of Faith"/>
+        <card number="2" price="0" name="Honor of the Pure"/>
+        <card number="4" price="0" name="Oblivion Ring"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Celestial Purge"/>
+        <card number="4" price="0" name="Leonin Relic-Warder"/>
+        <card number="1" price="0" name="Nevermore"/>
+        <card number="3" price="0" name="Nihil Spellbomb"/>
+        <card number="3" price="0" name="Suture Priest"/>
+    </zone>
+</cockatrice_deck>

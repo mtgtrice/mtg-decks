@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Charm Peddler"/>
+        <card number="3" price="0" name="Ramosian Sergeant"/>
+        <card number="2" price="0" name="Ramosian Lieutenant"/>
+        <card number="2" price="0" name="Steadfast Guard"/>
+        <card number="2" price="0" name="Devout Witness"/>
+        <card number="2" price="0" name="Nightwind Glider"/>
+        <card number="2" price="0" name="Task Force"/>
+        <card number="2" price="0" name="Thermal Glider"/>
+        <card number="2" price="0" name="Ramosian Captain"/>
+        <card number="2" price="0" name="Ballista Squad"/>
+        <card number="2" price="0" name="Pious Warrior"/>
+        <card number="1" price="0" name="Cho-Manno, Revolutionary"/>
+        <card number="2" price="0" name="Ramosian Commander"/>
+        <card number="2" price="0" name="Jhovall Rider"/>
+        <card number="1" price="0" name="Ramosian Sky Marshall"/>
+        <card number="2" price="0" name="Disenchant"/>
+        <card number="2" price="0" name="Cho-Manno's Blessing"/>
+        <card number="1" price="0" name="Afterlife"/>
+        <card number="2" price="0" name="Arrest"/>
+        <card number="1" price="0" name="Moonlit Wake"/>
+        <card number="2" price="0" name="Ramosian Rally"/>
+        <card number="1" price="0" name="Fountain of Cho"/>
+        <card number="20" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

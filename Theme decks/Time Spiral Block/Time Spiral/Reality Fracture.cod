@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Dreadship Reef"/>
+        <card number="12" price="0" name="Island"/>
+        <card number="11" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Coal Stoker"/>
+        <card number="1" price="0" name="Deep-Sea Kraken"/>
+        <card number="1" price="0" name="Errant Ephemeron"/>
+        <card number="2" price="0" name="Giant Oyster"/>
+        <card number="2" price="0" name="Keldon Halberdier"/>
+        <card number="1" price="0" name="Pardic Dragon"/>
+        <card number="3" price="0" name="Riftwing Cloudskate"/>
+        <card number="1" price="0" name="Sage of Epityr"/>
+        <card number="3" price="0" name="Viscerid Deepwalker"/>
+        <card number="1" price="0" name="Careful Consideration"/>
+        <card number="2" price="0" name="Clockspinning"/>
+        <card number="1" price="0" name="Whispers of the Muse"/>
+        <card number="3" price="0" name="Empty the Warrens"/>
+        <card number="4" price="0" name="Grapeshot"/>
+        <card number="1" price="0" name="Ground Rift"/>
+        <card number="2" price="0" name="Ignite Memories"/>
+        <card number="1" price="0" name="Rift Bolt"/>
+        <card number="2" price="0" name="Claws of Gix"/>
+        <card number="1" price="0" name="Clockwork Hydra"/>
+        <card number="1" price="0" name="Jhoira's Timebug"/>
+        <card number="1" price="0" name="Serrated Arrows"/>
+    </zone>
+</cockatrice_deck>

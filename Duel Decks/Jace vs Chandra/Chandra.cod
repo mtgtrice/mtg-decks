@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="24" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Keldon Megaliths"/>
+        <card number="1" price="0" name="Chartooth Cougar"/>
+        <card number="1" price="0" name="Fireslinger"/>
+        <card number="2" price="0" name="Flamekin Brawler"/>
+        <card number="1" price="0" name="Flametongue Kavu"/>
+        <card number="1" price="0" name="Flamewave Invoker"/>
+        <card number="2" price="0" name="Furnace Whelp"/>
+        <card number="1" price="0" name="Hostility"/>
+        <card number="1" price="0" name="Ingot Chewer"/>
+        <card number="2" price="0" name="Inner-Flame Acolyte"/>
+        <card number="2" price="0" name="Oxidda Golem"/>
+        <card number="1" price="0" name="Pyre Charger"/>
+        <card number="1" price="0" name="Rakdos Pit Dragon"/>
+        <card number="2" price="0" name="Slith Firewalker"/>
+        <card number="2" price="0" name="Soulbright Flamekin"/>
+        <card number="2" price="0" name="Fireblast"/>
+        <card number="1" price="0" name="Flame Javelin"/>
+        <card number="2" price="0" name="Incinerate"/>
+        <card number="1" price="0" name="Magma Jet"/>
+        <card number="1" price="0" name="Cone of Flame"/>
+        <card number="1" price="0" name="Demonfire"/>
+        <card number="2" price="0" name="Fireball"/>
+        <card number="2" price="0" name="Firebolt"/>
+        <card number="2" price="0" name="Seal of Fire"/>
+        <card number="1" price="0" name="Chandra Nalaar"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="23" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Flame Elemental"/>
+        <card number="2" price="0" name="Goblin Elite Infantry"/>
+        <card number="2" price="0" name="Goblin Recruiter"/>
+        <card number="2" price="0" name="Goblin Soothsayer"/>
+        <card number="3" price="0" name="Goblin Swine-Rider"/>
+        <card number="2" price="0" name="Goblin Tinkerer"/>
+        <card number="3" price="0" name="Keeper of Kookus"/>
+        <card number="1" price="0" name="Kookus"/>
+        <card number="1" price="0" name="Ogre Enforcer"/>
+        <card number="2" price="0" name="Talruum Champion"/>
+        <card number="2" price="0" name="Talruum Piper"/>
+        <card number="1" price="0" name="Viashino Sandstalker"/>
+        <card number="2" price="0" name="Mob Mentality"/>
+        <card number="3" price="0" name="Chaos Charm"/>
+        <card number="2" price="0" name="Fireblast"/>
+        <card number="3" price="0" name="Flare"/>
+        <card number="2" price="0" name="Goblin Scouts"/>
+        <card number="2" price="0" name="Song of Blood"/>
+        <card number="1" price="0" name="Unerring Sling"/>
+    </zone>
+</cockatrice_deck>

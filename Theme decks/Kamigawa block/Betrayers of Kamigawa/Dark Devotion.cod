@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Mountain"/>
+        <card number="14" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Bile Urchin"/>
+        <card number="1" price="0" name="Blood Speaker"/>
+        <card number="1" price="0" name="Bloodthirsty Ogre"/>
+        <card number="1" price="0" name="Deathcurse Ogre"/>
+        <card number="2" price="0" name="Frost Ogre"/>
+        <card number="3" price="0" name="Hearth Kami"/>
+        <card number="1" price="0" name="Heartless Hidetsugu"/>
+        <card number="1" price="0" name="Initiate of Blood"/>
+        <card number="2" price="0" name="Painwracker Oni"/>
+        <card number="2" price="0" name="Scourge of Numai"/>
+        <card number="1" price="0" name="Shinka Gatekeeper"/>
+        <card number="1" price="0" name="Sokenzan Bruiser"/>
+        <card number="3" price="0" name="Takenuma Bleeder"/>
+        <card number="3" price="0" name="Villainous Ogre"/>
+        <card number="1" price="0" name="Yukora, the Prisoner"/>
+        <card number="1" price="0" name="Kumano's Blessing"/>
+        <card number="1" price="0" name="Mark of the Oni"/>
+        <card number="2" price="0" name="Oni Possession"/>
+        <card number="2" price="0" name="Call for Blood"/>
+        <card number="1" price="0" name="Overblaze"/>
+        <card number="2" price="0" name="Torrent of Stone"/>
+        <card number="2" price="0" name="Swallowing Plague"/>
+    </zone>
+</cockatrice_deck>

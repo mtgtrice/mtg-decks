@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="7" price="0" name="Mountain"/>
+        <card number="14" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Terramorphic Expanse"/>
+        <card number="2" price="0" name="Big Game Hunter"/>
+        <card number="2" price="0" name="Brain Gorgers"/>
+        <card number="1" price="0" name="Dauthi Slayer"/>
+        <card number="2" price="0" name="Gorgon Recluse"/>
+        <card number="1" price="0" name="Magus of the Arena"/>
+        <card number="4" price="0" name="Mindlash Sliver"/>
+        <card number="1" price="0" name="Mirri the Cursed"/>
+        <card number="2" price="0" name="Muck Drubb"/>
+        <card number="2" price="0" name="Nightshade Assassin"/>
+        <card number="2" price="0" name="Phantasmagorian"/>
+        <card number="2" price="0" name="Reckless Wurm"/>
+        <card number="1" price="0" name="Ridged Kusite"/>
+        <card number="3" price="0" name="Trespasser il-Vec"/>
+        <card number="3" price="0" name="Undertaker"/>
+        <card number="1" price="0" name="Dark Withering"/>
+        <card number="1" price="0" name="Fiery Temper"/>
+        <card number="1" price="0" name="Kor Dirge"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="1" price="0" name="Treacherous Urge"/>
+        <card number="1" price="0" name="Browbeat"/>
+        <card number="1" price="0" name="Disintegrate"/>
+    </zone>
+</cockatrice_deck>

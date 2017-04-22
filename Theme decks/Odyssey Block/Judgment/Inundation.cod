@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="20" price="0" name="Plains"/>
+        <card number="2" price="0" name="Aven Cloudchaser"/>
+        <card number="2" price="0" name="Beloved Chaplain"/>
+        <card number="3" price="0" name="Benevolent Bodyguard"/>
+        <card number="1" price="0" name="Commander Eesha"/>
+        <card number="1" price="0" name="Dedicated Martyr"/>
+        <card number="3" price="0" name="Militant Monk"/>
+        <card number="2" price="0" name="Mystic Penitent"/>
+        <card number="2" price="0" name="Nomad Decoy"/>
+        <card number="3" price="0" name="Patrol Hound"/>
+        <card number="1" price="0" name="Selfless Exorcist"/>
+        <card number="1" price="0" name="Shieldmage Advocate"/>
+        <card number="2" price="0" name="Spurnmage Advocate"/>
+        <card number="4" price="0" name="Suntail Hawk"/>
+        <card number="1" price="0" name="Tireless Tribe"/>
+        <card number="1" price="0" name="Valor"/>
+        <card number="1" price="0" name="Embolden"/>
+        <card number="3" price="0" name="Guided Strike"/>
+        <card number="1" price="0" name="Prismatic Strands"/>
+        <card number="2" price="0" name="Shelter"/>
+        <card number="2" price="0" name="Battle Screech"/>
+        <card number="2" price="0" name="Unquestioned Authority"/>
+    </zone>
+</cockatrice_deck>

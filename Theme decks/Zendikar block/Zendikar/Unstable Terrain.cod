@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Island"/>
+        <card number="7" price="0" name="Forest"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Coral Merfolk"/>
+        <card number="2" price="0" name="Sage Owl"/>
+        <card number="1" price="0" name="Frontier Guide"/>
+        <card number="1" price="0" name="Gomazoa"/>
+        <card number="1" price="0" name="Merfolk Wayfinder"/>
+        <card number="1" price="0" name="Grazing Gladehart"/>
+        <card number="1" price="0" name="Turntimber Basilisk"/>
+        <card number="2" price="0" name="Windrider Eel"/>
+        <card number="1" price="0" name="Living Tsunami"/>
+        <card number="1" price="0" name="Territorial Baloth"/>
+        <card number="1" price="0" name="Sphinx of Jwar Isle"/>
+        <card number="1" price="0" name="Baloth Woodcrasher"/>
+        <card number="1" price="0" name="Roil Elemental"/>
+        <card number="1" price="0" name="Giant Growth"/>
+        <card number="1" price="0" name="Unsummon"/>
+        <card number="1" price="0" name="Harrow"/>
+        <card number="2" price="0" name="Ior Ruin Expedition"/>
+        <card number="1" price="0" name="Mind Control"/>
+        <card number="2" price="0" name="Paralyzing Grasp"/>
+    </zone>
+</cockatrice_deck>

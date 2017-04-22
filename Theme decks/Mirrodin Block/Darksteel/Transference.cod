@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="21" price="0" name="Island"/>
+        <card number="2" price="0" name="Seat of the Synod"/>
+        <card number="2" price="0" name="Arcbound Bruiser"/>
+        <card number="2" price="0" name="Arcbound Crusher"/>
+        <card number="1" price="0" name="Arcbound Fiend"/>
+        <card number="2" price="0" name="Arcbound Hybrid"/>
+        <card number="1" price="0" name="Arcbound Lancer"/>
+        <card number="1" price="0" name="Arcbound Reclaimer"/>
+        <card number="2" price="0" name="Arcbound Stinger"/>
+        <card number="4" price="0" name="Arcbound Worker"/>
+        <card number="2" price="0" name="Cobalt Golem"/>
+        <card number="1" price="0" name="Dross Scorpion"/>
+        <card number="1" price="0" name="Juggernaut"/>
+        <card number="3" price="0" name="Neurok Familiar"/>
+        <card number="1" price="0" name="Neurok Transmuter"/>
+        <card number="2" price="0" name="Rust Elemental"/>
+        <card number="1" price="0" name="Spincrusher"/>
+        <card number="1" price="0" name="Spire Golem"/>
+        <card number="2" price="0" name="Vedalken Engineer"/>
+        <card number="1" price="0" name="Voltaic Construct"/>
+        <card number="2" price="0" name="Echoing Truth"/>
+        <card number="1" price="0" name="Reshape"/>
+        <card number="1" price="0" name="Dragon Blood"/>
+        <card number="2" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Ur-Golem's Eye"/>
+    </zone>
+</cockatrice_deck>

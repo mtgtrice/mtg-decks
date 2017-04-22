@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Azorius Guildgate"/>
+        <card number="1" price="0" name="Hallowed Fountain"/>
+        <card number="5" price="0" name="Island"/>
+        <card number="14" price="0" name="Plains"/>
+        <card number="2" price="0" name="Ascended Lawmage"/>
+        <card number="2" price="0" name="Banisher Priest"/>
+        <card number="3" price="0" name="Battlewise Hoplite"/>
+        <card number="3" price="0" name="Dryad Militant"/>
+        <card number="1" price="0" name="Fabled Hero"/>
+        <card number="1" price="0" name="Frontline Medic"/>
+        <card number="3" price="0" name="Hopeful Eidolon"/>
+        <card number="2" price="0" name="Imposing Sovereign"/>
+        <card number="1" price="0" name="Lavinia of the Tenth"/>
+        <card number="3" price="0" name="Lyev Skyknight"/>
+        <card number="1" price="0" name="New Prahv Guildmage"/>
+        <card number="1" price="0" name="Precinct Captain"/>
+        <card number="1" price="0" name="Skymark Roc"/>
+        <card number="1" price="0" name="Soldier of the Pantheon"/>
+        <card number="2" price="0" name="Dauntless Onslaught"/>
+        <card number="2" price="0" name="Detention Sphere"/>
+        <card number="2" price="0" name="Gods Willing"/>
+        <card number="1" price="0" name="Ordeal of Heliod"/>
+        <card number="2" price="0" name="Ordeal of Thassa"/>
+        <card number="2" price="0" name="Pacifism"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Arrest"/>
+        <card number="2" price="0" name="Gainsay"/>
+        <card number="2" price="0" name="Gift of Orzhova"/>
+        <card number="2" price="0" name="Glare of Heresy"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="3" price="0" name="Solemn Offering"/>
+        <card number="2" price="0" name="Triton Tactics"/>
+    </zone>
+</cockatrice_deck>

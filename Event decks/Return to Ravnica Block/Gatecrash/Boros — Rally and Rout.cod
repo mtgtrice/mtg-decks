@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Boros Guildgate"/>
+        <card number="1" price="0" name="Clifftop Retreat"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="10" price="0" name="Plains"/>
+        <card number="1" price="0" name="Slayers' Stronghold"/>
+        <card number="1" price="0" name="Ash Zealot"/>
+        <card number="4" price="0" name="Boros Elite"/>
+        <card number="1" price="0" name="Champion of the Parish"/>
+        <card number="4" price="0" name="Doomed Traveler"/>
+        <card number="2" price="0" name="Firefist Striker"/>
+        <card number="2" price="0" name="Lightning Mauler"/>
+        <card number="1" price="0" name="Silverblade Paladin"/>
+        <card number="3" price="0" name="Skyknight Legionnaire"/>
+        <card number="1" price="0" name="Spark Trooper"/>
+        <card number="2" price="0" name="Sunhome Guildmage"/>
+        <card number="1" price="0" name="Thalia, Guardian of Thraben"/>
+        <card number="2" price="0" name="Truefire Paladin"/>
+        <card number="2" price="0" name="Boros Charm"/>
+        <card number="4" price="0" name="Gather the Townsfolk"/>
+        <card number="4" price="0" name="Pillar of Flame"/>
+        <card number="3" price="0" name="Searing Spear"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Bonds of Faith"/>
+        <card number="3" price="0" name="Electrickery"/>
+        <card number="2" price="0" name="Oblivion Ring"/>
+        <card number="2" price="0" name="Skullcrack"/>
+        <card number="2" price="0" name="Thunderous Wrath"/>
+        <card number="3" price="0" name="War Priest of Thune"/>
+    </zone>
+</cockatrice_deck>

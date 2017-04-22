@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="6" price="0" name="Forest"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Aven Trailblazer"/>
+        <card number="1" price="0" name="Beacon Behemoth"/>
+        <card number="1" price="0" name="Ember Weaver"/>
+        <card number="1" price="0" name="Kranioceros"/>
+        <card number="2" price="0" name="Matca Rioters"/>
+        <card number="1" price="0" name="Meglonoth"/>
+        <card number="1" price="0" name="Paleoloth"/>
+        <card number="1" price="0" name="Vagrant Plowbeasts"/>
+        <card number="1" price="0" name="Wandering Goblins"/>
+        <card number="1" price="0" name="Woolly Thoctar"/>
+        <card number="1" price="0" name="Kaleidostone"/>
+        <card number="1" price="0" name="Manaforce Mace"/>
+        <card number="1" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Drag Down"/>
+        <card number="1" price="0" name="Might of Alara"/>
+        <card number="1" price="0" name="Path to Exile"/>
+        <card number="2" price="0" name="Sylvan Bounty"/>
+        <card number="2" price="0" name="Rampant Growth"/>
+        <card number="1" price="0" name="Shard Convergence"/>
+        <card number="2" price="0" name="Spore Burst"/>
+    </zone>
+</cockatrice_deck>

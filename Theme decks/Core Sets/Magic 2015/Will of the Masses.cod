@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Selfless Cathar"/>
+        <card number="1" price="0" name="Wall of Mulch"/>
+        <card number="2" price="0" name="Midnight Guard"/>
+        <card number="2" price="0" name="Siege Wurm"/>
+        <card number="1" price="0" name="Hornet Queen"/>
+        <card number="2" price="0" name="Living Totem"/>
+        <card number="2" price="0" name="Oreskos Swiftclaw"/>
+        <card number="1" price="0" name="Phytotitan"/>
+        <card number="2" price="0" name="Seraph of the Masses"/>
+        <card number="2" price="0" name="Sunblade Elf"/>
+        <card number="2" price="0" name="Will-Forged Golem"/>
+        <card number="1" price="0" name="Overwhelm"/>
+        <card number="2" price="0" name="Feral Incarnation"/>
+        <card number="1" price="0" name="Nissa's Expedition"/>
+        <card number="2" price="0" name="Triplicate Spirits"/>
+        <card number="1" price="0" name="Gather Courage"/>
+        <card number="1" price="0" name="Naturalize"/>
+        <card number="1" price="0" name="Titanic Growth"/>
+        <card number="3" price="0" name="Raise the Alarm"/>
+        <card number="2" price="0" name="Devouring Light"/>
+        <card number="1" price="0" name="Meditation Puzzle"/>
+        <card number="1" price="0" name="Sanctified Charge"/>
+        <card number="13" price="0" name="Forest"/>
+        <card number="12" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

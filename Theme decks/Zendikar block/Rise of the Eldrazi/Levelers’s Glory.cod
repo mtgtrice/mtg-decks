@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" price="0" name="Island"/>
+        <card number="10" price="0" name="Plains"/>
+        <card number="1" price="0" name="Affa Guard Hound"/>
+        <card number="1" price="0" name="Alluring Siren"/>
+        <card number="2" price="0" name="Caravan Escort"/>
+        <card number="1" price="0" name="Glory Seeker"/>
+        <card number="1" price="0" name="Hedron-Field Purists"/>
+        <card number="1" price="0" name="Lone Missionary"/>
+        <card number="2" price="0" name="Makindi Griffin"/>
+        <card number="1" price="0" name="Soulbound Guardians"/>
+        <card number="1" price="0" name="Student of Warfare"/>
+        <card number="1" price="0" name="Venerated Teacher"/>
+        <card number="1" price="0" name="Wall of Frost"/>
+        <card number="1" price="0" name="Angel's Mercy"/>
+        <card number="1" price="0" name="Fleeting Distraction"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="1" price="0" name="Unsummon"/>
+        <card number="1" price="0" name="See Beyond"/>
+        <card number="1" price="0" name="Sleep"/>
+        <card number="1" price="0" name="Domestication"/>
+        <card number="1" price="0" name="Luminous Wake"/>
+        <card number="2" price="0" name="Narcolepsy"/>
+    </zone>
+</cockatrice_deck>

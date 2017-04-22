@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Forest"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Golgari Guildgate"/>
+        <card number="1" price="0" name="Acidic Slime"/>
+        <card number="1" price="0" name="Corpsejack Menace"/>
+        <card number="2" price="0" name="Daggerdrome Imp"/>
+        <card number="1" price="0" name="Dreg Mangler"/>
+        <card number="2" price="0" name="Drudge Beetle"/>
+        <card number="1" price="0" name="Gobbling Ooze"/>
+        <card number="2" price="0" name="Golgari Longlegs"/>
+        <card number="1" price="0" name="Korozda Guildmage"/>
+        <card number="2" price="0" name="Korozda Monitor"/>
+        <card number="2" price="0" name="Slitherhead"/>
+        <card number="1" price="0" name="Sluiceway Scorpion"/>
+        <card number="1" price="0" name="Slum Reaper"/>
+        <card number="1" price="0" name="Stonefare Crocodile"/>
+        <card number="1" price="0" name="Terrus Wurm"/>
+        <card number="1" price="0" name="Veilborn Ghoul"/>
+        <card number="3" price="0" name="Walking Corpse"/>
+        <card number="1" price="0" name="Wild Beastmaster"/>
+        <card number="1" price="0" name="Disentomb"/>
+        <card number="1" price="0" name="Aerial Predation"/>
+        <card number="1" price="0" name="Grisly Salvage"/>
+        <card number="2" price="0" name="Launch Party"/>
+        <card number="1" price="0" name="Murder"/>
+        <card number="1" price="0" name="Serpent's Gift"/>
+        <card number="1" price="0" name="Rites of Reaping"/>
+        <card number="1" price="0" name="Treasured Find"/>
+        <card number="2" price="0" name="Golgari Keyrune"/>
+    </zone>
+</cockatrice_deck>

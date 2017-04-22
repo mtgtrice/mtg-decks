@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="1" price="0" name="Hinterland Harbor"/>
+        <card number="7" price="0" name="Island"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Acidic Slime"/>
+        <card number="4" price="0" name="Armored Skaab"/>
+        <card number="1" price="0" name="Birds of Paradise"/>
+        <card number="4" price="0" name="Boneyard Wurm"/>
+        <card number="4" price="0" name="Llanowar Elves"/>
+        <card number="2" price="0" name="Merfolk Looter"/>
+        <card number="1" price="0" name="Splinterfright"/>
+        <card number="3" price="0" name="Viridian Emissary"/>
+        <card number="2" price="0" name="Bonehoard"/>
+        <card number="1" price="0" name="Ratchet Bomb"/>
+        <card number="4" price="0" name="Forbidden Alchemy"/>
+        <card number="1" price="0" name="Gnaw to the Bone"/>
+        <card number="1" price="0" name="Green Sun's Zenith"/>
+        <card number="4" price="0" name="Mulch"/>
+        <card number="2" price="0" name="Spider Spawning"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Flashfreeze"/>
+        <card number="2" price="0" name="Gnaw to the Bone"/>
+        <card number="2" price="0" name="Mind Control"/>
+        <card number="3" price="0" name="Naturalize"/>
+        <card number="4" price="0" name="Negate"/>
+    </zone>
+</cockatrice_deck>

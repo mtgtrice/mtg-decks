@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Island"/>
+        <card number="2" price="0" name="Izzet Boilerworks"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Nivix, Aerie of the Firemind"/>
+        <card number="1" price="0" name="Gelectrode"/>
+        <card number="2" price="0" name="Izzet Chronarch"/>
+        <card number="1" price="0" name="Izzet Guildmage"/>
+        <card number="2" price="0" name="Petrahydrox"/>
+        <card number="1" price="0" name="Tibor and Lumia"/>
+        <card number="2" price="0" name="Wee Dragonauts"/>
+        <card number="1" price="0" name="Leyline of Lightning"/>
+        <card number="1" price="0" name="Mark of Eviction"/>
+        <card number="2" price="0" name="Convolute"/>
+        <card number="1" price="0" name="Electrolyze"/>
+        <card number="2" price="0" name="Frazzle"/>
+        <card number="2" price="0" name="Peel from Reality"/>
+        <card number="3" price="0" name="Pyromatics"/>
+        <card number="2" price="0" name="Repeal"/>
+        <card number="1" price="0" name="Reroute"/>
+        <card number="2" price="0" name="Runeboggle"/>
+        <card number="2" price="0" name="Telling Time"/>
+        <card number="2" price="0" name="Thunderheads"/>
+        <card number="1" price="0" name="Rain of Embers"/>
+        <card number="3" price="0" name="Train of Thought"/>
+        <card number="1" price="0" name="Vacuumelt"/>
+    </zone>
+</cockatrice_deck>

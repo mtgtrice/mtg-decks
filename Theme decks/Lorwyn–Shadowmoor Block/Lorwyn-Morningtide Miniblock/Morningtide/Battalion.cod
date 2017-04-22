@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="9" price="0" name="Island"/>
+        <card number="12" price="0" name="Plains"/>
+        <card number="1" price="0" name="Vivid Creek"/>
+        <card number="1" price="0" name="Vivid Meadow"/>
+        <card number="2" price="0" name="Ballyrush Banneret"/>
+        <card number="2" price="0" name="Burrenton Bombardier"/>
+        <card number="1" price="0" name="Burrenton Shield-Bearers"/>
+        <card number="3" price="0" name="Cenn's Tactician"/>
+        <card number="2" price="0" name="Fencer Clique"/>
+        <card number="2" price="0" name="Inkfathom Divers"/>
+        <card number="2" price="0" name="Kinsbaile Skirmisher"/>
+        <card number="3" price="0" name="Kithkin Zephyrnaut"/>
+        <card number="1" price="0" name="Mosquito Guard"/>
+        <card number="2" price="0" name="Mothdust Changeling"/>
+        <card number="1" price="0" name="Preeminent Captain"/>
+        <card number="1" price="0" name="Reveillark"/>
+        <card number="2" price="0" name="Sentinels of Glen Elendra"/>
+        <card number="1" price="0" name="Turtleshell Changeling"/>
+        <card number="1" price="0" name="Veteran of the Depths"/>
+        <card number="1" price="0" name="Disperse"/>
+        <card number="1" price="0" name="Ego Erasure"/>
+        <card number="1" price="0" name="Redeem the Lost"/>
+        <card number="2" price="0" name="Swell of Courage"/>
+        <card number="2" price="0" name="Oblivion Ring"/>
+        <card number="2" price="0" name="Veteran's Armaments"/>
+        <card number="1" price="0" name="Wanderer's Twig"/>
+        <card number="1" price="0" name="Weight of Conscience"/>
+    </zone>
+</cockatrice_deck>

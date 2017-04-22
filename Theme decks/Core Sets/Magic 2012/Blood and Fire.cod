@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" price="0" name="Mountain"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Blood Ogre"/>
+        <card number="2" price="0" name="Bloodrage Vampire"/>
+        <card number="2" price="0" name="Crumbling Colossus"/>
+        <card number="3" price="0" name="Duskhunter Bat"/>
+        <card number="1" price="0" name="Flameblast Dragon"/>
+        <card number="1" price="0" name="Goblin Arsonist"/>
+        <card number="1" price="0" name="Goblin Bangchuckers"/>
+        <card number="2" price="0" name="Goblin Fireslinger"/>
+        <card number="1" price="0" name="Goblin Tunneler"/>
+        <card number="2" price="0" name="Gorehorn Minotaurs"/>
+        <card number="1" price="0" name="Manic Vandal"/>
+        <card number="1" price="0" name="Onyx Mage"/>
+        <card number="2" price="0" name="Stormblood Berserker"/>
+        <card number="1" price="0" name="Tormented Soul"/>
+        <card number="2" price="0" name="Vampire Outcasts"/>
+        <card number="1" price="0" name="Volcanic Dragon"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Warstorm Surge"/>
+        <card number="1" price="0" name="Incinerate"/>
+        <card number="3" price="0" name="Shock"/>
+        <card number="1" price="0" name="Hideous Visage"/>
+        <card number="1" price="0" name="Taste of Blood"/>
+        <card number="2" price="0" name="Tectonic Rift"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" price="0" name="Island"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Coral Merfolk"/>
+        <card number="1" price="0" name="Echo Mage"/>
+        <card number="1" price="0" name="Enatu Golem"/>
+        <card number="1" price="0" name="Hada Spy Patrol"/>
+        <card number="1" price="0" name="Phantasmal Abomination"/>
+        <card number="1" price="0" name="Phantom Warrior"/>
+        <card number="1" price="0" name="Sea Gate Oracle"/>
+        <card number="2" price="0" name="Skywatcher Adept"/>
+        <card number="1" price="0" name="Snapping Drake"/>
+        <card number="1" price="0" name="Sphinx of Magosi"/>
+        <card number="1" price="0" name="Venerated Teacher"/>
+        <card number="1" price="0" name="Wall of Bone"/>
+        <card number="1" price="0" name="Zombie Goliath"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Fleeting Distraction"/>
+        <card number="2" price="0" name="Last Kiss"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="1" price="0" name="Unsummon"/>
+        <card number="1" price="0" name="See Beyond"/>
+        <card number="1" price="0" name="Domestication"/>
+        <card number="1" price="0" name="Telepathy"/>
+    </zone>
+</cockatrice_deck>

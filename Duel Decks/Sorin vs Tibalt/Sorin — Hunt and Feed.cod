@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="9" price="0" name="Plains"/>
+        <card number="12" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Tainted Field"/>
+        <card number="1" price="0" name="Bloodrage Vampire"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="1" price="0" name="Child of Night"/>
+        <card number="2" price="0" name="Doomed Traveler"/>
+        <card number="2" price="0" name="Duskhunter Bat"/>
+        <card number="1" price="0" name="Fiend Hunter"/>
+        <card number="1" price="0" name="Gatekeeper of Malakir"/>
+        <card number="1" price="0" name="Mausoleum Guard"/>
+        <card number="1" price="0" name="Mesmeric Fiend"/>
+        <card number="1" price="0" name="Phantom General"/>
+        <card number="1" price="0" name="Revenant Patriarch"/>
+        <card number="1" price="0" name="Sengir Vampire"/>
+        <card number="1" price="0" name="Twilight Drover"/>
+        <card number="1" price="0" name="Vampire Lacerator"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Vampire Outcasts"/>
+        <card number="1" price="0" name="Wall of Omens"/>
+        <card number="1" price="0" name="Mortify"/>
+        <card number="1" price="0" name="Sorin's Thirst"/>
+        <card number="1" price="0" name="Unmake"/>
+        <card number="1" price="0" name="Urge to Feed"/>
+        <card number="1" price="0" name="Vampire's Bite"/>
+        <card number="1" price="0" name="Zealous Persecution"/>
+        <card number="1" price="0" name="Absorb Vis"/>
+        <card number="1" price="0" name="Ancient Craving"/>
+        <card number="1" price="0" name="Death Grasp"/>
+        <card number="1" price="0" name="Decompose"/>
+        <card number="1" price="0" name="Lingering Souls"/>
+        <card number="2" price="0" name="Spectral Procession"/>
+        <card number="1" price="0" name="Field of Souls"/>
+        <card number="1" price="0" name="Mark of the Vampire"/>
+        <card number="1" price="0" name="Sorin, Lord of Innistrad"/>
+    </zone>
+</cockatrice_deck>

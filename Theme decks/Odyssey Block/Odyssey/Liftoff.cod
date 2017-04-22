@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="9" price="0" name="Island"/>
+        <card number="10" price="0" name="Plains"/>
+        <card number="1" price="0" name="Abandoned Outpost"/>
+        <card number="1" price="0" name="Seafloor Debris"/>
+        <card number="1" price="0" name="Angelic Wall"/>
+        <card number="2" price="0" name="Aven Windreader"/>
+        <card number="1" price="0" name="Beloved Chaplain"/>
+        <card number="2" price="0" name="Blessed Orator"/>
+        <card number="2" price="0" name="Cephalid Broker"/>
+        <card number="2" price="0" name="Cephalid Looter"/>
+        <card number="1" price="0" name="Cephalid Retainer"/>
+        <card number="2" price="0" name="Cephalid Scout"/>
+        <card number="2" price="0" name="Hallowed Healer"/>
+        <card number="2" price="0" name="Millikin"/>
+        <card number="1" price="0" name="Mystic Crusader"/>
+        <card number="1" price="0" name="Mystic Penitent"/>
+        <card number="2" price="0" name="Mystic Visionary"/>
+        <card number="3" price="0" name="Mystic Zealot"/>
+        <card number="1" price="0" name="Nomad Decoy"/>
+        <card number="1" price="0" name="Pilgrim of Justice"/>
+        <card number="1" price="0" name="Puppeteer"/>
+        <card number="1" price="0" name="Embolden"/>
+        <card number="1" price="0" name="Peek"/>
+        <card number="1" price="0" name="Second Thoughts"/>
+        <card number="1" price="0" name="Shelter"/>
+        <card number="2" price="0" name="Syncopate"/>
+        <card number="3" price="0" name="Kirtar's Desire"/>
+        <card number="2" price="0" name="Think Tank"/>
+        <card number="1" price="0" name="Skycloud Egg"/>
+    </zone>
+</cockatrice_deck>

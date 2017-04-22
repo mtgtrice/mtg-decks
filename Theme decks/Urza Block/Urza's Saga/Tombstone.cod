@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Somnophore"/>
+        <card number="1" price="0" name="Abyssal Horror"/>
+        <card number="1" price="0" name="Stern Proctor"/>
+        <card number="3" price="0" name="Sandbar Serpent"/>
+        <card number="2" price="0" name="Humble"/>
+        <card number="1" price="0" name="Turnabout"/>
+        <card number="1" price="0" name="Confiscate"/>
+        <card number="2" price="0" name="Victimize"/>
+        <card number="3" price="0" name="Diabolic Servitude"/>
+        <card number="2" price="0" name="Drifting Meadow"/>
+        <card number="2" price="0" name="Polluted Mire"/>
+        <card number="2" price="0" name="Remote Isle"/>
+        <card number="1" price="0" name="Sandbar Merfolk"/>
+        <card number="1" price="0" name="Wizard Mentor"/>
+        <card number="3" price="0" name="Pendrell Drake"/>
+        <card number="1" price="0" name="Phyrexian Ghoul"/>
+        <card number="3" price="0" name="Disenchant"/>
+        <card number="2" price="0" name="Power Sink"/>
+        <card number="2" price="0" name="Catalog"/>
+        <card number="1" price="0" name="Rescind"/>
+        <card number="1" price="0" name="Sicken"/>
+        <card number="1" price="0" name="Despondency"/>
+        <card number="1" price="0" name="Exhume"/>
+        <card number="1" price="0" name="Expunge"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="9" price="0" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="14" price="0" name="Forest"/>
+        <card number="6" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Barren Moor"/>
+        <card number="2" price="0" name="Temple of the False God"/>
+        <card number="2" price="0" name="Tranquil Thicket"/>
+        <card number="2" price="0" name="Elvish Aberration"/>
+        <card number="3" price="0" name="Fierce Empath"/>
+        <card number="1" price="0" name="Gluttonous Zombie"/>
+        <card number="3" price="0" name="Krosan Drover"/>
+        <card number="2" price="0" name="Kurgadon"/>
+        <card number="1" price="0" name="Root Elemental"/>
+        <card number="2" price="0" name="Spitting Gourna"/>
+        <card number="2" price="0" name="Symbiotic Beast"/>
+        <card number="2" price="0" name="Titanic Bulvox"/>
+        <card number="1" price="0" name="Treespring Lorian"/>
+        <card number="1" price="0" name="Venomspout Brackus"/>
+        <card number="2" price="0" name="Wirewood Guardian"/>
+        <card number="3" price="0" name="Accelerated Mutation"/>
+        <card number="2" price="0" name="Chill Haunting"/>
+        <card number="1" price="0" name="Smother"/>
+        <card number="2" price="0" name="Sprouting Vines"/>
+        <card number="1" price="0" name="Final Punishment"/>
+        <card number="2" price="0" name="Dragon Fangs"/>
+        <card number="1" price="0" name="Dragon Shadow"/>
+    </zone>
+</cockatrice_deck>

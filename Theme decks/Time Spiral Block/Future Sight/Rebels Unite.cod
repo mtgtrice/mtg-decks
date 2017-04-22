@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" price="0" name="Plains"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Terramorphic Expanse"/>
+        <card number="3" price="0" name="Amrou Seekers"/>
+        <card number="1" price="0" name="Amrou Scout"/>
+        <card number="1" price="0" name="Angel of Salvation"/>
+        <card number="1" price="0" name="Aven Riftwatcher"/>
+        <card number="1" price="0" name="Big Game Hunter"/>
+        <card number="3" price="0" name="Blade of the Sixth Pride"/>
+        <card number="1" price="0" name="Blightspeaker"/>
+        <card number="1" price="0" name="Defiant Vanguard"/>
+        <card number="2" price="0" name="Errant Doomsayers"/>
+        <card number="1" price="0" name="Knight of the Holy Nimbus"/>
+        <card number="1" price="0" name="Magus of the Abyss"/>
+        <card number="2" price="0" name="Outrider en-Kor"/>
+        <card number="2" price="0" name="Putrid Cyclops"/>
+        <card number="2" price="0" name="Ramosian Revivalist"/>
+        <card number="1" price="0" name="Riftmarked Knight"/>
+        <card number="2" price="0" name="Samite Censer-Bearer"/>
+        <card number="1" price="0" name="Zealot il-Vec"/>
+        <card number="2" price="0" name="Bound in Silence"/>
+        <card number="3" price="0" name="Lumithread Field"/>
+        <card number="1" price="0" name="Witch's Mist"/>
+        <card number="2" price="0" name="Dawn Charm"/>
+        <card number="2" price="0" name="Return to Dust"/>
+    </zone>
+</cockatrice_deck>

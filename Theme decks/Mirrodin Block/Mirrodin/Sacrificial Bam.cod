@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" price="0" name="Mountain"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Great Furnace"/>
+        <card number="4" price="0" name="Vault of Whispers"/>
+        <card number="2" price="0" name="Atog"/>
+        <card number="2" price="0" name="Cathodion"/>
+        <card number="3" price="0" name="Disciple of the Vault"/>
+        <card number="1" price="0" name="Dross Scorpion"/>
+        <card number="3" price="0" name="Goblin Replica"/>
+        <card number="2" price="0" name="Iron Myr"/>
+        <card number="2" price="0" name="Krark-Clan Grunt"/>
+        <card number="2" price="0" name="Leaden Myr"/>
+        <card number="1" price="0" name="Megatog"/>
+        <card number="2" price="0" name="Myr Retriever"/>
+        <card number="3" price="0" name="Nim Replica"/>
+        <card number="1" price="0" name="Pentavus"/>
+        <card number="2" price="0" name="Rust Elemental"/>
+        <card number="2" price="0" name="Irradiate"/>
+        <card number="1" price="0" name="Shrapnel Blast"/>
+        <card number="2" price="0" name="Necrogen Spellbomb"/>
+        <card number="1" price="0" name="Nuisance Engine"/>
+        <card number="2" price="0" name="Pyrite Spellbomb"/>
+        <card number="1" price="0" name="Skeleton Shard"/>
+        <card number="2" price="0" name="Talisman of Indulgence"/>
+    </zone>
+</cockatrice_deck>

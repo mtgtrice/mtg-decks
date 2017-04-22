@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Haunted Fengraf"/>
+        <card number="2" price="0" name="Inkmoth Nexus"/>
+        <card number="17" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Forge Devil"/>
+        <card number="4" price="0" name="Goblin Arsonist"/>
+        <card number="4" price="0" name="Goblin Fireslinger"/>
+        <card number="4" price="0" name="Goblin Gaveleer"/>
+        <card number="1" price="0" name="Hellrider"/>
+        <card number="3" price="0" name="Torch Fiend"/>
+        <card number="4" price="0" name="Artillerize"/>
+        <card number="4" price="0" name="Brimstone Volley"/>
+        <card number="2" price="0" name="Faithless Looting"/>
+        <card number="4" price="0" name="Goblin Grenade"/>
+        <card number="3" price="0" name="Infiltration Lens"/>
+        <card number="1" price="0" name="Curse of Stalked Prey"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Act of Treason"/>
+        <card number="4" price="0" name="Arc Trail"/>
+        <card number="1" price="0" name="Dismember"/>
+        <card number="2" price="0" name="Gut Shot"/>
+        <card number="3" price="0" name="Into the Core"/>
+        <card number="3" price="0" name="Torpor Orb"/>
+    </zone>
+</cockatrice_deck>

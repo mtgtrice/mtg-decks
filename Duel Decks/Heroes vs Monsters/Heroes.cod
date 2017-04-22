@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Boros Guildgate"/>
+        <card number="11" price="0" name="Mountain"/>
+        <card number="2" price="0" name="New Benalia"/>
+        <card number="9" price="0" name="Plains"/>
+        <card number="1" price="0" name="Anax and Cymede"/>
+        <card number="2" price="0" name="Armory Guard"/>
+        <card number="1" price="0" name="Auramancer"/>
+        <card number="1" price="0" name="Cavalry Pegasus"/>
+        <card number="1" price="0" name="Dawnstrike Paladin"/>
+        <card number="1" price="0" name="Fencing Ace"/>
+        <card number="1" price="0" name="Figure of Destiny"/>
+        <card number="2" price="0" name="Freewind Equenaut"/>
+        <card number="1" price="0" name="Gustcloak Sentinel"/>
+        <card number="1" price="0" name="Kamahl, Pit Fighter"/>
+        <card number="1" price="0" name="Nobilis of War"/>
+        <card number="1" price="0" name="Somberwald Vigilante"/>
+        <card number="2" price="0" name="Stun Sniper"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Thraben Valiant"/>
+        <card number="1" price="0" name="Truefire Paladin"/>
+        <card number="1" price="0" name="Battle Mastery"/>
+        <card number="1" price="0" name="Bonds of Faith"/>
+        <card number="2" price="0" name="Condemn"/>
+        <card number="1" price="0" name="Daily Regimen"/>
+        <card number="1" price="0" name="Griffin Guide"/>
+        <card number="1" price="0" name="Magma Jet"/>
+        <card number="1" price="0" name="Miraculous Recovery"/>
+        <card number="1" price="0" name="Moment of Heroism"/>
+        <card number="1" price="0" name="Ordeal of Purphoros"/>
+        <card number="1" price="0" name="Pay No Heed"/>
+        <card number="1" price="0" name="Pyrokinesis"/>
+        <card number="1" price="0" name="Righteousness"/>
+        <card number="1" price="0" name="Smite the Monstrous"/>
+        <card number="1" price="0" name="Stand Firm"/>
+        <card number="1" price="0" name="Undying Rage"/>
+        <card number="1" price="0" name="Winds of Rath"/>
+    </zone>
+</cockatrice_deck>

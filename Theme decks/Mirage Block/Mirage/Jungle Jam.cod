@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Grasslands"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Mountain Valley"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="10" price="0" name="Plains"/>
+        <card number="1" price="0" name="Benevolent Unicorn"/>
+        <card number="2" price="0" name="Ekundu Griffin"/>
+        <card number="2" price="0" name="Foratog"/>
+        <card number="3" price="0" name="Gibbering Hyenas"/>
+        <card number="3" price="0" name="Jolrael's Centaur"/>
+        <card number="2" price="0" name="Mtenda Griffin"/>
+        <card number="2" price="0" name="Nettletooth Djinn"/>
+        <card number="3" price="0" name="Quirion Elves"/>
+        <card number="1" price="0" name="Sawback Manticore"/>
+        <card number="2" price="0" name="Teremko Griffin"/>
+        <card number="2" price="0" name="Unyaro Griffin"/>
+        <card number="1" price="0" name="Zuberi, Golden Feather"/>
+        <card number="2" price="0" name="Armor of Thorns"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Ritual of Steel"/>
+        <card number="1" price="0" name="Afterlife"/>
+        <card number="1" price="0" name="Disenchant"/>
+        <card number="1" price="0" name="Ivory Charm"/>
+        <card number="1" price="0" name="Vitalizing Cascade"/>
+        <card number="1" price="0" name="Worldly Tutor"/>
+        <card number="3" price="0" name="Rampant Growth"/>
+    </zone>
+</cockatrice_deck>

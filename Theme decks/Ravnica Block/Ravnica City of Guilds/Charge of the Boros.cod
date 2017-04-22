@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Boros Garrison"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="10" price="0" name="Plains"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" price="0" name="Agrus Kos, Wojek Veteran"/>
+        <card number="1" price="0" name="Boros Guildmage"/>
+        <card number="3" price="0" name="Boros Recruit"/>
+        <card number="2" price="0" name="Boros Swiftblade"/>
+        <card number="2" price="0" name="Flame-Kin Zealot"/>
+        <card number="1" price="0" name="Greater Forgeling"/>
+        <card number="2" price="0" name="Nightguard Patrol"/>
+        <card number="2" price="0" name="Ordruun Commando"/>
+        <card number="1" price="0" name="Screeching Griffin"/>
+        <card number="3" price="0" name="Skyknight Legionnaire"/>
+        <card number="3" price="0" name="Thundersong Trumpeter"/>
+        <card number="2" price="0" name="Viashino Slasher"/>
+        <card number="2" price="0" name="War-Torch Goblin"/>
+        <card number="1" price="0" name="Bathe in Light"/>
+        <card number="2" price="0" name="Cleansing Beam"/>
+        <card number="2" price="0" name="Dogpile"/>
+        <card number="2" price="0" name="Rally the Righteous"/>
+        <card number="2" price="0" name="Lightning Helix"/>
+        <card number="1" price="0" name="Cyclopean Snare"/>
+        <card number="1" price="0" name="Sunforger"/>
+        <card number="1" price="0" name="Terrarion"/>
+    </zone>
+</cockatrice_deck>

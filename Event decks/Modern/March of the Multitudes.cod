@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Caves of Koilos"/>
+        <card number="2" price="0" name="City of Brass"/>
+        <card number="4" price="0" name="Isolated Chapel"/>
+        <card number="5" price="0" name="Plains"/>
+        <card number="4" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="4" price="0" name="Windbrisk Heights"/>
+        <card number="1" price="0" name="Elspeth, Knight-Errant"/>
+        <card number="2" price="0" name="Soul Warden"/>
+        <card number="3" price="0" name="Tidehollow Sculler"/>
+        <card number="3" price="0" name="Honor of the Pure"/>
+        <card number="2" price="0" name="Inquisition of Kozilek"/>
+        <card number="4" price="0" name="Intangible Virtue"/>
+        <card number="4" price="0" name="Lingering Souls"/>
+        <card number="3" price="0" name="Path to Exile"/>
+        <card number="4" price="0" name="Raise the Alarm"/>
+        <card number="2" price="0" name="Shrine of Loyal Legions"/>
+        <card number="4" price="0" name="Spectral Procession"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="3" price="0" name="Zealous Persecution"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Burrenton Forge-Tender"/>
+        <card number="2" price="0" name="Dismember"/>
+        <card number="3" price="0" name="Duress"/>
+        <card number="2" price="0" name="Ghost Quarter"/>
+        <card number="3" price="0" name="Kataki, War's Wage"/>
+        <card number="3" price="0" name="Relic of Progenitus"/>
+    </zone>
+</cockatrice_deck>

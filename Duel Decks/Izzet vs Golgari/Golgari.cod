@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" price="0" name="Forest"/>
+        <card number="10" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Dakmor Salvage"/>
+        <card number="2" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Svogthos, the Restless Tomb"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Boneyard Wurm"/>
+        <card number="1" price="0" name="Brain Weevil"/>
+        <card number="1" price="0" name="Doomgape"/>
+        <card number="1" price="0" name="Dreg Mangler"/>
+        <card number="2" price="0" name="Elves of Deep Shadow"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Gleancrawler"/>
+        <card number="1" price="0" name="Golgari Grave-Troll"/>
+        <card number="2" price="0" name="Golgari Rotwurm"/>
+        <card number="1" price="0" name="Golgari Thug"/>
+        <card number="1" price="0" name="Greater Mossdog"/>
+        <card number="1" price="0" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" price="0" name="Korozda Guildmage"/>
+        <card number="1" price="0" name="Plagued Rusalka"/>
+        <card number="1" price="0" name="Putrid Leech"/>
+        <card number="1" price="0" name="Ravenous Rats"/>
+        <card number="1" price="0" name="Reassembling Skeleton"/>
+        <card number="1" price="0" name="Sadistic Hypnotist"/>
+        <card number="1" price="0" name="Shambling Shell"/>
+        <card number="1" price="0" name="Stingerfling Spider"/>
+        <card number="1" price="0" name="Stinkweed Imp"/>
+        <card number="1" price="0" name="Feast or Famine"/>
+        <card number="1" price="0" name="Ghoul's Feast"/>
+        <card number="2" price="0" name="Putrefy"/>
+        <card number="1" price="0" name="Grim Flowering"/>
+        <card number="1" price="0" name="Life // Death"/>
+        <card number="1" price="0" name="Life from the Loam"/>
+        <card number="1" price="0" name="Nightmare Void"/>
+        <card number="1" price="0" name="Twilight's Call"/>
+        <card number="1" price="0" name="Vigor Mortis"/>
+        <card number="1" price="0" name="Golgari Germination"/>
+        <card number="1" price="0" name="Yoke of the Damned"/>
+        <card number="1" price="0" name="Golgari Signet"/>
+    </zone>
+</cockatrice_deck>

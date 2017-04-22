@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Forest"/>
+        <card number="12" price="0" name="Plains"/>
+        <card number="1" price="0" name="Anthousa, Setessan Hero"/>
+        <card number="2" price="0" name="Centaur Battlemaster"/>
+        <card number="2" price="0" name="Chronicler of Heroes"/>
+        <card number="2" price="0" name="Deadly Recluse"/>
+        <card number="2" price="0" name="Elvish Mystic"/>
+        <card number="1" price="0" name="Favored Hoplite"/>
+        <card number="1" price="0" name="Phalanx Leader"/>
+        <card number="1" price="0" name="Pheres-Band Centaurs"/>
+        <card number="2" price="0" name="Rumbling Baloth"/>
+        <card number="1" price="0" name="Setessan Battle Priest"/>
+        <card number="1" price="0" name="Setessan Griffin"/>
+        <card number="2" price="0" name="Staunch-Hearted Warrior"/>
+        <card number="2" price="0" name="Wingsteed Rider"/>
+        <card number="1" price="0" name="Artisan's Sorrow"/>
+        <card number="2" price="0" name="Battlewise Valor"/>
+        <card number="2" price="0" name="Dauntless Onslaught"/>
+        <card number="2" price="0" name="Giant Growth"/>
+        <card number="2" price="0" name="Warriors' Lesson"/>
+        <card number="2" price="0" name="Time to Feed"/>
+        <card number="1" price="0" name="Vanquish the Foul"/>
+        <card number="2" price="0" name="Pacifism"/>
+        <card number="1" price="0" name="Bow of Nylea"/>
+    </zone>
+</cockatrice_deck>
