@@ -1,17 +1,28 @@
-## Preconstructed Magic: The Gathering decks for use in Cockatrice
+## Preconstructed Magic: The Gathering decks
 
-Work is based on link posted in this reddit thread:
-<https://www.reddit.com/r/Cockatrice/comments/2vg0px/preconstructed_decks_anyone_interested/>
+These files will work in [Cockatrice][cockatrice] and probably other programs too.
 
-Originally retrieved 2016-12-09
+This collection lives at <https://github.com/mtgtrice/mtg-decks>. Contributions
+welcome!
 
-### See also
+**The most up-to-date [download is available here][master].**
 
-The Intro Packs page for any given block should get you `.dec` files for any theme deck in the block.
+### Sources
+
+- `.cod` files are from [this reddit thread][asthner-decks], retrieved 2016-12-09
+- `.dec` files are from [the Magic: The Gathering Wiki][mtg-wiki]
+
+The Intro Packs page for any given block on the wiki should get you `.dec` files
+for any theme deck in the block.
 
 Example: <http://mtg.gamepedia.com/Khans_of_Tarkir/Intro_packs>
 
-<https://www.reddit.com/r/Cockatrice/comments/2ny_decks_i_can_download/>
+### See Also
 
-> http://tappedout.net/mtg-deck-builder/
-> Download the decks as .dec and you can load them straight into cockatrice.
+Lots of decks for download at the [tappedout deck builder][tappedout]!
+
+[cockatrice]: https://cockatrice.github.io/
+[master]: https://github.com/mtgtrice/mtg-decks/archive/master.zip
+[mtg-wiki]: http://mtg.gamepedia.com/Main_Page
+[asthner-decks]: https://www.reddit.com/r/Cockatrice/comments/2vg0px/preconstructed_decks_anyone_interested/
+[tappedout]: http://tappedout.net/mtg-deck-builder/
