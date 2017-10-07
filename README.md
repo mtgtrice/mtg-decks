@@ -21,8 +21,12 @@ Example: <http://mtg.gamepedia.com/Khans_of_Tarkir/Intro_packs>
 
 Lots of decks for download at the [tappedout deck builder][tappedout]!
 
+[Another project][coddecks] [by Asthner][asthner-2017], who made the original thread this project was based on.
+
 [cockatrice]: https://cockatrice.github.io/
 [master]: https://github.com/mtgtrice/mtg-decks/archive/master.zip
 [mtg-wiki]: http://mtg.gamepedia.com/Main_Page
 [asthner-decks]: https://www.reddit.com/r/Cockatrice/comments/2vg0px/preconstructed_decks_anyone_interested/
 [tappedout]: http://tappedout.net/mtg-deck-builder/
+[coddecks]: https://github.com/Asthner/MtG-Preconstructed-decks-in-the-.cod-format
+[asthner-2017]: https://www.reddit.com/r/Cockatrice/comments/6p39bi/preconstructed_decks_collection_almost_full/
